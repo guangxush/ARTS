@@ -34,4 +34,4 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 ## ARTS
 
-[MySelf](.guangxu/README.md)
+[MySelf](./guangxu/README.md)
