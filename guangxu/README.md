@@ -6,4 +6,4 @@
 | [20200810](./20200810.md) | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |  | List遍历删除(一) | 业务程序员如何提升 |
 | [20200811](./20200811.md) | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |  | List遍历删除(二) | 价值观 |
 | [20200812](./20200812.md) | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
- |  |  |  |
+ | [20200813](./20200813.md) | [330. Patching Array](https://leetcode.com/problems/patching-array/)
