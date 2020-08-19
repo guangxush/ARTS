@@ -12,4 +12,4 @@
 | [20200816](./20200816.md) |[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)||三次握手四次挥手(下)|[SpringBoot_Dubbo](https://github.com/guangxush/SpringBoot_Dubbo)|
 | [20200817](./20200817.md) |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|||什么是结构化思维|
 | [20200818](./20200818.md) |[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)||||
-| [20200819](./20200819.md) |[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)||||
+| [20200819](./20200819.md) |[268. Missing Number](https://leetcode.com/problems/missing-number/)||||
