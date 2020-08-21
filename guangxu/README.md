@@ -13,3 +13,5 @@
 | [20200817](./20200817.md) |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|||什么是结构化思维|
 | [20200818](./20200818.md) |[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)||||
 | [20200819](./20200819.md) |[268. Missing Number](https://leetcode.com/problems/missing-number/)||||
+| [20200820](./20200820.md) |[剑指offer-剪绳子](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=13&&tqId=33257&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)||||
+| [20200821](./20200821.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)||||
