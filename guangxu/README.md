@@ -23,4 +23,4 @@
 | [20200827](./202008/20200827.md) | [剑指offer-旋转数组中的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200828](./202008/20200828.md) | [剑指offer-斐波那契数列](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200829](./202008/20200829.md) | [剑指offer-跳台阶](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=13&&tqId=11161&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)||||
-| [20200830](./202008/20200830.md) | [剑指offer-变态跳台阶](https://www.nowcoder.com/practice/22243d016f6b47f2a6928b4313c85387?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200830](./202008/20200830.md) | [剑指offer-变态跳台阶](https://www.nowcoder.com/practice/22243d016f6b47f2a6928b4313c85387?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|||🎂Happy Birthday!🎂|
