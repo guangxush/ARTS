@@ -26,3 +26,4 @@
 | [20200830](./202008/20200830.md) | [剑指offer-变态跳台阶](https://www.nowcoder.com/practice/22243d016f6b47f2a6928b4313c85387?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|||🎂Happy Birthday!🎂|
 | [20200831](./202008/20200831.md) | [剑指offer-矩形覆盖](https://www.nowcoder.com/practice/72a5a919508a4251859fb2cfb987a0e6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200901](./202009/20200901.md) | [剑指offer-二进制中1的个数](https://www.nowcoder.com/practice/8ee967e43c2c4ec193b040ea7fbb10b8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200902](./202009/20200902.md) | [剑指offer-数值的整数次方](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
