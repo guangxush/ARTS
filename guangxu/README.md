@@ -27,3 +27,8 @@
 | [20200831](./202008/20200831.md) | [剑指offer-矩形覆盖](https://www.nowcoder.com/practice/72a5a919508a4251859fb2cfb987a0e6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200901](./202009/20200901.md) | [剑指offer-二进制中1的个数](https://www.nowcoder.com/practice/8ee967e43c2c4ec193b040ea7fbb10b8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200902](./202009/20200902.md) | [剑指offer-数值的整数次方](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200903](./202009/20200903.md) | [剑指Offer-调整数组顺序使奇数位于偶数前面](https://www.nowcoder.com/practice/beb5aa231adc45b2a5dcc5b62c93f593?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200904](./202009/20200904.md) | [剑指offer-链表中倒数第k个节点](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200905](./202009/20200905.md) |[反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200906](./202009/20200906.md) |[剑指offer-合并两个排序的列表](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200907](./202009/20200907.md) |[剑指offer-树的子结构](https://www.nowcoder.com/practice/6e196c44c7004d15b1610b9afca8bd88?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
