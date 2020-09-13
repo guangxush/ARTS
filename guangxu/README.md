@@ -32,3 +32,9 @@
 | [20200905](./202009/20200905.md) |[反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200906](./202009/20200906.md) |[剑指offer-合并两个排序的列表](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200907](./202009/20200907.md) |[剑指offer-树的子结构](https://www.nowcoder.com/practice/6e196c44c7004d15b1610b9afca8bd88?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200908](./202009/20200908.md) |[剑指offer-二叉树的镜像](https://www.nowcoder.com/practice/564f4c26aa584921bc75623e48ca3011?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200909](./202009/20200909.md) |[剑指offer-顺时针打印矩阵](https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200910](./202009/20200910.md) |[剑指offer-包含min函数的栈](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200911](./202009/20200911.md) |[剑指offer-栈的压入弹出序列](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200912](./202009/20200912.md) |[剑指offer-从上往下打印二叉树](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200913](./202009/20200913.md) |[剑指offer-二叉树的后续遍历](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
