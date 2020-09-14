@@ -38,3 +38,4 @@
 | [20200911](./202009/20200911.md) |[剑指offer-栈的压入弹出序列](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200912](./202009/20200912.md) |[剑指offer-从上往下打印二叉树](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200913](./202009/20200913.md) |[剑指offer-二叉树的后续遍历](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200914](./202009/20200914.md) |[剑指offer-二叉树中和为某一路径的值](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
