@@ -40,3 +40,5 @@
 | [20200913](./202009/20200913.md) |[剑指offer-二叉树的后续遍历](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200914](./202009/20200914.md) |[剑指offer-二叉树中和为某一路径的值](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200915](./202009/20200915.md) |[剑指offer-复杂链表的复制](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200916](./202009/20200916.md) |[剑指offer-二叉搜索树与双向链表](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200917](./202009/20200917.md) |[剑指offer-字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
