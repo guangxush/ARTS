@@ -44,3 +44,4 @@
 | [20200917](./202009/20200917.md) |[剑指offer-字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200918](./202009/20200918.md) |[剑指offer-数组中超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200919](./202009/20200919.md) |[剑指offer-最小的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200920](./202009/20200920.md) |[剑指offer-连续子数组的最大和](https://www.nowcoder.com/practice/459bd355da1549fa8a49e350bf3df484?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|||什么是蓝绿发布？|
