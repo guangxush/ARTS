@@ -46,3 +46,4 @@
 | [20200919](./202009/20200919.md) |[剑指offer-最小的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200920](./202009/20200920.md) |[剑指offer-连续子数组的最大和](https://www.nowcoder.com/practice/459bd355da1549fa8a49e350bf3df484?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|||什么是蓝绿发布？|
 | [20200921](./202009/20200921.md) |[剑指offer-数组中1出现的次数](https://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200922](./202009/20200922.md) |[剑指offer-把数组排成最小的数](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
