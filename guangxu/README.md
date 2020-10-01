@@ -50,3 +50,6 @@
 | [20200923](./202009/20200923.md) |[剑指offer-丑数](https://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200924](./202009/20200924.md) |[剑指offer-第一个只出现一次的字符](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200925](./202009/20200925.md) |[剑指offer-数组中的逆序对](https://www.nowcoder.com/practice/96bd6684e04a44eb80e6a68efc0ec6c5?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200926](./202009/20200926.md) |[剑指offer-两个链表的第一个公共节点](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20200927](./202009/20200927.md) |[剑指offer-数字在升序数组中出现的次数](https://www.nowcoder.com/practice/70610bf967994b22bb1c26f9ae901fa2?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201001](./202010/20201001.md) ||||国庆快乐，中秋快乐，希望有生之年财务自由，陪陪家人，中秋不加班|
