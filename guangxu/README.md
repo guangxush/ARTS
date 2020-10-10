@@ -55,4 +55,5 @@
 | [20200928](./202009/20200928.md) |[剑指offer-二叉树的深度](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200929](./202009/20200929.md) |[剑指offer-平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20200930](./202009/20200930.md) |[剑指offer-数组中只出现一次的数字](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
-| [20201001](./202010/20201001.md) ||||国庆快乐，中秋快乐，希望有生之年财务自由，陪陪家人，中秋不加班|
+| [20201001](./202010/20201001.md) |[剑指offer-和为S的连续正数序列](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|||国庆快乐，中秋快乐，希望有生之年财务自由，陪陪家人，中秋不加班|
+| [20201002](./202010/20201002.md) |[剑指offer-和为S的两个数字](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
