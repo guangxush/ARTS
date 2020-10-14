@@ -1,6 +1,8 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
 | [20201010](./202010/20201010.md) |[剑指offer-反转单词顺序](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201005](./202010/20201005.md) |[剑指offer-孩子们的游戏-圆圈中剩下的数字](https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201004](./202010/20201004.md) |[剑指offer-扑克牌顺子](https://www.nowcoder.com/practice/762836f4d43d43ca9deb273b3de8e1f4?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201003](./202010/20201003.md) |[剑指offer-左旋转字符串](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||FileChannel按行读取大文件||
 | [20201002](./202010/20201002.md) |[剑指offer-和为S的两个数字](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201001](./202010/20201001.md) |[剑指offer-和为S的连续正数序列](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|||国庆快乐，中秋快乐，希望有生之年财务自由，陪陪家人，中秋不加班|
