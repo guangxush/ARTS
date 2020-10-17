@@ -1,6 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
 | [20201010](./202010/20201010.md) |[剑指offer-反转单词顺序](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201006](./202010/20201006.md) |[剑指offer-求1+2+3+...+n](https://www.nowcoder.com/practice/7a0da8fc483247ff8800059e12d7caf1?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201005](./202010/20201005.md) |[剑指offer-孩子们的游戏-圆圈中剩下的数字](https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201004](./202010/20201004.md) |[剑指offer-扑克牌顺子](https://www.nowcoder.com/practice/762836f4d43d43ca9deb273b3de8e1f4?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201003](./202010/20201003.md) |[剑指offer-左旋转字符串](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||FileChannel按行读取大文件||
