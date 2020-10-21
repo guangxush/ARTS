@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20201021](./202010/20201021.md) |[剑指offer-表示数值的字符串](https://www.nowcoder.com/practice/6f8c901d091949a5837e24bb82a731f2?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201020](./202010/20201020.md) |[剑指offer-正则表达式匹配](https://www.nowcoder.com/practice/45327ae22b7b413ea21df13ee7d6429c?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201019](./202010/20201019.md) |[剑指offer-构建乘积数组](https://www.nowcoder.com/practice/94a4d381a68b47b7a8bed86f2975db46?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201018](./202010/20201018.md) |[剑指offer-把字符串转换成整数](https://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201017](./202010/20201017.md) |[剑指offer-数组中的重复数字](https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
