@@ -7,6 +7,8 @@
 | [20201018](./202010/20201018.md) |[剑指offer-把字符串转换成整数](https://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201017](./202010/20201017.md) |[剑指offer-数组中的重复数字](https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201010](./202010/20201010.md) |[剑指offer-反转单词顺序](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201008](./202010/20201008.md) |[剑指offer-链表中的环节点入口](https://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201007](./202010/20201007.md) |[剑指offer-不用加减乘除做加法](https://www.nowcoder.com/practice/59ac416b4b944300b617d4f7f111b215?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201006](./202010/20201006.md) |[剑指offer-求1+2+3+...+n](https://www.nowcoder.com/practice/7a0da8fc483247ff8800059e12d7caf1?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201005](./202010/20201005.md) |[剑指offer-孩子们的游戏-圆圈中剩下的数字](https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201004](./202010/20201004.md) |[剑指offer-扑克牌顺子](https://www.nowcoder.com/practice/762836f4d43d43ca9deb273b3de8e1f4?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
