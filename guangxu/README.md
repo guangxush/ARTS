@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20201023](./202010/20201023.md) |[剑指offer-删除链表中的重复节点](https://www.nowcoder.com/practice/fc533c45b73a41b0b44ccba763f866ef?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201022](./202010/20201022.md) |[剑指offer-字符流中第一个不重复出现的字符](https://www.nowcoder.com/practice/00de97733b8e4f97a3fb5c680ee10720?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201021](./202010/20201021.md) |[剑指offer-表示数值的字符串](https://www.nowcoder.com/practice/6f8c901d091949a5837e24bb82a731f2?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201020](./202010/20201020.md) |[剑指offer-正则表达式匹配](https://www.nowcoder.com/practice/45327ae22b7b413ea21df13ee7d6429c?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
