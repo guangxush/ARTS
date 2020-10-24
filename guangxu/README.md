@@ -8,7 +8,14 @@
 | [20201019](./202010/20201019.md) |[剑指offer-构建乘积数组](https://www.nowcoder.com/practice/94a4d381a68b47b7a8bed86f2975db46?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|||拥抱变化|
 | [20201018](./202010/20201018.md) |[剑指offer-把字符串转换成整数](https://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201017](./202010/20201017.md) |[剑指offer-数组中的重复数字](https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201016](./202010/20201016.md) |||||
+| [20201015](./202010/20201015.md) |||||
+| [20201014](./202010/20201014.md) |[剑指offer-二叉搜索树的第k个节点](https://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201013](./202010/20201013.md) |[剑指offer-序列化二叉树](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201012](./202010/20201012.md) |[剑指offer-把二叉树打印成多行](https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201011](./202010/20201011.md) |[剑指offer-按之字形打印二叉树](https://www.nowcoder.com/practice/91b69814117f4e8097390d107d2efbe0?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201010](./202010/20201010.md) |[剑指offer-反转单词顺序](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201009](./202010/20201009.md) |[剑指offer-对称的二叉树](https://www.nowcoder.com/practice/ff05d44dfdb04e1d83bdbdab320efbcb?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201008](./202010/20201008.md) |[剑指offer-链表中的环节点入口](https://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201007](./202010/20201007.md) |[剑指offer-不用加减乘除做加法](https://www.nowcoder.com/practice/59ac416b4b944300b617d4f7f111b215?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201006](./202010/20201006.md) |[剑指offer-求1+2+3+...+n](https://www.nowcoder.com/practice/7a0da8fc483247ff8800059e12d7caf1?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
