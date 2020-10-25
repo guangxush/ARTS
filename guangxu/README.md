@@ -8,8 +8,8 @@
 | [20201019](./202010/20201019.md) |[剑指offer-构建乘积数组](https://www.nowcoder.com/practice/94a4d381a68b47b7a8bed86f2975db46?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|||拥抱变化|
 | [20201018](./202010/20201018.md) |[剑指offer-把字符串转换成整数](https://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201017](./202010/20201017.md) |[剑指offer-数组中的重复数字](https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
-| [20201016](./202010/20201016.md) |||||
-| [20201015](./202010/20201015.md) |||||
+| [20201016](./202010/20201016.md) |[剑指offer滑动窗口的最大值](https://www.nowcoder.com/practice/1624bc35a45c42c0bc17d17fa0cba788?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
+| [20201015](./202010/20201015.md) |[剑指offer-数据流中的中位数](https://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201014](./202010/20201014.md) |[剑指offer-二叉搜索树的第k个节点](https://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201013](./202010/20201013.md) |[剑指offer-序列化二叉树](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201012](./202010/20201012.md) |[剑指offer-把二叉树打印成多行](https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
