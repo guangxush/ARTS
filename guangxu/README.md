@@ -1,5 +1,8 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20201029](./202010/20201029.md) |||||
+| [20201028](./202010/20201028.md) |||||
+| [20201027](./202010/20201027.md) |[剑指offer-剪绳子](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201026](./202010/20201026.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201025](./202010/20201025.md) |[剑指offer-矩阵中的路径](https://www.nowcoder.com/practice/c61c6999eecb4b8f88a98f66b273a3cc?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201024](./202010/20201024.md) |[剑指offer-二叉树的下一个节点](https://www.nowcoder.com/practice/9023a0c988684a53960365b889ceaf5e?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
