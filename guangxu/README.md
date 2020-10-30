@@ -1,6 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
-| [20201029](./202010/20201029.md) |||||
+| [20201029](./202010/20201029.md) |[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)||||
 | [20201028](./202010/20201028.md) |[103. Binary Tree Zigzag Level Order Traversal(二叉树的锯齿形层次遍历-百度)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||||
 | [20201027](./202010/20201027.md) |[剑指offer-剪绳子](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
 | [20201026](./202010/20201026.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)||||
