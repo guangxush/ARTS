@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20201101](./202011/20201101.md) |[46. Permutations](https://leetcode.com/problems/permutations/)|冒泡排序|||
 | [20201031](./202010/20201031.md) |[53. Maximum Subarray(最大子序和)](https://leetcode.com/problems/maximum-subarray/)
 ||||
 | [20201030](./202010/20201030.md) |[101. Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/)||||
