@@ -1,11 +1,12 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20201108](./202011/20201108.md) |[72. Edit Distance](https://leetcode.com/problems/edit-distance/)|||
 | [20201107](./202011/20201107.md) |[5. Longest Palindromic Substring(最长回文串)](https://leetcode.com/problems/longest-palindromic-substring/)|||
 | [20201106](./202011/20201106.md) |[69. Sqrt(x)(折半查找求根号)](https://leetcode.com/problems/sqrtx/)|||
 | [20201105](./202011/20201105.md) |[62. Unique Paths（不同路径）](https://leetcode.com/problems/unique-paths/)|堆排序|||
 | [20201104](./202011/20201104.md) |[98. Validate Binary Search Tree(验证二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)||||
-| [20201102](./202011/20201102.md) |[208. Implement Trie (Prefix Tree)前缀树](https://leetcode.com/problems/implement-trie-prefix-tree/)
-|快速排序|||
+| [20201103](./202011/20201103.md) |[234. Palindrome Linked List（验证回文链表）](https://leetcode.com/problems/palindrome-linked-list/)||||
+| [20201102](./202011/20201102.md) |[208. Implement Trie (Prefix Tree)前缀树](https://leetcode.com/problems/implement-trie-prefix-tree/)|快速排序|||
 | [20201101](./202011/20201101.md) |[46. Permutations](https://leetcode.com/problems/permutations/)|冒泡排序|||
 | [20201031](./202010/20201031.md) |[53. Maximum Subarray(最大子序和)](https://leetcode.com/problems/maximum-subarray/)
 ||||
