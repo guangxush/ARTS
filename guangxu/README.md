@@ -8,8 +8,7 @@
 | [20201103](./202011/20201103.md) |[234. Palindrome Linked List（验证回文链表）](https://leetcode.com/problems/palindrome-linked-list/)||||
 | [20201102](./202011/20201102.md) |[208. Implement Trie (Prefix Tree)前缀树](https://leetcode.com/problems/implement-trie-prefix-tree/)|快速排序|||
 | [20201101](./202011/20201101.md) |[46. Permutations](https://leetcode.com/problems/permutations/)|冒泡排序|||
-| [20201031](./202010/20201031.md) |[53. Maximum Subarray(最大子序和)](https://leetcode.com/problems/maximum-subarray/)
-||||
+| [20201031](./202010/20201031.md) |[53. Maximum Subarray(最大子序和)](https://leetcode.com/problems/maximum-subarray/)||||
 | [20201030](./202010/20201030.md) |[101. Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/)||||
 | [20201029](./202010/20201029.md) |[142. Linked List Cycle II(环形链表节点)](https://leetcode.com/problems/linked-list-cycle-ii/)||||
 | [20201028](./202010/20201028.md) |[103. Binary Tree Zigzag Level Order Traversal(二叉树的锯齿形层次遍历-百度)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||||
