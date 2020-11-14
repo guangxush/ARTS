@@ -1,7 +1,10 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20201114](./202011/202011014.md) |[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|||
 | [20201113](./202011/202011013.md) |[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|||
 | [20201112](./202011/202011012.md) |[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|||
+| [20201111](./202011/20201111.md) |[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|||
+| [20201110](./202011/20201110.md) |[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|||
 | [20201109](./202011/20201109.md) |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|||
 | [20201108](./202011/20201108.md) |[72. Edit Distance](https://leetcode.com/problems/edit-distance/)|||
 | [20201107](./202011/20201107.md) |[5. Longest Palindromic Substring(最长回文串)](https://leetcode.com/problems/longest-palindromic-substring/)|希尔排序||
