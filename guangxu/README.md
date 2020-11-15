@@ -1,6 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
-| [20201114](./202011/202011014.md) |[637. Average of Levels in Binary Tree（二叉树每一层求平均）](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|||
+| [20201118](./202011/202011018.md) |[145. Binary Tree Postorder Traversal(二叉树后续遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)|||
+| [20201117](./202011/202011017.md) |[144. Binary Tree Preorder Traversal(二叉树前序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)|||
+| [20201116](./202011/202011016.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|||
+| [20201115](./202011/202011015.md) |[637. Average of Levels in Binary Tree（二叉树每一层求平均）](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|||
 | [20201114](./202011/202011014.md) |[107. Binary Tree Level Order Traversal II（二叉树层次遍历二）](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|||
 | [20201113](./202011/202011013.md) |[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|||
 | [20201112](./202011/202011012.md) |[404. Sum of Left Leaves（左侧节点之和）](https://leetcode.com/problems/sum-of-left-leaves/)|||
