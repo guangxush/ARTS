@@ -1,16 +1,16 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
-| [20201122](./202011/202011022.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|||
-| [20201121](./202011/202011021.md) |[106. Construct Binary Tree from Inorder and Postorder Traversal(根据前后序和中序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|||
-| [20201120](./202011/202011020.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal（根据前序和中序构造二叉树）](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|||
-| [20201119](./202011/202011019.md) |[1008. Construct Binary Search Tree from Preorder Traversal（构造一个二叉搜索树）](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|||
-| [20201118](./202011/202011018.md) |[145. Binary Tree Postorder Traversal(二叉树后续遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)|||
-| [20201117](./202011/202011017.md) |[144. Binary Tree Preorder Traversal(二叉树前序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)|||
-| [20201116](./202011/202011016.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|||
-| [20201115](./202011/202011015.md) |[637. Average of Levels in Binary Tree（二叉树每一层求平均）](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|||
-| [20201114](./202011/202011014.md) |[107. Binary Tree Level Order Traversal II（二叉树层次遍历二）](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|||
-| [20201113](./202011/202011013.md) |[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|||
-| [20201112](./202011/202011012.md) |[404. Sum of Left Leaves（左侧节点之和）](https://leetcode.com/problems/sum-of-left-leaves/)|||
+| [20201122](./202011/20201122.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|||
+| [20201121](./202011/20201121.md) |[106. Construct Binary Tree from Inorder and Postorder Traversal(根据前后序和中序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|||
+| [20201120](./202011/20201120.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal（根据前序和中序构造二叉树）](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|||
+| [20201119](./202011/20201119.md) |[1008. Construct Binary Search Tree from Preorder Traversal（构造一个二叉搜索树）](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|||
+| [20201118](./202011/20201118.md) |[145. Binary Tree Postorder Traversal(二叉树后续遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)|||
+| [20201117](./202011/20201117.md) |[144. Binary Tree Preorder Traversal(二叉树前序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)|||
+| [20201116](./202011/20201116.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|||
+| [20201115](./202011/20201115.md) |[637. Average of Levels in Binary Tree（二叉树每一层求平均）](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|||
+| [20201114](./202011/20201114.md) |[107. Binary Tree Level Order Traversal II（二叉树层次遍历二）](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|||
+| [20201113](./202011/20201113.md) |[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|||
+| [20201112](./202011/20201112.md) |[404. Sum of Left Leaves（左侧节点之和）](https://leetcode.com/problems/sum-of-left-leaves/)|||
 | [20201111](./202011/20201111.md) |[103. Binary Tree Zigzag Level Order Traversal（之字形打印二叉树）](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|||
 | [20201110](./202011/20201110.md) |[102. Binary Tree Level Order Traversal（二叉树层次遍历）](https://leetcode.com/problems/binary-tree-level-order-traversal/)|||
 | [20201109](./202011/20201109.md) |[239. Sliding Window Maximum（滑动窗口最大值）](https://leetcode.com/problems/sliding-window-maximum/)|||
