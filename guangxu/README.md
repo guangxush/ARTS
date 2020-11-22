@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20201122](./202011/202011022.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|||
+| [20201121](./202011/202011021.md) |[106. Construct Binary Tree from Inorder and Postorder Traversal(根据前后序和中序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|||
 | [20201120](./202011/202011020.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal（根据前序和中序构造二叉树）](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|||
 | [20201119](./202011/202011019.md) |[1008. Construct Binary Search Tree from Preorder Traversal（构造一个二叉搜索树）](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|||
 | [20201118](./202011/202011018.md) |[145. Binary Tree Postorder Traversal(二叉树后续遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)|||
