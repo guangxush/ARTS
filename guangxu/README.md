@@ -1,5 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20201201](./202012/20201201.md) |[141. Linked List Cycle（判断链表中是否有环）](https://leetcode.com/problems/linked-list-cycle/)
+|||
+| [20201130](./202011/20201130.md) |[142. Linked List Cycle II(找链表环的交点)](https://leetcode.com/problems/linked-list-cycle-ii/)|||
+| [20201129](./202011/20201129.md) |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|||
 | [20201128](./202011/20201128.md) |[199. Binary Tree Right Side View (二叉树右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)|||
 | [20201127](./202011/20201127.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|||
 | [20201126](./202011/20201126.md) |[617. Merge Two Binary Trees(两个二叉树合并)](https://leetcode.com/problems/merge-two-binary-trees/）|||
