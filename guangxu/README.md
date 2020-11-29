@@ -1,7 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
-| [20201201](./202012/20201201.md) |[141. Linked List Cycle（判断链表中是否有环）](https://leetcode.com/problems/linked-list-cycle/)
-|||
+| [20201204](./202012/20201204.md) |[237. Delete Node in a Linked List(删除链表中的一个节点)](https://leetcode.com/problems/delete-node-in-a-linked-list/)|||
+| [20201203](./202012/20201203.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)|||
+| [20201202](./202012/20201202.md) |[206. Reverse Linked List（链表反转）](https://leetcode.com/problems/reverse-linked-list/)|||
+| [20201201](./202012/20201201.md) |[141. Linked List Cycle（判断链表中是否有环）](https://leetcode.com/problems/linked-list-cycle/)|||
 | [20201130](./202011/20201130.md) |[142. Linked List Cycle II(找链表环的交点)](https://leetcode.com/problems/linked-list-cycle-ii/)|||
 | [20201129](./202011/20201129.md) |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|||
 | [20201128](./202011/20201128.md) |[199. Binary Tree Right Side View (二叉树右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)|||
@@ -24,7 +26,7 @@
 | [20201111](./202011/20201111.md) |[103. Binary Tree Zigzag Level Order Traversal（之字形打印二叉树）](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|||
 | [20201110](./202011/20201110.md) |[102. Binary Tree Level Order Traversal（二叉树层次遍历）](https://leetcode.com/problems/binary-tree-level-order-traversal/)|||
 | [20201109](./202011/20201109.md) |[239. Sliding Window Maximum（滑动窗口最大值）](https://leetcode.com/problems/sliding-window-maximum/)|||
-| [20201108](./202011/20201108.md) |[72. Edit Distance](https://leetcode.com/problems/edit-distance/)|||
+| [20201108](./202011/20201108.md) |[72. Edit Distance（编辑距离）](https://leetcode.com/problems/edit-distance/)|||
 | [20201107](./202011/20201107.md) |[5. Longest Palindromic Substring(最长回文串)](https://leetcode.com/problems/longest-palindromic-substring/)|希尔排序||
 | [20201106](./202011/20201106.md) |[69. Sqrt(x)(折半查找求根号)](https://leetcode.com/problems/sqrtx/)|选择排序||
 | [20201105](./202011/20201105.md) |[62. Unique Paths（不同路径）](https://leetcode.com/problems/unique-paths/)|插入排序|||
