@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20201207](./202012/20201207.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)|||
 | [20201206](./202012/20201206.md) |[21. Merge Two Sorted Lists（合并两个有序的单链表）](https://leetcode.com/problems/merge-two-sorted-lists/)|||
 | [20201205](./202012/20201205.md) |[876. Middle of the Linked List（寻找链表的中点）](https://leetcode.com/problems/middle-of-the-linked-list/)|||
 | [20201204](./202012/20201204.md) |[237. Delete Node in a Linked List(删除链表中的一个节点)](https://leetcode.com/problems/delete-node-in-a-linked-list/)|||
