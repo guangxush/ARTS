@@ -2,8 +2,8 @@
 | :-----| :---- | :---- |  :---- |  :---- |
 | [20201214](./202012/20201214.md) |[121. Best Time to Buy and Sell Stock(买股票最大收益)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||
 | [20201213](./202012/20201213.md) |[121. Best Time to Buy and Sell Stock(买股票最大收益)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||
-| [20201212](./202012/20201212.md) |[121. Best Time to Buy and Sell Stock(买股票最大收益)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||
-| [20201211](./202012/20201211.md) |[121. Best Time to Buy and Sell Stock(买股票最大收益)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||
+| [20201212](./202012/20201212.md) |[19. Remove Nth Node From End of List(删除倒数第N个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|||
+| [20201211](./202012/20201211.md) |[62. Unique Paths(不同路径-动态规划)](https://leetcode.com/problems/unique-paths/)|||
 | [20201210](./202012/20201210.md) |[349. Intersection of Two Arrays（两个List重复的元素）](https://leetcode.com/problems/intersection-of-two-arrays/)|||
 | [20201209](./202012/20201209.md) |[121. Best Time to Buy and Sell Stock(买股票最大收益)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||
 | [20201208](./202012/20201208.md) |[268. Missing Number(丢失的数字)](https://leetcode.com/problems/missing-number/)|||
