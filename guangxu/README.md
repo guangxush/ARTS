@@ -1,6 +1,13 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
-| [20201215](./202012/20201215.md) |[449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|||
+| [20201222](./202012/20201222.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(根据前序和中序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|||
+| [20201221](./202012/20201221.md) |[938. Range Sum of BST（BST范围内的和）](https://leetcode.com/problems/range-sum-of-bst/)|||
+| [20201220](./202012/20201220.md) |[230. Kth Smallest Element in a BST(第k个最小的元素)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|||
+| [20201219](./202012/20201219.md) |[653. Two Sum IV - Input is a BST(求节点之和)](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|||
+| [20201218](./202012/20201218.md) |[783. Minimum Distance Between BST Nodes(所有节点最小绝对值)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|||
+| [20201217](./202012/20201217.md) |[530. Minimum Absolute Difference in BST(父子节点最小绝对值)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|||
+| [20201216](./202012/20201216.md) |[32. Longest Valid Parentheses(最长有效匹配括号)](https://leetcode.com/problems/longest-valid-parentheses/)|||
+| [20201215](./202012/20201215.md) |[449. Serialize and Deserialize BST(序列化和反序列化二叉树)](https://leetcode.com/problems/serialize-and-deserialize-bst/)|||
 | [20201214](./202012/20201214.md) |[20. Valid Parentheses（有效的括号）](https://leetcode.com/problems/valid-parentheses/)|||
 | [20201213](./202012/20201213.md) |[104. Maximum Depth of Binary Tree（树的最大深度）](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|||
 | [20201212](./202012/20201212.md) |[19. Remove Nth Node From End of List(删除倒数第N个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|||
