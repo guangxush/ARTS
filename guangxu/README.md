@@ -26,7 +26,7 @@
 | [20201129](./202011/20201129.md) |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|||
 | [20201128](./202011/20201128.md) |[199. Binary Tree Right Side View (二叉树右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)|||
 | [20201127](./202011/20201127.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|||
-| [20201126](./202011/20201126.md) |[617. Merge Two Binary Trees(两个二叉树合并)](https://leetcode.com/problems/merge-two-binary-trees/）|||
+| [20201126](./202011/20201126.md) |[617. Merge Two Binary Trees(两个二叉树合并)](https://leetcode.com/problems/merge-two-binary-trees/)|||
 | [20201125](./202011/20201125.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|||
 | [20201124](./202011/20201124.md) |[104. Maximum Depth of Binary Tree(二叉树最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|||
 | [20201123](./202011/20201123.md) |[257. Binary Tree Paths（深度优先遍历求二叉树深度）](https://leetcode.com/problems/binary-tree-paths/)|||
