@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20201229](./202012/20201229.md) |[121. Best Time to Buy and Sell Stock(股票最大收益1)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||
 | [20201228](./202012/20201228.md) |[122. Best Time to Buy and Sell Stock II(股票最大收益2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|||
 | [20201227](./202012/20201227.md) |[123. Best Time to Buy and Sell Stock III(股票最大收益3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|||
 | [20201226](./202012/20201226.md) |[3. Longest Substring Without Repeating Characters（最长不重复的字符串）](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|||
