@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210101](./202101/20210102.md) |[55. Jump Game](https://leetcode.com/problems/jump-game/)|||愿天下没有996|
 | [20210101](./202101/20210101.md) |[110. Balanced Binary Tree(平衡二叉树的判断)](https://leetcode.com/problems/balanced-binary-tree/)|||新年快乐，我在杭州加班中度过|
 | [20201231](./202012/20201231.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树最近的公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)||||
 | [20201230](./202012/20201230.md) |[93. Restore IP Addresses（构造IP地址）](https://leetcode.com/problems/restore-ip-addresses/)||||
