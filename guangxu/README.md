@@ -1,62 +1,62 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
-| [20210101](./202101/20210101.md) |[110. Balanced Binary Tree(平衡二叉树的判断)](https://leetcode.com/problems/balanced-binary-tree/)||新年快乐，我在杭州加班中度过|
-| [20201231](./202012/20201231.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树最近的公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|||
-| [20201230](./202012/20201230.md) |[93. Restore IP Addresses（构造IP地址）](https://leetcode.com/problems/restore-ip-addresses/)|||
-| [20201229](./202012/20201229.md) |[121. Best Time to Buy and Sell Stock(股票最大收益1)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||
-| [20201228](./202012/20201228.md) |[122. Best Time to Buy and Sell Stock II(股票最大收益2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|||
-| [20201227](./202012/20201227.md) |[123. Best Time to Buy and Sell Stock III(股票最大收益3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|||
-| [20201226](./202012/20201226.md) |[3. Longest Substring Without Repeating Characters（最长不重复的字符串）](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|||
-| [20201225](./202012/20201225.md) |[88. Merge Sorted Array(合并排序的数组)](https://leetcode.com/problems/merge-sorted-array/)||Merry Christmas!|
-| [20201224](./202012/20201224.md) |[191. Number of 1 Bits(数字1的个数)](https://leetcode.com/problems/number-of-1-bits/)|||
-| [20201223](./202012/20201223.md) |[443. String Compression](https://leetcode.com/problems/string-compression/)||ThreadLocal|
-| [20201222](./202012/20201222.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(根据前序和中序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|||
-| [20201221](./202012/20201221.md) |[938. Range Sum of BST（BST范围内的和）](https://leetcode.com/problems/range-sum-of-bst/)|||
-| [20201220](./202012/20201220.md) |[230. Kth Smallest Element in a BST(第k个最小的元素)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|||
-| [20201219](./202012/20201219.md) |[653. Two Sum IV - Input is a BST(求节点之和)](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|||
-| [20201218](./202012/20201218.md) |[783. Minimum Distance Between BST Nodes(所有节点最小绝对值)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|||
-| [20201217](./202012/20201217.md) |[530. Minimum Absolute Difference in BST(父子节点最小绝对值)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|||
-| [20201216](./202012/20201216.md) |[32. Longest Valid Parentheses(最长有效匹配括号)](https://leetcode.com/problems/longest-valid-parentheses/)|||
-| [20201215](./202012/20201215.md) |[449. Serialize and Deserialize BST(序列化和反序列化二叉树)](https://leetcode.com/problems/serialize-and-deserialize-bst/)|||
-| [20201214](./202012/20201214.md) |[20. Valid Parentheses（有效的括号）](https://leetcode.com/problems/valid-parentheses/)|||
-| [20201213](./202012/20201213.md) |[104. Maximum Depth of Binary Tree（树的最大深度）](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|||
-| [20201212](./202012/20201212.md) |[19. Remove Nth Node From End of List(删除倒数第N个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|||
-| [20201211](./202012/20201211.md) |[62. Unique Paths(不同路径-动态规划)](https://leetcode.com/problems/unique-paths/)|||
-| [20201210](./202012/20201210.md) |[349. Intersection of Two Arrays（两个List重复的元素）](https://leetcode.com/problems/intersection-of-two-arrays/)|||
-| [20201209](./202012/20201209.md) |[121. Best Time to Buy and Sell Stock(买股票最大收益)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||
-| [20201208](./202012/20201208.md) |[268. Missing Number(丢失的数字)](https://leetcode.com/problems/missing-number/)|||
-| [20201207](./202012/20201207.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)|||
-| [20201206](./202012/20201206.md) |[21. Merge Two Sorted Lists（合并两个有序的单链表）](https://leetcode.com/problems/merge-two-sorted-lists/)|||
-| [20201205](./202012/20201205.md) |[876. Middle of the Linked List（寻找链表的中点）](https://leetcode.com/problems/middle-of-the-linked-list/)|||
-| [20201204](./202012/20201204.md) |[237. Delete Node in a Linked List(删除链表中的一个节点)](https://leetcode.com/problems/delete-node-in-a-linked-list/)|||
-| [20201203](./202012/20201203.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)|||
-| [20201202](./202012/20201202.md) |[206. Reverse Linked List（链表反转）](https://leetcode.com/problems/reverse-linked-list/)|||
-| [20201201](./202012/20201201.md) |[141. Linked List Cycle（判断链表中是否有环）](https://leetcode.com/problems/linked-list-cycle/)|||
-| [20201130](./202011/20201130.md) |[142. Linked List Cycle II(找链表环的交点)](https://leetcode.com/problems/linked-list-cycle-ii/)|||
-| [20201129](./202011/20201129.md) |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|||
-| [20201128](./202011/20201128.md) |[199. Binary Tree Right Side View (二叉树右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)|||
-| [20201127](./202011/20201127.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|||
-| [20201126](./202011/20201126.md) |[617. Merge Two Binary Trees(两个二叉树合并)](https://leetcode.com/problems/merge-two-binary-trees/)|||
-| [20201125](./202011/20201125.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|||
-| [20201124](./202011/20201124.md) |[104. Maximum Depth of Binary Tree(二叉树最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|||
-| [20201123](./202011/20201123.md) |[257. Binary Tree Paths（深度优先遍历求二叉树深度）](https://leetcode.com/problems/binary-tree-paths/)|||
-| [20201122](./202011/20201122.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|||
-| [20201121](./202011/20201121.md) |[106. Construct Binary Tree from Inorder and Postorder Traversal(根据前后序和中序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|||
-| [20201120](./202011/20201120.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal（根据前序和中序构造二叉树）](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|||
-| [20201119](./202011/20201119.md) |[1008. Construct Binary Search Tree from Preorder Traversal（构造一个二叉搜索树）](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|||
-| [20201118](./202011/20201118.md) |[145. Binary Tree Postorder Traversal(二叉树后续遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)|||
-| [20201117](./202011/20201117.md) |[144. Binary Tree Preorder Traversal(二叉树前序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)|||
-| [20201116](./202011/20201116.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|||
-| [20201115](./202011/20201115.md) |[637. Average of Levels in Binary Tree（二叉树每一层求平均）](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|||
-| [20201114](./202011/20201114.md) |[107. Binary Tree Level Order Traversal II（二叉树层次遍历二）](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|||
-| [20201113](./202011/20201113.md) |[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|||
-| [20201112](./202011/20201112.md) |[404. Sum of Left Leaves（左侧节点之和）](https://leetcode.com/problems/sum-of-left-leaves/)|||
-| [20201111](./202011/20201111.md) |[103. Binary Tree Zigzag Level Order Traversal（之字形打印二叉树）](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|||
-| [20201110](./202011/20201110.md) |[102. Binary Tree Level Order Traversal（二叉树层次遍历）](https://leetcode.com/problems/binary-tree-level-order-traversal/)|||
-| [20201109](./202011/20201109.md) |[239. Sliding Window Maximum（滑动窗口最大值）](https://leetcode.com/problems/sliding-window-maximum/)|||
-| [20201108](./202011/20201108.md) |[72. Edit Distance（编辑距离）](https://leetcode.com/problems/edit-distance/)|||
-| [20201107](./202011/20201107.md) |[5. Longest Palindromic Substring(最长回文串)](https://leetcode.com/problems/longest-palindromic-substring/)|希尔排序||
-| [20201106](./202011/20201106.md) |[69. Sqrt(x)(折半查找求根号)](https://leetcode.com/problems/sqrtx/)|选择排序||
+| [20210101](./202101/20210101.md) |[110. Balanced Binary Tree(平衡二叉树的判断)](https://leetcode.com/problems/balanced-binary-tree/)||||新年快乐，我在杭州加班中度过|
+| [20201231](./202012/20201231.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树最近的公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)||||
+| [20201230](./202012/20201230.md) |[93. Restore IP Addresses（构造IP地址）](https://leetcode.com/problems/restore-ip-addresses/)||||
+| [20201229](./202012/20201229.md) |[121. Best Time to Buy and Sell Stock(股票最大收益1)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||||
+| [20201228](./202012/20201228.md) |[122. Best Time to Buy and Sell Stock II(股票最大收益2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||||
+| [20201227](./202012/20201227.md) |[123. Best Time to Buy and Sell Stock III(股票最大收益3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)||||
+| [20201226](./202012/20201226.md) |[3. Longest Substring Without Repeating Characters（最长不重复的字符串）](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||||
+| [20201225](./202012/20201225.md) |[88. Merge Sorted Array(合并排序的数组)](https://leetcode.com/problems/merge-sorted-array/)||Merry Christmas!||
+| [20201224](./202012/20201224.md) |[191. Number of 1 Bits(数字1的个数)](https://leetcode.com/problems/number-of-1-bits/)||||
+| [20201223](./202012/20201223.md) |[443. String Compression](https://leetcode.com/problems/string-compression/)||ThreadLocal||
+| [20201222](./202012/20201222.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(根据前序和中序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||||
+| [20201221](./202012/20201221.md) |[938. Range Sum of BST（BST范围内的和）](https://leetcode.com/problems/range-sum-of-bst/)||||
+| [20201220](./202012/20201220.md) |[230. Kth Smallest Element in a BST(第k个最小的元素)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)||||
+| [20201219](./202012/20201219.md) |[653. Two Sum IV - Input is a BST(求节点之和)](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)||||
+| [20201218](./202012/20201218.md) |[783. Minimum Distance Between BST Nodes(所有节点最小绝对值)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)||||
+| [20201217](./202012/20201217.md) |[530. Minimum Absolute Difference in BST(父子节点最小绝对值)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)||||
+| [20201216](./202012/20201216.md) |[32. Longest Valid Parentheses(最长有效匹配括号)](https://leetcode.com/problems/longest-valid-parentheses/)||||
+| [20201215](./202012/20201215.md) |[449. Serialize and Deserialize BST(序列化和反序列化二叉树)](https://leetcode.com/problems/serialize-and-deserialize-bst/)||||
+| [20201214](./202012/20201214.md) |[20. Valid Parentheses（有效的括号）](https://leetcode.com/problems/valid-parentheses/)||||
+| [20201213](./202012/20201213.md) |[104. Maximum Depth of Binary Tree（树的最大深度）](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||||
+| [20201212](./202012/20201212.md) |[19. Remove Nth Node From End of List(删除倒数第N个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)||||
+| [20201211](./202012/20201211.md) |[62. Unique Paths(不同路径-动态规划)](https://leetcode.com/problems/unique-paths/)||||
+| [20201210](./202012/20201210.md) |[349. Intersection of Two Arrays（两个List重复的元素）](https://leetcode.com/problems/intersection-of-two-arrays/)||||
+| [20201209](./202012/20201209.md) |[121. Best Time to Buy and Sell Stock(买股票最大收益)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||||
+| [20201208](./202012/20201208.md) |[268. Missing Number(丢失的数字)](https://leetcode.com/problems/missing-number/)||||
+| [20201207](./202012/20201207.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)||||
+| [20201206](./202012/20201206.md) |[21. Merge Two Sorted Lists（合并两个有序的单链表）](https://leetcode.com/problems/merge-two-sorted-lists/)||||
+| [20201205](./202012/20201205.md) |[876. Middle of the Linked List（寻找链表的中点）](https://leetcode.com/problems/middle-of-the-linked-list/)||||
+| [20201204](./202012/20201204.md) |[237. Delete Node in a Linked List(删除链表中的一个节点)](https://leetcode.com/problems/delete-node-in-a-linked-list/)||||
+| [20201203](./202012/20201203.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)||||
+| [20201202](./202012/20201202.md) |[206. Reverse Linked List（链表反转）](https://leetcode.com/problems/reverse-linked-list/)||||
+| [20201201](./202012/20201201.md) |[141. Linked List Cycle（判断链表中是否有环）](https://leetcode.com/problems/linked-list-cycle/)||||
+| [20201130](./202011/20201130.md) |[142. Linked List Cycle II(找链表环的交点)](https://leetcode.com/problems/linked-list-cycle-ii/)||||
+| [20201129](./202011/20201129.md) |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)||||
+| [20201128](./202011/20201128.md) |[199. Binary Tree Right Side View (二叉树右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)||||
+| [20201127](./202011/20201127.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)||||
+| [20201126](./202011/20201126.md) |[617. Merge Two Binary Trees(两个二叉树合并)](https://leetcode.com/problems/merge-two-binary-trees/)||||
+| [20201125](./202011/20201125.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)||||
+| [20201124](./202011/20201124.md) |[104. Maximum Depth of Binary Tree(二叉树最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||||
+| [20201123](./202011/20201123.md) |[257. Binary Tree Paths（深度优先遍历求二叉树深度）](https://leetcode.com/problems/binary-tree-paths/)||||
+| [20201122](./202011/20201122.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)||||
+| [20201121](./202011/20201121.md) |[106. Construct Binary Tree from Inorder and Postorder Traversal(根据前后序和中序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)||||
+| [20201120](./202011/20201120.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal（根据前序和中序构造二叉树）](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||||
+| [20201119](./202011/20201119.md) |[1008. Construct Binary Search Tree from Preorder Traversal（构造一个二叉搜索树）](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)||||
+| [20201118](./202011/20201118.md) |[145. Binary Tree Postorder Traversal(二叉树后续遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)||||
+| [20201117](./202011/20201117.md) |[144. Binary Tree Preorder Traversal(二叉树前序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)||||
+| [20201116](./202011/20201116.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)||||
+| [20201115](./202011/20201115.md) |[637. Average of Levels in Binary Tree（二叉树每一层求平均）](https://leetcode.com/problems/average-of-levels-in-binary-tree/)||||
+| [20201114](./202011/20201114.md) |[107. Binary Tree Level Order Traversal II（二叉树层次遍历二）](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)||||
+| [20201113](./202011/20201113.md) |[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)||||
+| [20201112](./202011/20201112.md) |[404. Sum of Left Leaves（左侧节点之和）](https://leetcode.com/problems/sum-of-left-leaves/)||||
+| [20201111](./202011/20201111.md) |[103. Binary Tree Zigzag Level Order Traversal（之字形打印二叉树）](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||||
+| [20201110](./202011/20201110.md) |[102. Binary Tree Level Order Traversal（二叉树层次遍历）](https://leetcode.com/problems/binary-tree-level-order-traversal/)||||
+| [20201109](./202011/20201109.md) |[239. Sliding Window Maximum（滑动窗口最大值）](https://leetcode.com/problems/sliding-window-maximum/)||||
+| [20201108](./202011/20201108.md) |[72. Edit Distance（编辑距离）](https://leetcode.com/problems/edit-distance/)||||
+| [20201107](./202011/20201107.md) |[5. Longest Palindromic Substring(最长回文串)](https://leetcode.com/problems/longest-palindromic-substring/)|希尔排序|||
+| [20201106](./202011/20201106.md) |[69. Sqrt(x)(折半查找求根号)](https://leetcode.com/problems/sqrtx/)|选择排序|||
 | [20201105](./202011/20201105.md) |[62. Unique Paths（不同路径）](https://leetcode.com/problems/unique-paths/)|插入排序|||
 | [20201104](./202011/20201104.md) |[98. Validate Binary Search Tree(验证二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)|堆排序|||
 | [20201103](./202011/20201103.md) |[234. Palindrome Linked List（验证回文链表）](https://leetcode.com/problems/palindrome-linked-list/)|归并排序|||
