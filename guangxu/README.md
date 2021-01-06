@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210105](./202101/20210105.md) |[5. Longest Palindromic Substring（动态规划解决最长回文子串）](https://leetcode.com/problems/longest-palindromic-substring/)||||
+| [20210104](./202101/20210104.md) |[217. Contains Duplicate（数组重复元素）](https://leetcode.com/problems/contains-duplicate/)||||
 | [20210103](./202101/20210103.md) |[3. Longest Substring Without Repeating Characters(最长不重复字符串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||||
 | [20210102](./202101/20210102.md) |[55. Jump Game(跳到最后一格)](https://leetcode.com/problems/jump-game/)|||愿天下没有996|
 | [20210101](./202101/20210101.md) |[110. Balanced Binary Tree(平衡二叉树的判断)](https://leetcode.com/problems/balanced-binary-tree/)|||新年快乐，我在杭州加班中度过|
