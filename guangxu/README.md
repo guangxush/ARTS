@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210107](./202101/20210107.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
+| [20210106](./202101/20210106.md) |[468. Validate IP Address(验证是否是IP地址)](https://leetcode.com/problems/validate-ip-address/)||||
 | [20210105](./202101/20210105.md) |[5. Longest Palindromic Substring（动态规划解决最长回文子串）](https://leetcode.com/problems/longest-palindromic-substring/)||||
 | [20210104](./202101/20210104.md) |[217. Contains Duplicate（数组重复元素）](https://leetcode.com/problems/contains-duplicate/)||||
 | [20210103](./202101/20210103.md) |[3. Longest Substring Without Repeating Characters(最长不重复字符串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||||
