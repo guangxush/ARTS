@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210108](./202101/20210108.md) |[222. Count Complete Tree Nodes(求二叉树节点的总数量:深度/广度)](https://leetcode.com/problems/count-complete-tree-nodes/)||||
 | [20210107](./202101/20210107.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
 | [20210106](./202101/20210106.md) |[468. Validate IP Address(验证是否是IP地址)](https://leetcode.com/problems/validate-ip-address/)||||
 | [20210105](./202101/20210105.md) |[5. Longest Palindromic Substring（动态规划解决最长回文子串）](https://leetcode.com/problems/longest-palindromic-substring/)||||
