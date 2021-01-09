@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210109](./202101/20210109.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)||||
 | [20210108](./202101/20210108.md) |[222. Count Complete Tree Nodes(求二叉树节点的总数量:深度/广度)](https://leetcode.com/problems/count-complete-tree-nodes/)||||
 | [20210107](./202101/20210107.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
 | [20210106](./202101/20210106.md) |[468. Validate IP Address(验证是否是IP地址)](https://leetcode.com/problems/validate-ip-address/)||||
