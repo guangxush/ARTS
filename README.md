@@ -69,7 +69,7 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
-| [20200807](../202008/20200807.md) | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+| [20200807](./guangxu/202008/20200807.md) | [303. Range Sum Query - Immutable（数组范围内求和）](https://leetcode.com/problems/range-sum-query-immutable/)
 
 ### 位运算
 
