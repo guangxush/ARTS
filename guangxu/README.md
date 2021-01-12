@@ -1,6 +1,11 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
-| [20210109](./202101/20210109.md) |[209. Minimum Size Subarray Sum(最小子序列和)](https://leetcode.com/problems/minimum-size-subarray-sum/)||||
+| [20210115](./202101/20210115.md) |[345. Reverse Vowels of a String(元音字母反转)](https://leetcode.com/problems/reverse-vowels-of-a-string/)||||
+| [20210114](./202101/20210114.md) |[344. Reverse String（反转字符串）](https://leetcode.com/problems/reverse-string/)||||
+| [20210113](./202101/20210113.md) |[541. Reverse String II（反转k个字符串）](https://leetcode.com/problems/reverse-string-ii/)||||
+| [20210112](./202101/20210112.md) |[557. Reverse Words in a String III（反转字符串3）](https://leetcode.com/problems/reverse-words-in-a-string-iii/)||||
+| [20210111](./202101/20210111.md) |[151. Reverse Words in a String（反转字符串）](https://leetcode.com/problems/reverse-words-in-a-string/)||||
+| [20210110](./202101/20210110.md) |[209. Minimum Size Subarray Sum(最小子序列和)](https://leetcode.com/problems/minimum-size-subarray-sum/)||||
 | [20210109](./202101/20210109.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)||||
 | [20210108](./202101/20210108.md) |[222. Count Complete Tree Nodes(求二叉树节点的总数量:深度/广度)](https://leetcode.com/problems/count-complete-tree-nodes/)||||
 | [20210107](./202101/20210107.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
