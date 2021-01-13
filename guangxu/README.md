@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210116](./202101/20210116.md) |[9. Palindrome Number（判断回文数）](https://leetcode.com/problems/palindrome-number/)||||
 | [20210115](./202101/20210115.md) |[345. Reverse Vowels of a String(元音字母反转)](https://leetcode.com/problems/reverse-vowels-of-a-string/)||||
 | [20210114](./202101/20210114.md) |[344. Reverse String（反转字符串）](https://leetcode.com/problems/reverse-string/)||||
 | [20210113](./202101/20210113.md) |[541. Reverse String II（反转k个字符串）](https://leetcode.com/problems/reverse-string-ii/)||||
