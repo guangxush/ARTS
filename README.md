@@ -40,8 +40,32 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 
 ### 数和字符串
+
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20201010](./guangxu/202010/20201010.md) |[剑指offer-反转单词顺序](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201003](./guangxu/202010/20201003.md) |[剑指offer-左旋转字符串](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200924](./guangxu/202009/20200924.md) |[剑指offer-第一个只出现一次的字符](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200923](./guangxu/202009/20200923.md) |[剑指offer-丑数](https://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200823](./guangxu/202008/20200823.md) |[剑指offer-替换空格](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&&tqId=11155&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
+| [20200819](./guangxu/202008/20200819.md) |[268. Missing Number（丢失的数字）](https://leetcode.com/problems/missing-number/)|
+| [20200813](./guangxu/202008/20200813.md) | [330. Patching Array（添加数字）](https://leetcode.com/problems/patching-array/) |
+| [20201022](./guangxu/202010/20201022.md) |[剑指offer-字符流中第一个不重复出现的字符](https://www.nowcoder.com/practice/00de97733b8e4f97a3fb5c680ee10720?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201021](./guangxu/202010/20201021.md) |[剑指offer-表示数值的字符串](https://www.nowcoder.com/practice/6f8c901d091949a5837e24bb82a731f2?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201020](./guangxu/202010/20201020.md) |[剑指offer-正则表达式匹配](https://www.nowcoder.com/practice/45327ae22b7b413ea21df13ee7d6429c?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201018](./guangxu/202010/20201018.md) |[剑指offer-把字符串转换成整数](https://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201208](./guangxu/202012/20201208.md) |[268. Missing Number(丢失的数字)](https://leetcode.com/problems/missing-number/)|
+| [20201207](./guangxu/202012/20201207.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)|
+| [20201223](./guangxu/202012/20201223.md) |[443. String Compression(字符串压缩)](https://leetcode.com/problems/string-compression/)|
+| [20201224](./guangxu/202012/20201224.md) |[191. Number of 1 Bits(数字1的个数)](https://leetcode.com/problems/number-of-1-bits/)|
+| [20201226](./guangxu/202012/20201226.md) |[3. Longest Substring Without Repeating Characters（最长不重复的字符串）](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+| [20201230](./guangxu/202012/20201230.md) |[93. Restore IP Addresses（构造IP地址）](https://leetcode.com/problems/restore-ip-addresses/)|
+| [20210103](./guangxu/202101/20210103.md) |[3. Longest Substring Without Repeating Characters(最长不重复字符串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+| [20210106](./guangxu/202101/20210106.md) |[468. Validate IP Address(验证是否是IP地址)](https://leetcode.com/problems/validate-ip-address/)|
+| [20210111](./guangxu/202101/20210111.md) |[151. Reverse Words in a String（反转字符串）](https://leetcode.com/problems/reverse-words-in-a-string/)|
+| [20210112](./guangxu/202101/20210112.md) |[557. Reverse Words in a String III（反转字符串3）](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|
+| [20210113](./guangxu/202101/20210113.md) |[541. Reverse String II（反转k个字符串）](https://leetcode.com/problems/reverse-string-ii/)|
+| [20210114](./guangxu/202101/20210114.md) |[344. Reverse String（反转字符串）](https://leetcode.com/problems/reverse-string/)|
 | [20210115](./guangxu/202101/20210115.md) |[345. Reverse Vowels of a String(元音字母反转)](https://leetcode.com/problems/reverse-vowels-of-a-string/)|
 
 
@@ -49,7 +73,30 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20200821](./guangxu/202008/20200821.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|
+| [20200809](./guangxu/202008/20200809.md) | [72. Edit Distance（编辑距离）](https://leetcode.com/problems/edit-distance/) |
+| [20201101](./guangxu/202011/20201101.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)|
+| [20201031](./guangxu/202010/20201031.md) |[53. Maximum Subarray(最大子序和)](https://leetcode.com/problems/maximum-subarray/)|
+| [20201109](./guangxu/202011/20201109.md) |[239. Sliding Window Maximum（滑动窗口最大值）](https://leetcode.com/problems/sliding-window-maximum/)|
+| [20201108](./guangxu/202011/20201108.md) |[72. Edit Distance（编辑距离）](https://leetcode.com/problems/edit-distance/)|
+| [20201107](./guangxu/202011/20201107.md) |[5. Longest Palindromic Substring(最长回文串)](https://leetcode.com/problems/longest-palindromic-substring/)|
+| [20210105](./guangxu/202101/20210105.md) |[5. Longest Palindromic Substring（动态规划解决最长回文子串）](https://leetcode.com/problems/longest-palindromic-substring/)|
+| [20210110](./guangxu/202101/20210110.md) |[209. Minimum Size Subarray Sum(最小子序列和)](https://leetcode.com/problems/minimum-size-subarray-sum/)|
+| [20210109](./guangxu/202101/20210109.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)|
+| [20210107](./guangxu/202101/20210107.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)|
+| [20201211](./guangxu/202012/20201211.md) |[62. Unique Paths(不同路径-动态规划)](https://leetcode.com/problems/unique-paths/)|
 
+### 贪心算法
+
+| 参考解答 | 原题地址 |
+| :---- | :-----|
+| [20200830](./guangxu/202008/20200830.md) | [剑指offer-变态跳台阶](https://www.nowcoder.com/practice/22243d016f6b47f2a6928b4313c85387?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200829](./guangxu/202008/20200829.md) | [剑指offer-跳台阶](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=13&&tqId=11161&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
+| [20201016](./guangxu/202010/20201016.md) |[剑指offer滑动窗口的最大值](https://www.nowcoder.com/practice/1624bc35a45c42c0bc17d17fa0cba788?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201209](./guangxu/202012/20201209.md) |[121. Best Time to Buy and Sell Stock(买股票最大收益)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
+| [20201229](./guangxu/202012/20201229.md) |[121. Best Time to Buy and Sell Stock(股票最大收益1)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
+| [20201228](./guangxu/202012/20201228.md) |[122. Best Time to Buy and Sell Stock II(股票最大收益2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|
+| [20201227](./guangxu/202012/20201227.md) |[123. Best Time to Buy and Sell Stock III(股票最大收益3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|
 
 ### 排序
 
@@ -60,70 +107,32 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
-
-### 栈
-
-| 参考解答 | 原题地址 |
-| :---- | :-----|
-
-### 链表
-
-| 参考解答 | 原题地址 |
-| :---- | :-----|
-
-
-### 数组
-
-| 参考解答 | 原题地址 |
-| :---- | :-----|
-| [20200807](./guangxu/202008/20200807.md) | [303. Range Sum Query - Immutable（数组范围内求和）](https://leetcode.com/problems/range-sum-query-immutable/)|
-| [20210114](./guangxu/202101/20210114.md) |[344. Reverse String（反转字符串）](https://leetcode.com/problems/reverse-string/)|
-| [20210113](./guangxu/202101/20210113.md) |[541. Reverse String II（反转k个字符串）](https://leetcode.com/problems/reverse-string-ii/)|
-| [20210112](./guangxu/202101/20210112.md) |[557. Reverse Words in a String III（反转字符串3）](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|
-| [20210111](./guangxu/202101/20210111.md) |[151. Reverse Words in a String（反转字符串）](https://leetcode.com/problems/reverse-words-in-a-string/)|
-| [20210110](./guangxu/202101/20210110.md) |[209. Minimum Size Subarray Sum(最小子序列和)](https://leetcode.com/problems/minimum-size-subarray-sum/)|
-| [20210109](./guangxu/202101/20210109.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)|
-| [20210108](./guangxu/202101/20210108.md) |[222. Count Complete Tree Nodes(求二叉树节点的总数量:深度/广度)](https://leetcode.com/problems/count-complete-tree-nodes/)|
-| [20210107](./guangxu/202101/20210107.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)|
-| [20210106](./guangxu/202101/20210106.md) |[468. Validate IP Address(验证是否是IP地址)](https://leetcode.com/problems/validate-ip-address/)|
-| [20210105](./guangxu/202101/20210105.md) |[5. Longest Palindromic Substring（动态规划解决最长回文子串）](https://leetcode.com/problems/longest-palindromic-substring/)|
-| [20210104](./guangxu/202101/20210104.md) |[217. Contains Duplicate（数组重复元素）](https://leetcode.com/problems/contains-duplicate/)|
-| [20210103](./guangxu/202101/20210103.md) |[3. Longest Substring Without Repeating Characters(最长不重复字符串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
-| [20210102](./guangxu/202101/20210102.md) |[55. Jump Game(跳到最后一格)](https://leetcode.com/problems/jump-game/)|
-| [20210101](./guangxu/202101/20210101.md) |[110. Balanced Binary Tree(平衡二叉树的判断)](https://leetcode.com/problems/balanced-binary-tree/)|
-| [20201231](./guangxu/202012/20201231.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树最近的公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
-| [20201230](./guangxu/202012/20201230.md) |[93. Restore IP Addresses（构造IP地址）](https://leetcode.com/problems/restore-ip-addresses/)|
-| [20201229](./guangxu/202012/20201229.md) |[121. Best Time to Buy and Sell Stock(股票最大收益1)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
-| [20201228](./guangxu/202012/20201228.md) |[122. Best Time to Buy and Sell Stock II(股票最大收益2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|
-| [20201227](./guangxu/202012/20201227.md) |[123. Best Time to Buy and Sell Stock III(股票最大收益3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|
-| [20201226](./guangxu/202012/20201226.md) |[3. Longest Substring Without Repeating Characters（最长不重复的字符串）](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
-| [20201225](./guangxu/202012/20201225.md) |[88. Merge Sorted Array(合并排序的数组)](https://leetcode.com/problems/merge-sorted-array/)|
-| [20201224](./guangxu/202012/20201224.md) |[191. Number of 1 Bits(数字1的个数)](https://leetcode.com/problems/number-of-1-bits/)|
-| [20201223](./guangxu/202012/20201223.md) |[443. String Compression](https://leetcode.com/problems/string-compression/)|
-| [20201222](./guangxu/202012/20201222.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(根据前序和中序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|
-| [20201221](./guangxu/202012/20201221.md) |[938. Range Sum of BST（BST范围内的和）](https://leetcode.com/problems/range-sum-of-bst/)|
-| [20201220](./guangxu/202012/20201220.md) |[230. Kth Smallest Element in a BST(第k个最小的元素)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|
-| [20201219](./guangxu/202012/20201219.md) |[653. Two Sum IV - Input is a BST(求节点之和)](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|
-| [20201218](./guangxu/202012/20201218.md) |[783. Minimum Distance Between BST Nodes(所有节点最小绝对值)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|
-| [20201217](./guangxu/202012/20201217.md) |[530. Minimum Absolute Difference in BST(父子节点最小绝对值)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|
-| [20201216](./guangxu/202012/20201216.md) |[32. Longest Valid Parentheses(最长有效匹配括号)](https://leetcode.com/problems/longest-valid-parentheses/)|
-| [20201215](./guangxu/202012/20201215.md) |[449. Serialize and Deserialize BST(序列化和反序列化二叉树)](https://leetcode.com/problems/serialize-and-deserialize-bst/)|
-| [20201214](./guangxu/202012/20201214.md) |[20. Valid Parentheses（有效的括号）](https://leetcode.com/problems/valid-parentheses/)|
-| [20201213](./guangxu/202012/20201213.md) |[104. Maximum Depth of Binary Tree（树的最大深度）](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
-| [20201212](./guangxu/202012/20201212.md) |[19. Remove Nth Node From End of List(删除倒数第N个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|
-| [20201211](./guangxu/202012/20201211.md) |[62. Unique Paths(不同路径-动态规划)](https://leetcode.com/problems/unique-paths/)|
-| [20201210](./guangxu/202012/20201210.md) |[349. Intersection of Two Arrays（两个List重复的元素）](https://leetcode.com/problems/intersection-of-two-arrays/)|
-| [20201209](./guangxu/202012/20201209.md) |[121. Best Time to Buy and Sell Stock(买股票最大收益)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
-| [20201208](./guangxu/202012/20201208.md) |[268. Missing Number(丢失的数字)](https://leetcode.com/problems/missing-number/)|
-| [20201207](./guangxu/202012/20201207.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)|
-| [20201206](./guangxu/202012/20201206.md) |[21. Merge Two Sorted Lists（合并两个有序的单链表）](https://leetcode.com/problems/merge-two-sorted-lists/)|
-| [20201205](./guangxu/202012/20201205.md) |[876. Middle of the Linked List（寻找链表的中点）](https://leetcode.com/problems/middle-of-the-linked-list/)|
-| [20201204](./guangxu/202012/20201204.md) |[237. Delete Node in a Linked List(删除链表中的一个节点)](https://leetcode.com/problems/delete-node-in-a-linked-list/)|
-| [20201203](./guangxu/202012/20201203.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)|
-| [20201202](./guangxu/202012/20201202.md) |[206. Reverse Linked List（链表反转）](https://leetcode.com/problems/reverse-linked-list/)|
-| [20201201](./guangxu/202012/20201201.md) |[141. Linked List Cycle（判断链表中是否有环）](https://leetcode.com/problems/linked-list-cycle/)|
-| [20201130](./guangxu/202011/20201130.md) |[142. Linked List Cycle II(找链表环的交点)](https://leetcode.com/problems/linked-list-cycle-ii/)|
-| [20201129](./guangxu/202011/20201129.md) |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|
+| [20200814](./guangxu/202008/20200814.md) | [94. Binary Tree Inorder Traversal（二叉树中序遍历）](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
+| [20201014](./guangxu/202010/20201014.md) |[剑指offer-二叉搜索树的第k个节点](https://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201013](./guangxu/202010/20201013.md) |[剑指offer-序列化二叉树](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201012](./guangxu/202010/20201012.md) |[剑指offer-把二叉树打印成多行](https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201011](./guangxu/202010/20201011.md) |[剑指offer-按之字形打印二叉树](https://www.nowcoder.com/practice/91b69814117f4e8097390d107d2efbe0?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201009](./guangxu/202010/20201009.md) |[剑指offer-对称的二叉树](https://www.nowcoder.com/practice/ff05d44dfdb04e1d83bdbdab320efbcb?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200810](./guangxu/202008/20200810.md) | [102. Binary Tree Level Order Traversal（二叉树层次遍历）](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| [20200816](./guangxu/202008/20200816.md) |[199. Binary Tree Right Side View（二叉树右视图）](https://leetcode.com/problems/binary-tree-right-side-view/)|
+| [20200825](./guangxu/202008/20200825.md) | [剑指offer-重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1) |
+| [20200908](./guangxu/202009/20200908.md) |[剑指offer-二叉树的镜像](https://www.nowcoder.com/practice/564f4c26aa584921bc75623e48ca3011?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200907](./guangxu/202009/20200907.md) |[剑指offer-树的子结构](https://www.nowcoder.com/practice/6e196c44c7004d15b1610b9afca8bd88?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200914](./guangxu/202009/20200914.md) |[剑指offer-二叉树中和为某一路径的值](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200913](./guangxu/202009/20200913.md) |[剑指offer-二叉树的后续遍历](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200912](./guangxu/202009/20200912.md) |[剑指offer-从上往下打印二叉树](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200916](./guangxu/202009/20200916.md) |[剑指offer-二叉搜索树与双向链表](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200929](./guangxu/202009/20200929.md) |[剑指offer-平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200928](./guangxu/202009/20200928.md) |[剑指offer-二叉树的深度](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200808](./guangxu/202008/20200808.md) | [230. Kth Smallest Element in a BST（二叉搜索树第K个元素）](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
+| [20201024](./guangxu/202010/20201024.md) |[剑指offer-二叉树的下一个节点](https://www.nowcoder.com/practice/9023a0c988684a53960365b889ceaf5e?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201102](./guangxu/202011/20201102.md) |[208. Implement Trie (Prefix Tree)前缀树](https://leetcode.com/problems/implement-trie-prefix-tree/)|
+| [20201030](./guangxu/202010/20201030.md) |[101. Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/)|
+| [20201028](./guangxu/202010/20201028.md) |[103. Binary Tree Zigzag Level Order Traversal(二叉树的锯齿形层次遍历-百度)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|
+| [20201104](./guangxu/202011/20201104.md) |[98. Validate Binary Search Tree(验证二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)|
+| [20201112](./guangxu/202011/20201112.md) |[404. Sum of Left Leaves（左侧节点之和）](https://leetcode.com/problems/sum-of-left-leaves/)|
+| [20201111](./guangxu/202011/20201111.md) |[103. Binary Tree Zigzag Level Order Traversal（之字形打印二叉树）](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|
+| [20201110](./guangxu/202011/20201110.md) |[102. Binary Tree Level Order Traversal（二叉树层次遍历）](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
 | [20201128](./guangxu/202011/20201128.md) |[199. Binary Tree Right Side View (二叉树右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)|
 | [20201127](./guangxu/202011/20201127.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|
 | [20201126](./guangxu/202011/20201126.md) |[617. Merge Two Binary Trees(两个二叉树合并)](https://leetcode.com/problems/merge-two-binary-trees/)|
@@ -139,118 +148,116 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20201116](./guangxu/202011/20201116.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 | [20201115](./guangxu/202011/20201115.md) |[637. Average of Levels in Binary Tree（二叉树每一层求平均）](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|
 | [20201114](./guangxu/202011/20201114.md) |[107. Binary Tree Level Order Traversal II（二叉树层次遍历二）](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|
-| [20201113](./guangxu/202011/20201113.md) |[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|
-| [20201112](./guangxu/202011/20201112.md) |[404. Sum of Left Leaves（左侧节点之和）](https://leetcode.com/problems/sum-of-left-leaves/)|
-| [20201111](./guangxu/202011/20201111.md) |[103. Binary Tree Zigzag Level Order Traversal（之字形打印二叉树）](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|
-| [20201110](./guangxu/202011/20201110.md) |[102. Binary Tree Level Order Traversal（二叉树层次遍历）](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
-| [20201109](./guangxu/202011/20201109.md) |[239. Sliding Window Maximum（滑动窗口最大值）](https://leetcode.com/problems/sliding-window-maximum/)|
-| [20201108](./guangxu/202011/20201108.md) |[72. Edit Distance（编辑距离）](https://leetcode.com/problems/edit-distance/)|
-| [20201107](./guangxu/202011/20201107.md) |[5. Longest Palindromic Substring(最长回文串)](https://leetcode.com/problems/longest-palindromic-substring/)|
-| [20201106](./guangxu/202011/20201106.md) |[69. Sqrt(x)(折半查找求根号)](https://leetcode.com/problems/sqrtx/)|
-| [20201105](./guangxu/202011/20201105.md) |[62. Unique Paths（不同路径）](https://leetcode.com/problems/unique-paths/)|
-| [20201104](./guangxu/202011/20201104.md) |[98. Validate Binary Search Tree(验证二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)|
-| [20201103](./guangxu/202011/20201103.md) |[234. Palindrome Linked List（验证回文链表）](https://leetcode.com/problems/palindrome-linked-list/)|
-| [20201102](./guangxu/202011/20201102.md) |[208. Implement Trie (Prefix Tree)前缀树](https://leetcode.com/problems/implement-trie-prefix-tree/)|
-| [20201101](./guangxu/202011/20201101.md) |[46. Permutations](https://leetcode.com/problems/permutations/)|
-| [20201031](./guangxu/202010/20201031.md) |[53. Maximum Subarray(最大子序和)](https://leetcode.com/problems/maximum-subarray/)|
-| [20201030](./guangxu/202010/20201030.md) |[101. Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/)|
-| [20201029](./guangxu/202010/20201029.md) |[142. Linked List Cycle II(环形链表节点)](https://leetcode.com/problems/linked-list-cycle-ii/)|
-| [20201028](./guangxu/202010/20201028.md) |[103. Binary Tree Zigzag Level Order Traversal(二叉树的锯齿形层次遍历-百度)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|
-| [20201027](./guangxu/202010/20201027.md) |[剑指offer-剪绳子](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201026](./guangxu/202010/20201026.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201025](./guangxu/202010/20201025.md) |[剑指offer-矩阵中的路径](https://www.nowcoder.com/practice/c61c6999eecb4b8f88a98f66b273a3cc?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201024](./guangxu/202010/20201024.md) |[剑指offer-二叉树的下一个节点](https://www.nowcoder.com/practice/9023a0c988684a53960365b889ceaf5e?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201023](./guangxu/202010/20201023.md) |[剑指offer-删除链表中的重复节点](https://www.nowcoder.com/practice/fc533c45b73a41b0b44ccba763f866ef?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201022](./guangxu/202010/20201022.md) |[剑指offer-字符流中第一个不重复出现的字符](https://www.nowcoder.com/practice/00de97733b8e4f97a3fb5c680ee10720?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201021](./guangxu/202010/20201021.md) |[剑指offer-表示数值的字符串](https://www.nowcoder.com/practice/6f8c901d091949a5837e24bb82a731f2?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201020](./guangxu/202010/20201020.md) |[剑指offer-正则表达式匹配](https://www.nowcoder.com/practice/45327ae22b7b413ea21df13ee7d6429c?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201019](./guangxu/202010/20201019.md) |[剑指offer-构建乘积数组](https://www.nowcoder.com/practice/94a4d381a68b47b7a8bed86f2975db46?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201018](./guangxu/202010/20201018.md) |[剑指offer-把字符串转换成整数](https://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201017](./guangxu/202010/20201017.md) |[剑指offer-数组中的重复数字](https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201016](./guangxu/202010/20201016.md) |[剑指offer滑动窗口的最大值](https://www.nowcoder.com/practice/1624bc35a45c42c0bc17d17fa0cba788?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201015](./guangxu/202010/20201015.md) |[剑指offer-数据流中的中位数](https://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201014](./guangxu/202010/20201014.md) |[剑指offer-二叉搜索树的第k个节点](https://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201013](./guangxu/202010/20201013.md) |[剑指offer-序列化二叉树](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201012](./guangxu/202010/20201012.md) |[剑指offer-把二叉树打印成多行](https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201011](./guangxu/202010/20201011.md) |[剑指offer-按之字形打印二叉树](https://www.nowcoder.com/practice/91b69814117f4e8097390d107d2efbe0?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201010](./guangxu/202010/20201010.md) |[剑指offer-反转单词顺序](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201009](./guangxu/202010/20201009.md) |[剑指offer-对称的二叉树](https://www.nowcoder.com/practice/ff05d44dfdb04e1d83bdbdab320efbcb?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201215](./guangxu/202012/20201215.md) |[449. Serialize and Deserialize BST(序列化和反序列化二叉树)](https://leetcode.com/problems/serialize-and-deserialize-bst/)|
+| [20201213](./guangxu/202012/20201213.md) |[104. Maximum Depth of Binary Tree（树的最大深度）](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
+| [20201222](./guangxu/202012/20201222.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(根据前序和中序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|
+| [20201221](./guangxu/202012/20201221.md) |[938. Range Sum of BST（BST范围内的和）](https://leetcode.com/problems/range-sum-of-bst/)|
+| [20201220](./guangxu/202012/20201220.md) |[230. Kth Smallest Element in a BST(第k个最小的元素)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|
+| [20201219](./guangxu/202012/20201219.md) |[653. Two Sum IV - Input is a BST(求节点之和)](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|
+| [20201218](./guangxu/202012/20201218.md) |[783. Minimum Distance Between BST Nodes(所有节点最小绝对值)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|
+| [20201217](./guangxu/202012/20201217.md) |[530. Minimum Absolute Difference in BST(父子节点最小绝对值)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|
+| [20210101](./guangxu/202101/20210101.md) |[110. Balanced Binary Tree(平衡二叉树的判断)](https://leetcode.com/problems/balanced-binary-tree/)|
+| [20201231](./guangxu/202012/20201231.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树最近的公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
+| [20210108](./guangxu/202101/20210108.md) |[222. Count Complete Tree Nodes(求二叉树节点的总数量:深度/广度)](https://leetcode.com/problems/count-complete-tree-nodes/)|
+
+### 栈
+
+| 参考解答 | 原题地址 |
+| :---- | :-----|
+| [20200826](./guangxu/202008/20200826.md) | [剑指offer-用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200911](./guangxu/202009/20200911.md) |[剑指offer-栈的压入弹出序列](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200910](./guangxu/202009/20200910.md) |[剑指offer-包含min函数的栈](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201216](./guangxu/202012/20201216.md) |[32. Longest Valid Parentheses(最长有效匹配括号)](https://leetcode.com/problems/longest-valid-parentheses/)|
+| [20201214](./guangxu/202012/20201214.md) |[20. Valid Parentheses（有效的括号）](https://leetcode.com/problems/valid-parentheses/)|
+
+### 链表
+
+| 参考解答 | 原题地址 |
+| :---- | :-----|
+| [20200917](./guangxu/202009/20200917.md) |[剑指offer-字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200824](./guangxu/202008/20200824.md) | [剑指offer-从尾到头打印单链表](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&&tqId=11156&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
+| [20200811](./guangxu/202008/20200811.md) | [206. Reverse Linked List（链表反转）](https://leetcode.com/problems/reverse-linked-list/) |
+| [20200818](./guangxu/202008/20200818.md) |[142. Linked List Cycle II（循环链表2）](https://leetcode.com/problems/linked-list-cycle-ii/)|
+| [20200817](./guangxu/202008/20200817.md) |[141. Linked List Cycle（循环链表1）](https://leetcode.com/problems/linked-list-cycle/)|
 | [20201008](./guangxu/202010/20201008.md) |[剑指offer-链表中的环节点入口](https://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201007](./guangxu/202010/20201007.md) |[剑指offer-不用加减乘除做加法](https://www.nowcoder.com/practice/59ac416b4b944300b617d4f7f111b215?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201006](./guangxu/202010/20201006.md) |[剑指offer-求1+2+3+...+n](https://www.nowcoder.com/practice/7a0da8fc483247ff8800059e12d7caf1?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201005](./guangxu/202010/20201005.md) |[剑指offer-孩子们的游戏-圆圈中剩下的数字](https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201004](./guangxu/202010/20201004.md) |[剑指offer-扑克牌顺子](https://www.nowcoder.com/practice/762836f4d43d43ca9deb273b3de8e1f4?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20201003](./guangxu/202010/20201003.md) |[剑指offer-左旋转字符串](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200926](./guangxu/202009/20200926.md) |[剑指offer-两个链表的第一个公共节点](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200915](./guangxu/202009/20200915.md) |[剑指offer-复杂链表的复制](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200906](./guangxu/202009/20200906.md) |[剑指offer-合并两个排序的列表](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200905](./guangxu/202009/20200905.md) |[反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200904](./guangxu/202009/20200904.md) | [剑指offer-链表中倒数第k个节点](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201023](./guangxu/202010/20201023.md) |[剑指offer-删除链表中的重复节点](https://www.nowcoder.com/practice/fc533c45b73a41b0b44ccba763f866ef?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201103](./guangxu/202011/20201103.md) |[234. Palindrome Linked List（验证回文链表）](https://leetcode.com/problems/palindrome-linked-list/)|
+| [20201029](./guangxu/202010/20201029.md) |[142. Linked List Cycle II(环形链表节点)](https://leetcode.com/problems/linked-list-cycle-ii/)|
+| [20201206](./guangxu/202012/20201206.md) |[21. Merge Two Sorted Lists（合并两个有序的单链表）](https://leetcode.com/problems/merge-two-sorted-lists/)|
+| [20201205](./guangxu/202012/20201205.md) |[876. Middle of the Linked List（寻找链表的中点）](https://leetcode.com/problems/middle-of-the-linked-list/)|
+| [20201204](./guangxu/202012/20201204.md) |[237. Delete Node in a Linked List(删除链表中的一个节点)](https://leetcode.com/problems/delete-node-in-a-linked-list/)|
+| [20201203](./guangxu/202012/20201203.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)|
+| [20201202](./guangxu/202012/20201202.md) |[206. Reverse Linked List（链表反转）](https://leetcode.com/problems/reverse-linked-list/)|
+| [20201201](./guangxu/202012/20201201.md) |[141. Linked List Cycle（判断链表中是否有环）](https://leetcode.com/problems/linked-list-cycle/)|
+| [20201130](./guangxu/202011/20201130.md) |[142. Linked List Cycle II(找链表环的交点)](https://leetcode.com/problems/linked-list-cycle-ii/)|
+| [20201212](./guangxu/202012/20201212.md) |[19. Remove Nth Node From End of List(删除倒数第N个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|
+| [20201210](./guangxu/202012/20201210.md) |[349. Intersection of Two Arrays（两个List重复的元素）](https://leetcode.com/problems/intersection-of-two-arrays/)|
+
+### 数组
+
+| 参考解答 | 原题地址 |
+| :---- | :-----|
+
 | [20201002](./guangxu/202010/20201002.md) |[剑指offer-和为S的两个数字](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20201001](./guangxu/202010/20201001.md) |[剑指offer-和为S的连续正数序列](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200930](./guangxu/202009/20200930.md) |[剑指offer-数组中只出现一次的数字](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200929](./guangxu/202009/20200929.md) |[剑指offer-平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200928](./guangxu/202009/20200928.md) |[剑指offer-二叉树的深度](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200927](./guangxu/202009/20200927.md) |[剑指offer-数字在升序数组中出现的次数](https://www.nowcoder.com/practice/70610bf967994b22bb1c26f9ae901fa2?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200926](./guangxu/202009/20200926.md) |[剑指offer-两个链表的第一个公共节点](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200925](./guangxu/202009/20200925.md) |[剑指offer-数组中的逆序对](https://www.nowcoder.com/practice/96bd6684e04a44eb80e6a68efc0ec6c5?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200924](./guangxu/202009/20200924.md) |[剑指offer-第一个只出现一次的字符](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200923](./guangxu/202009/20200923.md) |[剑指offer-丑数](https://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200909](./guangxu/202009/20200909.md) |[剑指offer-顺时针打印矩阵](https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200903](./guangxu/202009/20200903.md) | [剑指Offer-调整数组顺序使奇数位于偶数前面](https://www.nowcoder.com/practice/beb5aa231adc45b2a5dcc5b62c93f593?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200827](./guangxu/202008/20200827.md) | [剑指offer-旋转数组中的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200815](./guangxu/202008/20200815.md) |[4. Median of Two Sorted Arrays（两个排序数组的中位数）](https://leetcode.com/problems/median-of-two-sorted-arrays/)|
+| [20200812](./guangxu/202008/20200812.md) | [329. Longest Increasing Path in a Matrix（矩阵中最长增序列）](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) |
+| [20201019](./guangxu/202010/20201019.md) |[剑指offer-构建乘积数组](https://www.nowcoder.com/practice/94a4d381a68b47b7a8bed86f2975db46?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200822](./guangxu/202008/20200822.md) |[剑指offer-二维数组中的查找](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&&tqId=11154&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
+| [20201015](./guangxu/202010/20201015.md) |[剑指offer-数据流中的中位数](https://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200807](./guangxu/202008/20200807.md) | [303. Range Sum Query - Immutable（数组范围内求和）](https://leetcode.com/problems/range-sum-query-immutable/) |
 | [20200922](./guangxu/202009/20200922.md) |[剑指offer-把数组排成最小的数](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200921](./guangxu/202009/20200921.md) |[剑指offer-数组中1出现的次数](https://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200920](./guangxu/202009/20200920.md) |[剑指offer-连续子数组的最大和](https://www.nowcoder.com/practice/459bd355da1549fa8a49e350bf3df484?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200919](./guangxu/202009/20200919.md) |[剑指offer-最小的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200918](./guangxu/202009/20200918.md) |[剑指offer-数组中超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200917](./guangxu/202009/20200917.md) |[剑指offer-字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200916](./guangxu/202009/20200916.md) |[剑指offer-二叉搜索树与双向链表](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200915](./guangxu/202009/20200915.md) |[剑指offer-复杂链表的复制](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200914](./guangxu/202009/20200914.md) |[剑指offer-二叉树中和为某一路径的值](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200913](./guangxu/202009/20200913.md) |[剑指offer-二叉树的后续遍历](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200912](./guangxu/202009/20200912.md) |[剑指offer-从上往下打印二叉树](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200911](./guangxu/202009/20200911.md) |[剑指offer-栈的压入弹出序列](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200910](./guangxu/202009/20200910.md) |[剑指offer-包含min函数的栈](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200909](./guangxu/202009/20200909.md) |[剑指offer-顺时针打印矩阵](https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200908](./guangxu/202009/20200908.md) |[剑指offer-二叉树的镜像](https://www.nowcoder.com/practice/564f4c26aa584921bc75623e48ca3011?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200907](./guangxu/202009/20200907.md) |[剑指offer-树的子结构](https://www.nowcoder.com/practice/6e196c44c7004d15b1610b9afca8bd88?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200906](./guangxu/202009/20200906.md) |[剑指offer-合并两个排序的列表](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200905](./guangxu/202009/20200905.md) |[反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200904](./guangxu/202009/20200904.md) | [剑指offer-链表中倒数第k个节点](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200903](./guangxu/202009/20200903.md) | [剑指Offer-调整数组顺序使奇数位于偶数前面](https://www.nowcoder.com/practice/beb5aa231adc45b2a5dcc5b62c93f593?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200902](./guangxu/202009/20200902.md) | [剑指offer-数值的整数次方](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200901](./guangxu/202009/20200901.md) | [剑指offer-二进制中1的个数](https://www.nowcoder.com/practice/8ee967e43c2c4ec193b040ea7fbb10b8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200831](./guangxu/202008/20200831.md) | [剑指offer-矩形覆盖](https://www.nowcoder.com/practice/72a5a919508a4251859fb2cfb987a0e6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200830](./guangxu/202008/20200830.md) | [剑指offer-变态跳台阶](https://www.nowcoder.com/practice/22243d016f6b47f2a6928b4313c85387?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200829](./guangxu/202008/20200829.md) | [剑指offer-跳台阶](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=13&&tqId=11161&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
-| [20200828](./guangxu/202008/20200828.md) | [剑指offer-斐波那契数列](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200827](./guangxu/202008/20200827.md) | [剑指offer-旋转数组中的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200826](./guangxu/202008/20200826.md) | [剑指offer-用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
-| [20200825](./guangxu/202008/20200825.md) | [剑指offer-重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1) |
-| [20200824](./guangxu/202008/20200824.md) | [剑指offer-从尾到头打印单链表](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&&tqId=11156&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
-| [20200823](./guangxu/202008/20200823.md) |[剑指offer-替换空格](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&&tqId=11155&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
-| [20200822](./guangxu/202008/20200822.md) |[剑指offer-二维数组中的查找](https://www.n\owcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&&tqId=11154&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
-| [20200821](./guangxu/202008/20200821.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|
-| [20200820](./guangxu/202008/20200820.md) |[剑指offer-剪绳子](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=13&&tqId=33257&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
-| [20200819](./guangxu/202008/20200819.md) |[268. Missing Number（丢失的数字）](https://leetcode.com/problems/missing-number/)|
-| [20200818](./guangxu/202008/20200818.md) |[142. Linked List Cycle II（循环链表2）](https://leetcode.com/problems/linked-list-cycle-ii/)|
-| [20200817](./guangxu/202008/20200817.md) |[141. Linked List Cycle（循环链表1）](https://leetcode.com/problems/linked-list-cycle/)|
-| [20200816](./guangxu/202008/20200816.md) |[199. Binary Tree Right Side View（二叉树右视图）](https://leetcode.com/problems/binary-tree-right-side-view/)|
-| [20200815](./guangxu/202008/20200815.md) |[4. Median of Two Sorted Arrays（两个排序数组的中位数）](https://leetcode.com/problems/median-of-two-sorted-arrays/)|
-| [20200814](./guangxu/202008/20200814.md) | [94. Binary Tree Inorder Traversal（二叉树中序遍历）](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
-| [20200813](./guangxu/202008/20200813.md) | [330. Patching Array（添加数字）](https://leetcode.com/problems/patching-array/) |
-| [20200812](./guangxu/202008/20200812.md) | [329. Longest Increasing Path in a Matrix（矩阵中最长增序列）](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) |
-| [20200811](./guangxu/202008/20200811.md) | [206. Reverse Linked List（链表反转）](https://leetcode.com/problems/reverse-linked-list/) |
-| [20200810](./guangxu/202008/20200810.md) | [102. Binary Tree Level Order Traversal（二叉树层次遍历）](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
-| [20200809](./guangxu/202008/20200809.md) | [72. Edit Distance（编辑距离）](https://leetcode.com/problems/edit-distance/) |
-| [20200808](./guangxu/202008/20200808.md) | [230. Kth Smallest Element in a BST（二叉搜索树第K个元素）](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
-| [20200807](./guangxu/202008/20200807.md) | [303. Range Sum Query - Immutable（数组范围内求和）](https://leetcode.com/problems/range-sum-query-immutable/) |
+| [20201017](./guangxu/202010/20201017.md) |[剑指offer-数组中的重复数字](https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201106](./guangxu/202011/20201106.md) |[69. Sqrt(x)(折半查找求根号)](https://leetcode.com/problems/sqrtx/)|
+| [20201113](./guangxu/202011/20201113.md) |[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|
+| [20201225](./guangxu/202012/20201225.md) |[88. Merge Sorted Array(合并排序的数组)](https://leetcode.com/problems/merge-sorted-array/)|
+| [20210102](./guangxu/202101/20210102.md) |[55. Jump Game(跳到最后一格)](https://leetcode.com/problems/jump-game/)|
+| [20210104](./guangxu/202101/20210104.md) |[217. Contains Duplicate（数组重复元素）](https://leetcode.com/problems/contains-duplicate/)|
+| [20200807](./guangxu/202008/20200807.md) | [303. Range Sum Query - Immutable（数组范围内求和）](https://leetcode.com/problems/range-sum-query-immutable/)|
 
 
 ### 位运算
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20200902](./guangxu/202009/20200902.md) | [剑指offer-数值的整数次方](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201007](./guangxu/202010/20201007.md) |[剑指offer-不用加减乘除做加法](https://www.nowcoder.com/practice/59ac416b4b944300b617d4f7f111b215?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201006](./guangxu/202010/20201006.md) |[剑指offer-求1+2+3+...+n](https://www.nowcoder.com/practice/7a0da8fc483247ff8800059e12d7caf1?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200901](./guangxu/202009/20200901.md) | [剑指offer-二进制中1的个数](https://www.nowcoder.com/practice/8ee967e43c2c4ec193b040ea7fbb10b8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+
 
 ### 图
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20201026](./guangxu/202010/20201026.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201025](./guangxu/202010/20201025.md) |[剑指offer-矩阵中的路径](https://www.nowcoder.com/practice/c61c6999eecb4b8f88a98f66b273a3cc?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201105](./guangxu/202011/20201105.md) |[62. Unique Paths（不同路径）](https://leetcode.com/problems/unique-paths/)|
+
 
 ### 其他
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20200828](./guangxu/202008/20200828.md) | [剑指offer-斐波那契数列](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201005](./guangxu/202010/20201005.md) |[剑指offer-孩子们的游戏-圆圈中剩下的数字](https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20201004](./guangxu/202010/20201004.md) |[剑指offer-扑克牌顺子](https://www.nowcoder.com/practice/762836f4d43d43ca9deb273b3de8e1f4?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200831](./guangxu/202008/20200831.md) | [剑指offer-矩形覆盖](https://www.nowcoder.com/practice/72a5a919508a4251859fb2cfb987a0e6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20200820](./guangxu/202008/20200820.md) |[剑指offer-剪绳子](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=13&&tqId=33257&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
+| [20201129](./guangxu/202011/20201129.md) |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|
+| [20201027](./guangxu/202010/20201027.md) |[剑指offer-剪绳子](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
