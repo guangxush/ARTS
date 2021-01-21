@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210122](./202101/20210122.md) |[287. Find the Duplicate Number（发现重复元素）](https://leetcode.com/problems/find-the-duplicate-number/)||||
 | [20210121](./202101/20210121.md) |[148. Sort List（链表排序）](https://leetcode.com/problems/sort-list/)||||
 | [20210120](./202101/20210120.md) |[912. Sort an Array(数组排序)](https://leetcode.com/problems/sort-an-array/)||||
 | [20210119](./202101/20210119.md) |[168. Excel Sheet Column Title(Excel转换)](https://leetcode.com/problems/excel-sheet-column-title/)||||
