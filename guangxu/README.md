@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210123](./202101/20210123.md) |[1095. Find in Mountain Array（查找山峰数组中的元素）](https://leetcode.com/problems/find-in-mountain-array/)||||
 | [20210122](./202101/20210122.md) |[287. Find the Duplicate Number（发现重复元素）](https://leetcode.com/problems/find-the-duplicate-number/)||||
 | [20210121](./202101/20210121.md) |[148. Sort List（链表排序）](https://leetcode.com/problems/sort-list/)||||
 | [20210120](./202101/20210120.md) |[912. Sort an Array(数组排序)](https://leetcode.com/problems/sort-an-array/)||||
