@@ -1,6 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
-| [20210124](./202101/20210124.md) |[887. Super Egg Drop（扔鸡蛋）](https://leetcode.com/problems/super-egg-drop/)||||
+| [20210126](./202101/20210126.md) |[215. Kth Largest Element in an Array(数组中第K个最大元素)](https://leetcode.com/problems/kth-largest-element-in-an-array/)||||
+| [20210125](./202101/20210125.md) |[887. Super Egg Drop（扔鸡蛋）](https://leetcode.com/problems/super-egg-drop/)||||
 | [20210124](./202101/20210124.md) |[206. Reverse Linked List（链表反转）](https://leetcode.com/problems/reverse-linked-list/)||||
 | [20210123](./202101/20210123.md) |[1095. Find in Mountain Array（查找山峰数组中的元素）](https://leetcode.com/problems/find-in-mountain-array/)||||
 | [20210122](./202101/20210122.md) |[287. Find the Duplicate Number（发现重复元素）](https://leetcode.com/problems/find-the-duplicate-number/)||||
