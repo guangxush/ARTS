@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210129](./202101/20210129.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)||||
 | [20210128](./202101/20210128.md) |[91. Decode Ways(动态规划解码方法)](https://leetcode.com/problems/decode-ways/)||||
 | [20210127](./202101/20210127.md) |[48. Rotate Image(图像旋转)](https://leetcode.com/problems/rotate-image)||||
 | [20210126](./202101/20210126.md) |[215. Kth Largest Element in an Array(数组中第K个最大元素)](https://leetcode.com/problems/kth-largest-element-in-an-array/)||||
