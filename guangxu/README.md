@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210131](./202101/20210131.md) |[145. Binary Tree Postorder Traversal(二叉树后序遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)||||
+| [20210130](./202101/20210130.md) |[144. Binary Tree Preorder Traversal(二叉树前序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)||||
 | [20210129](./202101/20210129.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)||||
 | [20210128](./202101/20210128.md) |[91. Decode Ways(动态规划解码方法)](https://leetcode.com/problems/decode-ways/)||||
 | [20210127](./202101/20210127.md) |[48. Rotate Image(图像旋转)](https://leetcode.com/problems/rotate-image)||||
