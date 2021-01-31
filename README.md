@@ -73,6 +73,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210128](./guangxu/202101/20210128.md) |[91. Decode Ways(动态规划解码方法)](https://leetcode.com/problems/decode-ways/)|
+| [20210125](./guangxu/202101/20210125.md) |[887. Super Egg Drop（扔鸡蛋）](https://leetcode.com/problems/super-egg-drop/)|
 | [20200821](./guangxu/202008/20200821.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|
 | [20200809](./guangxu/202008/20200809.md) | [72. Edit Distance（编辑距离）](https://leetcode.com/problems/edit-distance/) |
 | [20201101](./guangxu/202011/20201101.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)|
@@ -102,6 +104,7 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210120](./guangxu/202101/20210120.md) |[912. Sort an Array(数组排序)](https://leetcode.com/problems/sort-an-array/)|
 | [20201107](./guangxu/202011/20201107.md) |希尔排序|
 | [20201106](./guangxu/202011/20201106.md) |选择排序|
 | [20201105](./guangxu/202011/20201105.md) |插入排序|
@@ -114,6 +117,9 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210131](./guangxu/202101/20210131.md) |[145. Binary Tree Postorder Traversal(二叉树后序遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)|
+| [20210130](./guangxu/202101/20210130.md) |[144. Binary Tree Preorder Traversal(二叉树前序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)|
+| [20210129](./guangxu/202101/20210129.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 | [20200814](./guangxu/202008/20200814.md) | [94. Binary Tree Inorder Traversal（二叉树中序遍历）](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 | [20201014](./guangxu/202010/20201014.md) |[剑指offer-二叉搜索树的第k个节点](https://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20201013](./guangxu/202010/20201013.md) |[剑指offer-序列化二叉树](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
@@ -204,6 +210,11 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20201130](./guangxu/202011/20201130.md) |[142. Linked List Cycle II(找链表环的交点)](https://leetcode.com/problems/linked-list-cycle-ii/)|
 | [20201212](./guangxu/202012/20201212.md) |[19. Remove Nth Node From End of List(删除倒数第N个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|
 | [20201210](./guangxu/202012/20201210.md) |[349. Intersection of Two Arrays（两个List重复的元素）](https://leetcode.com/problems/intersection-of-two-arrays/)|
+| [20210124](./guangxu/202101/20210124.md) |[206. Reverse Linked List（链表反转）](https://leetcode.com/problems/reverse-linked-list/)|
+| [20210121](./guangxu/202101/20210121.md) |[148. Sort List（链表排序）](https://leetcode.com/problems/sort-list/)|
+| [20210118](./guangxu/202101/20210118.md) |[141. Linked List Cycle(判断单链表是否有环)](https://leetcode.com/problems/linked-list-cycle/)|
+| [20210117](./guangxu/202101/20210117.md) |[25. Reverse Nodes in k-Group(反转第K组链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|
+
 
 ### 数组
 
@@ -235,7 +246,11 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210102](./guangxu/202101/20210102.md) |[55. Jump Game(跳到最后一格)](https://leetcode.com/problems/jump-game/)|
 | [20210104](./guangxu/202101/20210104.md) |[217. Contains Duplicate（数组重复元素）](https://leetcode.com/problems/contains-duplicate/)|
 | [20200807](./guangxu/202008/20200807.md) | [303. Range Sum Query - Immutable（数组范围内求和）](https://leetcode.com/problems/range-sum-query-immutable/)|
-
+| [20210127](./guangxu/202101/20210127.md) |[48. Rotate Image(图像旋转)](https://leetcode.com/problems/rotate-image)|
+| [20210126](./guangxu/202101/20210126.md) |[215. Kth Largest Element in an Array(数组中第K个最大元素)](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
+| [20210123](./guangxu/202101/20210123.md) |[1095. Find in Mountain Array（查找山峰数组中的元素）](https://leetcode.com/problems/find-in-mountain-array/)|
+| [20210122](./guangxu/202101/20210122.md) |[287. Find the Duplicate Number（发现重复元素）](https://leetcode.com/problems/find-the-duplicate-number/)|
+| [20210119](./guangxu/202101/20210119.md) |[168. Excel Sheet Column Title(Excel转换)](https://leetcode.com/problems/excel-sheet-column-title/)|
 
 ### 位运算
 

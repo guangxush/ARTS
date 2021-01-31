@@ -14,7 +14,7 @@
 | [20210120](./202101/20210120.md) |[912. Sort an Array(数组排序)](https://leetcode.com/problems/sort-an-array/)||||
 | [20210119](./202101/20210119.md) |[168. Excel Sheet Column Title(Excel转换)](https://leetcode.com/problems/excel-sheet-column-title/)||||
 | [20210118](./202101/20210118.md) |[141. Linked List Cycle(判断单链表是否有环)](https://leetcode.com/problems/linked-list-cycle/)|不用中间变量交换两个数组的值|||
-| [20210117](./202101/20210117.md) |[25. Reverse Nodes in k-Group(反转第K组链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|||todo|
+| [20210117](./202101/20210117.md) |[25. Reverse Nodes in k-Group(反转第K组链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)||||
 | [20210116](./202101/20210116.md) |[9. Palindrome Number（判断回文数）](https://leetcode.com/problems/palindrome-number/)||||
 | [20210115](./202101/20210115.md) |[345. Reverse Vowels of a String(元音字母反转)](https://leetcode.com/problems/reverse-vowels-of-a-string/)||||
 | [20210114](./202101/20210114.md) |[344. Reverse String（反转字符串）](https://leetcode.com/problems/reverse-string/)||||
