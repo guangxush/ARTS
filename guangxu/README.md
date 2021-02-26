@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210226](./202102/20210226.md) |[103. Binary Tree Zigzag Level Order Traversal(之字形打印二叉树)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||||
+| [20210225](./202102/20210225.md) |[138. Copy List with Random Pointer(复杂链表拷贝)](https://leetcode.com/problems/copy-list-with-random-pointer/)||||
 | [20210224](./202102/20210224.md) |[79. Word Search(单词查找-dfs)](https://leetcode.com/problems/word-search/)||||
 | [20210223](./202102/20210223.md) |[110. Balanced Binary Tree(验证是否是平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)||||
 | [20210222](./202102/20210222.md) |[89. Gray Code](https://leetcode.com/problems/gray-code/)||||
