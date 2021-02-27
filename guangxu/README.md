@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210227](./202102/20210227.md) |[300. Longest Increasing Subsequence(最长递增序列)](https://leetcode.com/problems/longest-increasing-subsequence/)||||
 | [20210226](./202102/20210226.md) |[103. Binary Tree Zigzag Level Order Traversal(之字形打印二叉树)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||||
 | [20210225](./202102/20210225.md) |[138. Copy List with Random Pointer(复杂链表拷贝)](https://leetcode.com/problems/copy-list-with-random-pointer/)||||
 | [20210224](./202102/20210224.md) |[79. Word Search(单词查找-dfs)](https://leetcode.com/problems/word-search/)||||
