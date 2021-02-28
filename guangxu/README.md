@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210228](./202102/20210228.md) |[118. Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/)||||
 | [20210227](./202102/20210227.md) |[300. Longest Increasing Subsequence(最长递增序列)](https://leetcode.com/problems/longest-increasing-subsequence/)||||
 | [20210226](./202102/20210226.md) |[103. Binary Tree Zigzag Level Order Traversal(之字形打印二叉树)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||||
 | [20210225](./202102/20210225.md) |[138. Copy List with Random Pointer(复杂链表拷贝)](https://leetcode.com/problems/copy-list-with-random-pointer/)||||
@@ -14,7 +15,7 @@
 | [20210216](./202102/20210216.md) |[543. Diameter of Binary Tree(二叉树的直径)](https://leetcode.com/problems/diameter-of-binary-tree/)||||
 | [20210215](./202102/20210215.md) |[22. Generate Parentheses(生成匹配的括号)](https://leetcode.com/problems/generate-parentheses/)||||
 | [20210214](./202102/20210214.md) |[450. Delete Node in a BST(删除二叉树的某一个节点)](https://leetcode.com/problems/delete-node-in-a-bst/)||||
-| [20210213](./202102/20210213.md) |[53. Maximum Subarray(最大字段和)](https://leetcode.com/problems/maximum-subarray/)||||
+| [20210213](./202102/20210213.md) |[53. Maximum Subarray(最大子段和)](https://leetcode.com/problems/maximum-subarray/)||||
 | [20210212](./202102/20210212.md) |[123. Best Time to Buy and Sell Stock III(买股票的最佳时机3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)||||
 | [20210211](./202102/20210211.md) |[122. Best Time to Buy and Sell Stock II(买股票的最佳时机2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||||
 | [20210210](./202102/20210210.md) |[121. Best Time to Buy and Sell Stock(买股票的最佳时机)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||||

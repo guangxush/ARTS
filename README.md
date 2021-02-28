@@ -67,7 +67,9 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210113](./guangxu/202101/20210113.md) |[541. Reverse String II（反转k个字符串）](https://leetcode.com/problems/reverse-string-ii/)|
 | [20210114](./guangxu/202101/20210114.md) |[344. Reverse String（反转字符串）](https://leetcode.com/problems/reverse-string/)|
 | [20210115](./guangxu/202101/20210115.md) |[345. Reverse Vowels of a String(元音字母反转)](https://leetcode.com/problems/reverse-vowels-of-a-string/)|
-
+| [20210220](./guangxu/202102/20210220.md) |[151. Reverse Words in a String(单词字符串反转)](https://leetcode.com/problems/reverse-words-in-a-string/)|
+| [20210219](./guangxu/202102/20210219.md) |[415. Add Strings(字符串求和)](https://leetcode.com/problems/add-strings/)|
+| [20210215](./guangxu/202102/20210215.md) |[22. Generate Parentheses(生成匹配的括号)](https://leetcode.com/problems/generate-parentheses/)|
 
 ### 动态规划
 
@@ -87,6 +89,12 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210109](./guangxu/202101/20210109.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)|
 | [20210107](./guangxu/202101/20210107.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)|
 | [20201211](./guangxu/202012/20201211.md) |[62. Unique Paths(不同路径-动态规划)](https://leetcode.com/problems/unique-paths/)|
+| [20210213](./guangxu/202102/20210213.md) |[53. Maximum Subarray(最大子段和)](https://leetcode.com/problems/maximum-subarray/)|
+| [20210221](./guangxu/202102/20210221.md) |[62. Unique Paths(动态规划求不同路径数)](https://leetcode.com/problems/unique-paths/)|
+| [20210227](./guangxu/202102/20210227.md) |[300. Longest Increasing Subsequence(最长递增序列)](https://leetcode.com/problems/longest-increasing-subsequence/)|
+| [20210212](./guangxu/202102/20210212.md) |[123. Best Time to Buy and Sell Stock III(买股票的最佳时机3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|
+| [20210211](./guangxu/202102/20210211.md) |[122. Best Time to Buy and Sell Stock II(买股票的最佳时机2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|
+| [20210210](./guangxu/202102/20210210.md) |[121. Best Time to Buy and Sell Stock(买股票的最佳时机)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
 
 ### 贪心算法
 
@@ -172,6 +180,17 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210101](./guangxu/202101/20210101.md) |[110. Balanced Binary Tree(平衡二叉树的判断)](https://leetcode.com/problems/balanced-binary-tree/)|
 | [20201231](./guangxu/202012/20201231.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树最近的公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
 | [20210108](./guangxu/202101/20210108.md) |[222. Count Complete Tree Nodes(求二叉树节点的总数量:深度/广度)](https://leetcode.com/problems/count-complete-tree-nodes/)|
+| [20210226](./guangxu/202102/20210226.md) |[103. Binary Tree Zigzag Level Order Traversal(之字形打印二叉树)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|
+| [20210223](./guangxu/202102/20210223.md) |[110. Balanced Binary Tree(验证是否是平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)|
+| [20210217](./guangxu/202102/20210217.md) |[98. Validate Binary Search Tree(验证是否是二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)|
+| [20210216](./guangxu/202102/20210216.md) |[543. Diameter of Binary Tree(二叉树的直径)](https://leetcode.com/problems/diameter-of-binary-tree/)|
+| [20210214](./guangxu/202102/20210214.md) |[450. Delete Node in a BST(删除二叉树的某一个节点)](https://leetcode.com/problems/delete-node-in-a-bst/)|
+| [20210205](./guangxu/202102/20210205.md) |[236. Lowest Common Ancestor of a Binary Tree(左右节点最近公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
+| [20210204](./guangxu/202102/20210204.md) |[124. Binary Tree Maximum Path Sum(二叉树最大路径)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|
+| [20210203](./guangxu/202102/20210203.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(前序和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|
+| [20210202](./guangxu/202102/20210202.md) |[106. Construct Binary Tree from Inorder and Postorder Traversal(中序和后序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|
+| [20210201](./guangxu/202102/20210201.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(前序和中序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|
+
 
 ### 栈
 
@@ -214,7 +233,7 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210121](./guangxu/202101/20210121.md) |[148. Sort List（链表排序）](https://leetcode.com/problems/sort-list/)|
 | [20210118](./guangxu/202101/20210118.md) |[141. Linked List Cycle(判断单链表是否有环)](https://leetcode.com/problems/linked-list-cycle/)|
 | [20210117](./guangxu/202101/20210117.md) |[25. Reverse Nodes in k-Group(反转第K组链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|
-
+| [20210225](./guangxu/202102/20210225.md) |[138. Copy List with Random Pointer(复杂链表拷贝)](https://leetcode.com/problems/copy-list-with-random-pointer/)|
 
 ### 数组
 
@@ -251,6 +270,11 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210123](./guangxu/202101/20210123.md) |[1095. Find in Mountain Array（查找山峰数组中的元素）](https://leetcode.com/problems/find-in-mountain-array/)|
 | [20210122](./guangxu/202101/20210122.md) |[287. Find the Duplicate Number（发现重复元素）](https://leetcode.com/problems/find-the-duplicate-number/)|
 | [20210119](./guangxu/202101/20210119.md) |[168. Excel Sheet Column Title(Excel转换)](https://leetcode.com/problems/excel-sheet-column-title/)|
+| [20210228](./guangxu/202102/20210228.md) |[118. Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/)|
+| [20210209](./guangxu/202102/20210209.md) |[384. Shuffle an Array(打乱数组)](https://leetcode.com/problems/shuffle-an-array/)|
+| [20210208](./guangxu/202102/20210208.md) |[15. 3Sum(三个数字之和)](https://leetcode.com/problems/3sum/)|
+| [20210207](./guangxu/202102/20210207.md) |[74. Search a 2D Matrix(寻找二维矩阵中的数字)](https://leetcode.com/problems/search-a-2d-matrix/)|
+| [20210206](./guangxu/202102/20210206.md) |[240. Search a 2D Matrix II(寻找二维矩阵中的数字)](https://leetcode.com/problems/search-a-2d-matrix-ii/)|
 
 ### 位运算
 
@@ -269,6 +293,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20201026](./guangxu/202010/20201026.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20201025](./guangxu/202010/20201025.md) |[剑指offer-矩阵中的路径](https://www.nowcoder.com/practice/c61c6999eecb4b8f88a98f66b273a3cc?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20201105](./guangxu/202011/20201105.md) |[62. Unique Paths（不同路径）](https://leetcode.com/problems/unique-paths/)|
+| [20210218](./guangxu/202102/20210218.md) |[200. Number of Islands(查询岛屿的数量-dfs)](https://leetcode.com/problems/number-of-islands/)|
+| [20210224](./guangxu/202102/20210224.md) |[79. Word Search(单词查找-dfs)](https://leetcode.com/problems/word-search/)|
 
 
 ### 其他
@@ -282,3 +308,4 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20200820](./guangxu/202008/20200820.md) |[剑指offer-剪绳子](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=13&&tqId=33257&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
 | [20201129](./guangxu/202011/20201129.md) |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|
 | [20201027](./guangxu/202010/20201027.md) |[剑指offer-剪绳子](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
+| [20210222](./guangxu/202102/20210222.md) |[89. Gray Code](https://leetcode.com/problems/gray-code/)|
