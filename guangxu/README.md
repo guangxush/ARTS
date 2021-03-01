@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210302](./202103/20210302.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)||||
+| [20210301](./202103/20210301.md) |[119. Pascal's Triangle II(杨辉三角2)](https://leetcode.com/problems/pascals-triangle-ii/)||||
 | [20210228](./202102/20210228.md) |[118. Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/)||||
 | [20210227](./202102/20210227.md) |[300. Longest Increasing Subsequence(最长递增序列)](https://leetcode.com/problems/longest-increasing-subsequence/)||||
 | [20210226](./202102/20210226.md) |[103. Binary Tree Zigzag Level Order Traversal(之字形打印二叉树)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||||
