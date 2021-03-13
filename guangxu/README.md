@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
+| [20210313](./202103/20210313.md) |[704. Binary Search(二分查找)](https://leetcode.com/problems/binary-search/)||||
 | [20210312](./202103/20210312.md) |[701. Insert into a Binary Search Tree(二叉搜索树的插入)](https://leetcode.com/problems/insert-into-a-binary-search-tree/)||||
 | [20210311](./202103/20210311.md) |[1155. Number of Dice Rolls With Target Sum(掷骰子的N种方法-DP)](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)||||
 | [20210310](./202103/20210310.md) |[739. Daily Temperatures(每日温度)](https://leetcode.com/problems/daily-temperatures/)||||
