@@ -1,6 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | :-----| :---- | :---- |  :---- |  :---- |
-| [20210316](./202103/20210316.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)||||
+| [20210318](./202103/20210318.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)||||
+| [20210317](./202103/20210317.md) |[394. Decode String(字符串解码)](https://leetcode.com/problems/decode-string/)||||
 | [20210316](./202103/20210316.md) |[88. Merge Sorted Array(合并两个有序数组)](https://leetcode.com/problems/merge-sorted-array/)||||
 | [20210315](./202103/20210315.md) |[449. Serialize and Deserialize BST(二叉树的序列化与反序列化)](https://leetcode.com/problems/serialize-and-deserialize-bst/)|||好好准备|
 | [20210314](./202103/20210314.md) |[3. Longest Substring Without Repeating Characters(无重复字符的最长子串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||||
