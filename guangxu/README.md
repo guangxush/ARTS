@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 |-| -| - | - | - |
+| [20210325](./202103/20210325.md) |[146. LRU Cache(LRU缓存机制)](https://leetcode.com/problems/lru-cache/)||||
+| [20210324](./202103/20210324.md) |[121. Best Time to Buy and Sell Stock(买卖股票的最佳时间)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||||
 | [20210323](./202103/20210323.md) |[25. Reverse Nodes in k-Group(K个一组反转链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)||||
 | [20210322](./202103/20210322.md) |[15. 3Sum(三数之和)](https://leetcode.com/problems/3sum/)||||
 | [20210321](./202103/20210321.md) |[5. Longest Palindromic Substring(最长回文数)](https://leetcode.com/problems/longest-palindromic-substring/)||||
