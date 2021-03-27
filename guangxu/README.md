@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 |-| -| - | - | - |
+| [20210327](./202103/20210327.md) |[700. Search in a Binary Search Tree(二叉树查询)](https://leetcode.com/problems/search-in-a-binary-search-tree/)||||
+| [20210326](./202103/20210326.md) |[206. Reverse Linked List(链表反转)](https://leetcode.com/problems/reverse-linked-list/)||||
 | [20210325](./202103/20210325.md) |[146. LRU Cache(LRU缓存机制)](https://leetcode.com/problems/lru-cache/)||||
 | [20210324](./202103/20210324.md) |[121. Best Time to Buy and Sell Stock(买卖股票的最佳时间)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||||
 | [20210323](./202103/20210323.md) |[25. Reverse Nodes in k-Group(K个一组反转链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)||||
