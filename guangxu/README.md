@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210407](./202104/20210407.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)||||
 | [20210406](./202104/20210406.md) |[234. Palindrome Linked List(判断链表是否是回文链表)](https://leetcode.com/problems/palindrome-linked-list/)||||
 | [20210405](./202104/20210405.md) |[21. Merge Two Sorted Lists(相交链表)](https://leetcode.com/problems/merge-two-sorted-lists/)||||
 | [20210404](./202104/20210404.md) |[54. Spiral Matrix(螺旋矩阵)](https://leetcode.com/problems/spiral-matrix/)||||
