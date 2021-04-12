@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210412](./202104/20210412.md) |[69. Sqrt(x)(求根号X)](https://leetcode.com/problems/sqrtx/)||||
 | [20210411](./202104/20210411.md) |[155. Min Stack(最小栈)](https://leetcode.com/problems/min-stack/)||||
 | [20210410](./202104/20210410.md) |[85. Maximal Rectangle(最大矩阵)](https://leetcode.com/problems/maximal-rectangle/)||||
 | [20210409](./202104/20210409.md) |[143. Reorder List(重排链表)](https://leetcode.com/problems/reorder-list/)||||
