@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210416](./202104/20210416.md) |[56. Merge Intervals(合并区间)](https://leetcode.com/problems/merge-intervals/)||||
 | [20210415](./202104/20210415.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)||||
 | [20210414](./202104/20210414.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
 | [20210413](./202104/20210413.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)||||
