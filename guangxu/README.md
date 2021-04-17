@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210415](./202104/20210415.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)||||
+| [20210414](./202104/20210414.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
 | [20210413](./202104/20210413.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)||||
 | [20210412](./202104/20210412.md) |[69. Sqrt(x)(求根号X)](https://leetcode.com/problems/sqrtx/)||||
 | [20210411](./202104/20210411.md) |[155. Min Stack(最小栈)](https://leetcode.com/problems/min-stack/)||||
