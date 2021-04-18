@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210417](./202104/20210417.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)||||
 | [20210416](./202104/20210416.md) |[56. Merge Intervals(合并区间)](https://leetcode.com/problems/merge-intervals/)||||
 | [20210415](./202104/20210415.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)||||
 | [20210414](./202104/20210414.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
