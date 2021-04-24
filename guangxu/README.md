@@ -1,6 +1,12 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20210417](./202104/20210417.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)||||
+| [20210423](./202104/20210423.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)||||
+| [20210422](./202104/20210422.md) |[162. Find Peak Element(寻找峰值)](https://leetcode.com/problems/find-peak-element/)||||
+| [20210421](./202104/20210421.md) |[2. Add Two Numbers(两数相加)](https://leetcode.com/problems/add-two-numbers/)||||
+| [20210420](./202104/20210420.md) |[102. Binary Tree Level Order Traversal(二叉树层次遍历)](https://leetcode.com/problems/binary-tree-level-order-traversal/)||||
+| [20210419](./202104/20210419.md) |[300. Longest Increasing Subsequence(最长递增子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)||||
+| [20210418](./202104/20210418.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)||||
+| [20210417](./202104/20210417.md) |[141. Linked List Cycle(循环链表)](https://leetcode.com/problems/linked-list-cycle/)||||
 | [20210416](./202104/20210416.md) |[56. Merge Intervals(合并区间)](https://leetcode.com/problems/merge-intervals/)||||
 | [20210415](./202104/20210415.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)||||
 | [20210414](./202104/20210414.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
