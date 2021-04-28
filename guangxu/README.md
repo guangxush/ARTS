@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210426](./202104/20210426.md) |[20. Valid Parentheses(有效的括号)](https://leetcode.com/problems/valid-parentheses/)||||
 | [20210425](./202104/20210425.md) |[101. Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/)||||
 | [20210424](./202104/20210424.md) |[200. Number of Islands(岛屿数量)](https://leetcode.com/problems/number-of-islands/)||||
 | [20210423](./202104/20210423.md) |[148. Sort List(链表排序)](https://leetcode.com/problems/sort-list/)||||
