@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210428](./202104/20210428.md) |[415. Add Strings(字符串相加)](https://leetcode.com/problems/add-strings/)||||
+| [20210427](./202104/20210427.md) |[41. First Missing Positive(缺失的第一个正数)](https://leetcode.com/problems/first-missing-positive/)||||
 | [20210426](./202104/20210426.md) |[20. Valid Parentheses(有效的括号)](https://leetcode.com/problems/valid-parentheses/)||||
 | [20210425](./202104/20210425.md) |[101. Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/)||||
 | [20210424](./202104/20210424.md) |[200. Number of Islands(岛屿数量)](https://leetcode.com/problems/number-of-islands/)||||
