@@ -71,6 +71,10 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210219](./guangxu/202102/20210219.md) |[415. Add Strings(字符串求和)](https://leetcode.com/problems/add-strings/)|
 | [20210215](./guangxu/202102/20210215.md) |[22. Generate Parentheses(生成匹配的括号)](https://leetcode.com/problems/generate-parentheses/)|
 | [20210314](./guangxu/202103/20210314.md) |[3. Longest Substring Without Repeating Characters(无重复字符的最长子串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+| [20210429](./guangxu/202104/20210429.md) |[415. Add Strings(字符串相加)](https://leetcode.com/problems/add-strings/)|
+| [20210413](./guangxu/202104/20210413.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)|
+| [20210421](./guangxu/202104/20210421.md) |[2. Add Two Numbers(两数相加)](https://leetcode.com/problems/add-two-numbers/)|
+| [20210412](./guangxu/202104/20210412.md) |[69. Sqrt(x)(求根号X)](https://leetcode.com/problems/sqrtx/)|
 
 
 ### 动态规划
@@ -105,6 +109,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210320](./guangxu/202103/20210320.md) |[713. Subarray Product Less Than K(乘积小于K的子数组)](https://leetcode.com/problems/subarray-product-less-than-k/)|
 | [20210321](./guangxu/202103/20210321.md) |[5. Longest Palindromic Substring(最长回文数)](https://leetcode.com/problems/longest-palindromic-substring/)|
 | [20210317](./guangxu/202103/20210317.md) |[394. Decode String(字符串解码)](https://leetcode.com/problems/decode-string/)|
+| [20210419](./guangxu/202104/20210419.md) |[300. Longest Increasing Subsequence(最长递增子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)|
+
 
 ### 贪心算法
 
@@ -119,7 +125,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20201227](./guangxu/202012/20201227.md) |[123. Best Time to Buy and Sell Stock III(股票最大收益3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|
 | [20210310](./guangxu/202103/20210310.md) |[739. Daily Temperatures(每日温度)](https://leetcode.com/problems/daily-temperatures/)|
 | [20210306](./guangxu/202103/20210306.md) |[877. Stone Game(拿石头)](https://leetcode.com/problems/stone-game/)|
-
+| [20210415](./guangxu/202104/20210415.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)|
+| [20210414](./guangxu/202104/20210414.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)|
 
 ### 排序
 
@@ -208,6 +215,13 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210315](./guangxu/202103/20210315.md) |[449. Serialize and Deserialize BST(二叉树的序列化与反序列化)](https://leetcode.com/problems/serialize-and-deserialize-bst/)|
 | [20210312](./guangxu/202103/20210312.md) |[701. Insert into a Binary Search Tree(二叉搜索树的插入)](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|
 | [20210303](./guangxu/202103/20210303.md) |[102. Binary Tree Level Order Traversal(二叉树层次遍历)](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
+| [20210430](./guangxu/202104/20210430.md) |[958. Check Completeness of a Binary Tree(二叉树的完全性检验)](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|
+| [20210425](./guangxu/202104/20210425.md) |[101. Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/)|
+| [20210420](./guangxu/202104/20210420.md) |[102. Binary Tree Level Order Traversal(二叉树层次遍历)](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
+| [20210408](./guangxu/202104/20210408.md) |[124. Binary Tree Maximum Path Sum(二叉树中的最大路径和)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|
+| [20210402](./guangxu/202104/20210402.md) |[199. Binary Tree Right Side View(二叉树的右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)|
+| [20210401](./guangxu/202104/20210401.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(根据前序和中序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|
+
 
 ### 栈
 
@@ -219,6 +233,9 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20201216](./guangxu/202012/20201216.md) |[32. Longest Valid Parentheses(最长有效匹配括号)](https://leetcode.com/problems/longest-valid-parentheses/)|
 | [20201214](./guangxu/202012/20201214.md) |[20. Valid Parentheses（有效的括号）](https://leetcode.com/problems/valid-parentheses/)|
 | [20210308](./guangxu/202103/20210308.md) |[150. Evaluate Reverse Polish Notation(逆波兰表达式求值)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
+| [20210426](./guangxu/202104/20210426.md) |[20. Valid Parentheses(有效的括号)](https://leetcode.com/problems/valid-parentheses/)|
+| [20210411](./guangxu/202104/20210411.md) |[155. Min Stack(最小栈)](https://leetcode.com/problems/min-stack/)|
+
 
 ### 链表
 
@@ -256,6 +273,15 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210323](./guangxu/202103/20210323.md) |[25. Reverse Nodes in k-Group(K个一组反转链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|
 | [20210326](./guangxu/202103/20210326.md) |[206. Reverse Linked List(链表反转)](https://leetcode.com/problems/reverse-linked-list/)|
 | [20210325](./guangxu/202103/20210325.md) |[146. LRU Cache(LRU缓存机制)](https://leetcode.com/problems/lru-cache/)|
+| [20210428](./guangxu/202104/20210428.md) |[92. Reverse Linked List II(反转链表2)](https://leetcode.com/problems/reverse-linked-list-ii/)|
+| [20210423](./guangxu/202104/20210423.md) |[148. Sort List(链表排序)](https://leetcode.com/problems/sort-list/)|
+| [20210418](./guangxu/202104/20210418.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)|
+| [20210417](./guangxu/202104/20210417.md) |[141. Linked List Cycle(循环链表)](https://leetcode.com/problems/linked-list-cycle/)|
+| [20210409](./guangxu/202104/20210409.md) |[143. Reorder List(重排链表)](https://leetcode.com/problems/reorder-list/)|
+| [20210406](./guangxu/202104/20210406.md) |[234. Palindrome Linked List(判断链表是否是回文链表)](https://leetcode.com/problems/palindrome-linked-list/)|
+| [20210405](./guangxu/202104/20210405.md) |[21. Merge Two Sorted Lists(相交链表)](https://leetcode.com/problems/merge-two-sorted-lists/)|
+| [20210403](./guangxu/202104/20210403.md) |[160. Intersection of Two Linked Lists(相交链表)](https://leetcode.com/problems/intersection-of-two-linked-lists/)|
+
 
 ### 数组
 
@@ -307,6 +333,13 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210302](./guangxu/202103/20210302.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)|
 | [20210301](./guangxu/202103/20210301.md) |[119. Pascal's Triangle II(杨辉三角2)](https://leetcode.com/problems/pascals-triangle-ii/)|
 | [20210307](./guangxu/202103/20210307.md) |[84. Largest Rectangle in Histogram(柱状图最大矩形面积)](https://leetcode.com/problems/largest-rectangle-in-histogram/)|
+| [20210427](./guangxu/202104/20210427.md) |[41. First Missing Positive(缺失的第一个正数)](https://leetcode.com/problems/first-missing-positive/)|
+| [20210424](./guangxu/202104/20210424.md) |[200. Number of Islands(岛屿数量)](https://leetcode.com/problems/number-of-islands/)|
+| [20210422](./guangxu/202104/20210422.md) |[162. Find Peak Element(寻找峰值)](https://leetcode.com/problems/find-peak-element/)|
+| [20210410](./guangxu/202104/20210410.md) |[85. Maximal Rectangle(最大矩阵)](https://leetcode.com/problems/maximal-rectangle/)|
+| [20210404](./guangxu/202104/20210404.md) |[54. Spiral Matrix(螺旋矩阵)](https://leetcode.com/problems/spiral-matrix/)|
+| [20210416](./guangxu/202104/20210416.md) |[56. Merge Intervals(合并区间)](https://leetcode.com/problems/merge-intervals/)|
+| [20210407](./guangxu/202104/20210407.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)|
 
 ### 位运算
 
