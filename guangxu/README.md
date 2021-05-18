@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210518](./202105/20210518.md) |[232. Implement Queue using Stacks(用栈实现队列)](https://leetcode.com/problems/implement-queue-using-stacks/)||||
 | [20210517](./202105/20210517.md) |[225. Implement Stack using Queues(用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/)||||
 | [20210516](./202105/20210516.md) |[198. House Robber(打家劫舍)](https://leetcode.com/problems/house-robber/)||||
 | [20210515](./202105/20210515.md) |[470. Implement Rand10 Using Rand7(使用随机数7实现随机数10)](https://leetcode.com/problems/implement-rand10-using-rand7/)||||
