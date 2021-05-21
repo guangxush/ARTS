@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210521](./202105/20210521.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)||||
 | [20210520](./202105/20210520.md) |[162. Find Peak Element(寻找峰值)](https://leetcode.com/problems/find-peak-element/)||||
 | [20210519](./202105/20210519.md) |[415. Add Strings(字符串相加)](https://leetcode.com/problems/add-strings/)||||
 | [20210518](./202105/20210518.md) |[232. Implement Queue using Stacks(用栈实现队列)](https://leetcode.com/problems/implement-queue-using-stacks/)||||
