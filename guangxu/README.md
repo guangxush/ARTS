@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210525](./202105/20210525.md) |[26. Remove Duplicates from Sorted Array(删除排序数组中的重复元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||||
 | [20210524](./202105/20210524.md) |[53. Maximum Subarray(最大字段和)](https://leetcode.com/problems/maximum-subarray/)||||
 | [20210523](./202105/20210523.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/)||||
 | [20210522](./202105/20210522.md) |[142. Linked List Cycle II(环形链表2)](https://leetcode.com/problems/linked-list-cycle-ii/)||||
