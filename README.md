@@ -43,6 +43,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210519](./guangxu/202105/20210519.md) |[415. Add Strings(字符串相加)](https://leetcode.com/problems/add-strings/)|
+| [20210515](./guangxu/202105/20210515.md) |[470. Implement Rand10 Using Rand7(使用随机数7实现随机数10)](https://leetcode.com/problems/implement-rand10-using-rand7/)|
 | [20201010](./guangxu/202010/20201010.md) |[剑指offer-反转单词顺序](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20201003](./guangxu/202010/20201003.md) |[剑指offer-左旋转字符串](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200924](./guangxu/202009/20200924.md) |[剑指offer-第一个只出现一次的字符](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
@@ -81,6 +83,13 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210513](./guangxu/202105/20210513.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)|
+| [20210524](./guangxu/202105/20210524.md) |[53. Maximum Subarray(最大字段和)](https://leetcode.com/problems/maximum-subarray/)|
+| [20210521](./guangxu/202105/20210521.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)|
+| [20210516](./guangxu/202105/20210516.md) |[198. House Robber(打家劫舍)](https://leetcode.com/problems/house-robber/)|
+| [20210512](./guangxu/202105/20210512.md) |[322. Coin Change(零钱兑换-动态规划)](https://leetcode.com/problems/coin-change/)|
+| [20210510](./guangxu/202105/20210510.md) |[300. Longest Increasing Subsequence(最长上升子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)|
+| [20210523](./guangxu/202105/20210523.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/)|
 | [20210128](./guangxu/202101/20210128.md) |[91. Decode Ways(动态规划解码方法)](https://leetcode.com/problems/decode-ways/)|
 | [20210125](./guangxu/202101/20210125.md) |[887. Super Egg Drop（扔鸡蛋）](https://leetcode.com/problems/super-egg-drop/)|
 | [20200821](./guangxu/202008/20200821.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|
@@ -127,12 +136,16 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210306](./guangxu/202103/20210306.md) |[877. Stone Game(拿石头)](https://leetcode.com/problems/stone-game/)|
 | [20210415](./guangxu/202104/20210415.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)|
 | [20210414](./guangxu/202104/20210414.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)|
+| [20210507](./guangxu/202105/20210507.md) |[122. Best Time to Buy and Sell Stock II(买卖股票的最佳时间2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|
+| [20210506](./guangxu/202105/20210506.md) |[121. Best Time to Buy and Sell Stock(买卖股票的最佳时间)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
+| [20210505](./guangxu/202105/20210505.md) |[123. Best Time to Buy and Sell Stock III(买卖股票的最佳时间3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|
 
 ### 排序
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
 | [20210120](./guangxu/202101/20210120.md) |[912. Sort an Array(数组排序)](https://leetcode.com/problems/sort-an-array/)|
+| [20210504](./guangxu/202105/20210504.md) |[912. Sort an Array(归并排序)](https://leetcode.com/problems/sort-an-array/)|
 | [20201107](./guangxu/202011/20201107.md) |希尔排序|
 | [20201106](./guangxu/202011/20201106.md) |选择排序|
 | [20201105](./guangxu/202011/20201105.md) |插入排序|
@@ -145,6 +158,10 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210529](./guangxu/202105/20210529.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
+| [20210528](./guangxu/202105/20210528.md) |[113. Path Sum II(路径和2)](https://leetcode.com/problems/path-sum-ii/)|
+| [20210527](./guangxu/202105/20210527.md) |[543. Diameter of Binary Tree(二叉树的直径)](https://leetcode.com/problems/diameter-of-binary-tree/)|
+| [20210501](./guangxu/202105/20210501.md) |[102. Binary Tree Level Order Traversal(二叉树层次遍历)](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
 | [20210131](./guangxu/202101/20210131.md) |[145. Binary Tree Postorder Traversal(二叉树后序遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)|
 | [20210130](./guangxu/202101/20210130.md) |[144. Binary Tree Preorder Traversal(二叉树前序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)|
 | [20210129](./guangxu/202101/20210129.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
@@ -227,6 +244,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210518](./guangxu/202105/20210518.md) |[232. Implement Queue using Stacks(用栈实现队列)](https://leetcode.com/problems/implement-queue-using-stacks/)|
+| [20210517](./guangxu/202105/20210517.md) |[225. Implement Stack using Queues(用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/)|
 | [20200826](./guangxu/202008/20200826.md) | [剑指offer-用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200911](./guangxu/202009/20200911.md) |[剑指offer-栈的压入弹出序列](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200910](./guangxu/202009/20200910.md) |[剑指offer-包含min函数的栈](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
@@ -241,6 +260,10 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210522](./guangxu/202105/20210522.md) |[142. Linked List Cycle II(环形链表2)](https://leetcode.com/problems/linked-list-cycle-ii/)|
+| [20210514](./guangxu/202105/20210514.md) |[24. Swap Nodes in Pairs(两两交换链表中的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
+| [20210509](./guangxu/202105/20210509.md) |[142. Linked List Cycle II(循环链表2)](https://leetcode.com/problems/linked-list-cycle-ii/)|
+| [20210508](./guangxu/202105/20210508.md) |[21. Merge Two Sorted Lists(合并两个有序链表)](https://leetcode.com/problems/merge-two-sorted-lists/)|
 | [20200917](./guangxu/202009/20200917.md) |[剑指offer-字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200824](./guangxu/202008/20200824.md) | [剑指offer-从尾到头打印单链表](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&&tqId=11156&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
 | [20200811](./guangxu/202008/20200811.md) | [206. Reverse Linked List（链表反转）](https://leetcode.com/problems/reverse-linked-list/) |
@@ -287,6 +310,10 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210526](./guangxu/202105/20210526.md) |[88. Merge Sorted Array(合并排好序的数组)](https://leetcode.com/problems/merge-sorted-array/)|
+| [20210525](./guangxu/202105/20210525.md) |[26. Remove Duplicates from Sorted Array(删除排序数组中的重复元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
+| [20210520](./guangxu/202105/20210520.md) |[162. Find Peak Element(寻找峰值)](https://leetcode.com/problems/find-peak-element/)|
+| [20210511](./guangxu/202105/20210511.md) |[88. Merge Sorted Array(合并两个有序数组)](https://leetcode.com/problems/merge-sorted-array/)|
 | [20201002](./guangxu/202010/20201002.md) |[剑指offer-和为S的两个数字](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20201001](./guangxu/202010/20201001.md) |[剑指offer-和为S的连续正数序列](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200930](./guangxu/202009/20200930.md) |[剑指offer-数组中只出现一次的数字](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
