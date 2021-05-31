@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210531](./202105/20210531.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)||||
 | [20210530](./202105/20210530.md) |[128. Longest Consecutive Sequence(最长连续序列)](https://leetcode.com/problems/longest-consecutive-sequence/)||||
 | [20210529](./202105/20210529.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)||||
 | [20210528](./202105/20210528.md) |[113. Path Sum II(路径和2)](https://leetcode.com/problems/path-sum-ii/)||||
