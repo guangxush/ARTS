@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210604](./202106/20210604.md) |[8. String to Integer (atoi)(字符串转整数)](https://leetcode.com/problems/string-to-integer-atoi/)||||
 | [20210603](./202106/20210603.md) |[70. Climbing Stairs(爬梯子)](https://leetcode.com/problems/climbing-stairs/)||||
 | [20210602](./202106/20210602.md) |[739. Daily Temperatures(每日温度)](https://leetcode.com/problems/daily-temperatures/)||||
 | [20210601](./202106/20210601.md) |[24. Swap Nodes in Pairs(两两交换链表中的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)||||
