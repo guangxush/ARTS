@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210614](./202106/20210614.md) |[138. Copy List with Random Pointer(复制带随机指针的链表)](https://leetcode.com/problems/copy-list-with-random-pointer/)||||
 | [20210613](./202106/20210613.md) |[221. Maximal Square(最大正方形)](https://leetcode.com/problems/maximal-square/)||||
 | [20210612](./202106/20210612.md) |[110. Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)||||
 | [20210611](./202106/20210611.md) |[110. Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)||||
