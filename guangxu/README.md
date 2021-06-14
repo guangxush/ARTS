@@ -1,8 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
 | [20210614](./202106/20210614.md) |[138. Copy List with Random Pointer(复制带随机指针的链表)](https://leetcode.com/problems/copy-list-with-random-pointer/)||||
-| [20210613](./202106/20210613.md) |[221. Maximal Square(最大正方形)](https://leetcode.com/problems/maximal-square/)||||
-| [20210612](./202106/20210612.md) |[110. Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)||||
+| [20210613](./202106/20210613.md) |[64. Minimum Path Sum(最短路径和)](https://leetcode.com/problems/minimum-path-sum/)
+||||
+| [20210612](./202106/20210612.md) |[221. Maximal Square(最大正方形)](https://leetcode.com/problems/maximal-square/)||||
 | [20210611](./202106/20210611.md) |[110. Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)||||
 | [20210610](./202106/20210610.md) |[230. Kth Smallest Element in a BST(二叉搜索树中第K小的元素)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)||||
 | [20210609](./202106/20210609.md) |[82. Remove Duplicates from Sorted List II(删除排序链表中的重复元素 II)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)||||
