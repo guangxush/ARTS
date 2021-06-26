@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210626](./202106/20210626.md) |[695. Max Area of Island(岛屿的最大面积)](https://leetcode.com/problems/max-area-of-island/)||||
 | [20210625](./202106/20210625.md) |[560. Subarray Sum Equals K(和为K的子数组)](https://leetcode.com/problems/subarray-sum-equals-k/)||||
 | [20210624](./202106/20210624.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)||||
 | [20210623](./202106/20210623.md) |[108. Convert Sorted Array to Binary Search Tree(将有序数组转换为二叉搜索树)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)||||
