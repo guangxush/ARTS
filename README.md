@@ -43,6 +43,10 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210615](./guangxu/202106/20210615.md) |[224. Basic Calculator(基本计算器)](https://leetcode.com/problems/basic-calculator/)|
+| [20210608](./guangxu/202106/20210608.md) |[78. Subsets(子集)](https://leetcode.com/problems/subsets/)|
+| [20210604](./guangxu/202106/20210604.md) |[8. String to Integer (atoi)(字符串转整数)](https://leetcode.com/problems/string-to-integer-atoi/)|
+| [20210531](./guangxu/202105/20210531.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)|
 | [20210519](./guangxu/202105/20210519.md) |[415. Add Strings(字符串相加)](https://leetcode.com/problems/add-strings/)|
 | [20210515](./guangxu/202105/20210515.md) |[470. Implement Rand10 Using Rand7(使用随机数7实现随机数10)](https://leetcode.com/problems/implement-rand10-using-rand7/)|
 | [20201010](./guangxu/202010/20201010.md) |[剑指offer-反转单词顺序](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
@@ -83,6 +87,9 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210628](./guangxu/202106/20210628.md) |[670. Maximum Swap(数组中两个数的最大异或值)](https://leetcode.com/problems/maximum-swap/)|
+| [20210624](./guangxu/202106/20210624.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)|
+| [20210626](./guangxu/202106/20210626.md) |[695. Max Area of Island(岛屿的最大面积)](https://leetcode.com/problems/max-area-of-island/)|
 | [20210513](./guangxu/202105/20210513.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)|
 | [20210524](./guangxu/202105/20210524.md) |[53. Maximum Subarray(最大字段和)](https://leetcode.com/problems/maximum-subarray/)|
 | [20210521](./guangxu/202105/20210521.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)|
@@ -125,6 +132,14 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210630](./guangxu/202106/20210630.md) |[135. Candy(分发糖果)](https://leetcode.com/problems/candy/)|
+| [20210618](./guangxu/202106/20210618.md) |[112. Path Sum(路径和)](https://leetcode.com/problems/path-sum/)|
+| [20210617](./guangxu/202106/20210617.md) |[11. Container With Most Water(盛最多水的容器)](https://leetcode.com/problems/container-with-most-water/)|
+| [20210613](./guangxu/202106/20210613.md) |[64. Minimum Path Sum(最短路径和)](https://leetcode.com/problems/minimum-path-sum/)|
+| [20210612](./guangxu/202106/20210612.md) |[221. Maximal Square(最大正方形)](https://leetcode.com/problems/maximal-square/)|
+| [20210603](./guangxu/202106/20210603.md) |[70. Climbing Stairs(爬梯子)](https://leetcode.com/problems/climbing-stairs/)|
+| [20210530](./guangxu/202105/20210530.md) |[128. Longest Consecutive Sequence(最长连续序列)](https://leetcode.com/problems/longest-consecutive-sequence/)|
+| [20210602](./guangxu/202106/20210602.md) |[739. Daily Temperatures(每日温度)](https://leetcode.com/problems/daily-temperatures/)|
 | [20200830](./guangxu/202008/20200830.md) | [剑指offer-变态跳台阶](https://www.nowcoder.com/practice/22243d016f6b47f2a6928b4313c85387?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20200829](./guangxu/202008/20200829.md) | [剑指offer-跳台阶](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=13&&tqId=11161&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)|
 | [20201016](./guangxu/202010/20201016.md) |[剑指offer滑动窗口的最大值](https://www.nowcoder.com/practice/1624bc35a45c42c0bc17d17fa0cba788?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
@@ -158,6 +173,14 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210629](./guangxu/202106/20210629.md) |[129. Sum Root to Leaf Numbers(求根到叶子节点数字之和)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|
+| [20210623](./guangxu/202106/20210623.md) |[108. Convert Sorted Array to Binary Search Tree(将有序数组转换为二叉搜索树)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|
+| [20210621](./guangxu/202106/20210621.md) |[226. Invert Binary Tree(翻转二叉树)](https://leetcode.com/problems/invert-binary-tree/)|
+| [20210620](./guangxu/202106/20210620.md) |[662. Maximum Width of Binary Tree(二叉树最大宽度)](https://leetcode.com/problems/maximum-width-of-binary-tree/)|
+| [20210619](./guangxu/202106/20210619.md) |[297. Serialize and Deserialize Binary Tree(二叉树的序列化与反序列化)](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|
+| [20210611](./guangxu/202106/20210611.md) |[110. Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)|
+| [20210610](./guangxu/202106/20210610.md) |[230. Kth Smallest Element in a BST(二叉搜索树中第K小的元素)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|
+| [20210607](./guangxu/202106/20210607.md) |[240. Search a 2D Matrix II(搜索二维矩阵 II)](https://leetcode.com/problems/search-a-2d-matrix-ii/)|
 | [20210529](./guangxu/202105/20210529.md) |[94. Binary Tree Inorder Traversal(二叉树中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 | [20210528](./guangxu/202105/20210528.md) |[113. Path Sum II(路径和2)](https://leetcode.com/problems/path-sum-ii/)|
 | [20210527](./guangxu/202105/20210527.md) |[543. Diameter of Binary Tree(二叉树的直径)](https://leetcode.com/problems/diameter-of-binary-tree/)|
@@ -260,6 +283,11 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210614](./guangxu/202106/20210614.md) |[138. Copy List with Random Pointer(复制带随机指针的链表)](https://leetcode.com/problems/copy-list-with-random-pointer/)|
+| [20210609](./guangxu/202106/20210609.md) |[82. Remove Duplicates from Sorted List II(删除排序链表中的重复元素 II)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|
+| [20210606](./guangxu/202106/20210606.md) |[114. Flatten Binary Tree to Linked List(二叉树展开为链表)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|
+| [20210605](./guangxu/202106/20210605.md) |[19. Remove Nth Node From End of List(移除链表第n个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|
+| [20210601](./guangxu/202106/20210601.md) |[24. Swap Nodes in Pairs(两两交换链表中的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
 | [20210522](./guangxu/202105/20210522.md) |[142. Linked List Cycle II(环形链表2)](https://leetcode.com/problems/linked-list-cycle-ii/)|
 | [20210514](./guangxu/202105/20210514.md) |[24. Swap Nodes in Pairs(两两交换链表中的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
 | [20210509](./guangxu/202105/20210509.md) |[142. Linked List Cycle II(循环链表2)](https://leetcode.com/problems/linked-list-cycle-ii/)|
@@ -310,6 +338,10 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210627](./guangxu/202106/20210627.md) |[24. Swap Nodes in Pairs(两两交换节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
+| [20210622](./guangxu/202106/20210622.md) |[440. K-th Smallest in Lexicographical Order(字典序的第K小数字HARD)](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)|
+| [20210616](./guangxu/202106/20210616.md) |[862. Shortest Subarray with Sum at Least K(和至少为 K 的最短子数组)](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|
+| [20210625](./guangxu/202106/20210625.md) |[560. Subarray Sum Equals K(和为K的子数组)](https://leetcode.com/problems/subarray-sum-equals-k/)|
 | [20210526](./guangxu/202105/20210526.md) |[88. Merge Sorted Array(合并排好序的数组)](https://leetcode.com/problems/merge-sorted-array/)|
 | [20210525](./guangxu/202105/20210525.md) |[26. Remove Duplicates from Sorted Array(删除排序数组中的重复元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
 | [20210520](./guangxu/202105/20210520.md) |[162. Find Peak Element(寻找峰值)](https://leetcode.com/problems/find-peak-element/)|
