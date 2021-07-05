@@ -1,6 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20210701](./202107/20210702.md) |[287. Find the Duplicate Number(发现数组中重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)||||
+| [20210703](./202107/20210703.md) |[209. Minimum Size Subarray Sum(长度最小的子数组)](https://leetcode.com/problems/minimum-size-subarray-sum/)||||
+| [20210702](./202107/20210702.md) |[287. Find the Duplicate Number(发现数组中重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)||||
 | [20210701](./202107/20210701.md) |[151. Reverse Words in a String(翻转字符串里的单词)](https://leetcode.com/problems/reverse-words-in-a-string/)||||
 | [20210630](./202106/20210630.md) |[135. Candy(分发糖果)](https://leetcode.com/problems/candy/)||||
 | [20210629](./202106/20210629.md) |[129. Sum Root to Leaf Numbers(求根到叶子节点数字之和)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)||||
