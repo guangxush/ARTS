@@ -1,6 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20210706](./202107/20210706.md) |||||
+| [20210706](./202107/20210706.md) |[328. Odd Even Linked List(奇偶链表)](https://leetcode.com/problems/odd-even-linked-list/)||||
 | [20210705](./202107/20210705.md) |[718. Maximum Length of Repeated Subarray(最长公共子序列)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)||||
 | [20210704](./202107/20210704.md) |[91. Decode Ways(解码方法)](https://leetcode.com/problems/decode-ways/)||||
 | [20210703](./202107/20210703.md) |[209. Minimum Size Subarray Sum(长度最小的子数组)](https://leetcode.com/problems/minimum-size-subarray-sum/)||||
