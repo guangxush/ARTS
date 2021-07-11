@@ -1,5 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210711](./202107/20210711.md) |[169. Majority Element(多数元素)](https://leetcode.com/problems/majority-element/)||||
+| [20210710](./202107/20210710.md) |[1047. Remove All Adjacent Duplicates In String(删除字符串中的所有相邻重复项)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)||||
+| [20210709](./202107/20210709.md) |[40. Combination Sum II(组合总和)](https://leetcode.com/problems/combination-sum-ii/)||||
+| [20210708](./202107/20210708.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)||||
 | [20210707](./202107/20210707.md) |[704. Binary Search(二分查找)](https://leetcode.com/problems/binary-search)||||
 | [20210706](./202107/20210706.md) |[328. Odd Even Linked List(奇偶链表)](https://leetcode.com/problems/odd-even-linked-list/)||||
 | [20210705](./202107/20210705.md) |[718. Maximum Length of Repeated Subarray(最长公共子序列)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)||||
