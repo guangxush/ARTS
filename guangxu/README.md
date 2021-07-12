@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210712](./202107/20210712.md) |[4. Median of Two Sorted Arrays(寻找两个正序数组的中位数)](https://leetcode.com/problems/median-of-two-sorted-arrays/)||||
 | [20210711](./202107/20210711.md) |[169. Majority Element(多数元素)](https://leetcode.com/problems/majority-element/)||||
 | [20210710](./202107/20210710.md) |[1047. Remove All Adjacent Duplicates In String(删除字符串中的所有相邻重复项)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)||||
 | [20210709](./202107/20210709.md) |[40. Combination Sum II(组合总和)](https://leetcode.com/problems/combination-sum-ii/)||||
