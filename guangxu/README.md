@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210714](./202107/20210714.md) |[528. Random Pick with Weight(按权重随机选择)](https://leetcode.com/problems/random-pick-with-weight/)||||
 | [20210713](./202107/20210713.md) |[456. 132 Pattern(132模式)](https://leetcode.com/problems/132-pattern/)||||
 | [20210712](./202107/20210712.md) |[4. Median of Two Sorted Arrays(寻找两个正序数组的中位数)](https://leetcode.com/problems/median-of-two-sorted-arrays/)||||
 | [20210711](./202107/20210711.md) |[169. Majority Element(多数元素)](https://leetcode.com/problems/majority-element/)||||
