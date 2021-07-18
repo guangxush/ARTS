@@ -1,5 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210718](./202107/20210718.md) |[977. Squares of a Sorted Array(有序数组的平方)](https://leetcode.com/problems/squares-of-a-sorted-array/)||||
+| [20210717](./202107/20210717.md) |[54. Spiral Matrix(寻找旋转排序数组中的最小值)](https://leetcode.com/problems/spiral-matrix/)||||
+| [20210716](./202107/20210716.md) |[1095. Find in Mountain Array(寻找山脉数组的峰值)](https://leetcode.com/problems/find-in-mountain-array/)||||
+| [20210715](./202107/20210715.md) |[239. Sliding Window Maximum(滑动窗口最大值)](https://leetcode.com/problems/sliding-window-maximum/)||||
 | [20210714](./202107/20210714.md) |[528. Random Pick with Weight(按权重随机选择)](https://leetcode.com/problems/random-pick-with-weight/)||||
 | [20210713](./202107/20210713.md) |[456. 132 Pattern(132模式)](https://leetcode.com/problems/132-pattern/)||||
 | [20210712](./202107/20210712.md) |[4. Median of Two Sorted Arrays(寻找两个正序数组的中位数)](https://leetcode.com/problems/median-of-two-sorted-arrays/)||||
