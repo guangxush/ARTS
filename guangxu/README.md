@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210719](./202107/20210719.md) |[25. Reverse Nodes in k-Group(K个一组的链表反转)](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)||||
 | [20210718](./202107/20210718.md) |[977. Squares of a Sorted Array(有序数组的平方)](https://leetcode.com/problems/squares-of-a-sorted-array/)||||
 | [20210717](./202107/20210717.md) |[54. Spiral Matrix(寻找旋转排序数组中的最小值)](https://leetcode.com/problems/spiral-matrix/)||||
 | [20210716](./202107/20210716.md) |[1095. Find in Mountain Array(寻找山脉数组的峰值)](https://leetcode.com/problems/find-in-mountain-array/)||||
