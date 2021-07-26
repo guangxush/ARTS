@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210726](./202107/20210726.md) |[206. Reverse Linked List(反转链表)](https://leetcode.com/problems/reverse-linked-list/)||||
 | [20210723](./202107/20210723.md) |[146. LRU Cache(LRU缓存机制)](https://leetcode.com/problems/lru-cache/)||||
 | [20210722](./202107/20210722.md) |[103. Binary Tree Zigzag Level Order Traversal(二叉树的锯齿形层次遍历)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||||
 | [20210721](./202107/20210721.md) |[215. Kth Largest Element in an Array(数组中第k个最大的元素)](https://leetcode.com/problems/kth-largest-element-in-an-array/)||||
