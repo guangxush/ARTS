@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210728](./202107/20210728.md) |[121. Best Time to Buy and Sell Stock(最佳买卖股票的时间)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||||
 | [20210727](./202107/20210727.md) |[15. 3Sum(三数之和)](https://leetcode.com/problems/3sum)||||
 | [20210726](./202107/20210726.md) |[206. Reverse Linked List(反转链表)](https://leetcode.com/problems/reverse-linked-list/)||||
 | [20210723](./202107/20210723.md) |[146. LRU Cache(LRU缓存机制)](https://leetcode.com/problems/lru-cache/)||||
