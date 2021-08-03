@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210802](./202107/20210802.md) |[42. Trapping Rain Water(42. 接雨水)](https://leetcode.com/problems/trapping-rain-water/)||||
 | [20210729](./202107/20210729.md) |[160. Intersection of Two Linked Lists(两个相交链表)](https://leetcode.com/problems/intersection-of-two-linked-lists/)||||
 | [20210728](./202107/20210728.md) |[121. Best Time to Buy and Sell Stock(最佳买卖股票的时间)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||||
 | [20210727](./202107/20210727.md) |[15. 3Sum(三数之和)](https://leetcode.com/problems/3sum)||||
