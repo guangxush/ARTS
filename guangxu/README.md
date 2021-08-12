@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210812](./202108/20210812.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(从前序与中序遍历序列构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||||
 | [20210811](./202108/20210811.md) |[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)||||
 | [20210810](./202108/20210810.md) |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)||||
 | [20210809](./202108/20210809.md) |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)||||
