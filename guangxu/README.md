@@ -4,6 +4,7 @@
 | [20210830](./202108/20210830.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
 | [20210829](./202108/20210829.md) |[155. Min Stack(最小栈)](https://leetcode.com/problems/min-stack/)||||
 | [20210828](./202108/20210828.md) |[415. Add Strings(字符串相加)](https://leetcode.com/problems/add-strings/)||||
+| [20210827](./202108/20210827.md) |[20. Valid Parentheses(有效的括号)](https://leetcode.com/problems/valid-parentheses/)||||
 | [20210822](./202108/20210822.md) |[56. Merge Intervals(合并区间)](https://leetcode.com/problems/merge-intervals/)||||
 | [20210819](./202108/20210819.md) |[101. Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/)||||
 | [20210818](./202108/20210818.md) |[41. First Missing Positive(缺失的第一个正数)](https://leetcode.com/problems/first-missing-positive/)||||
