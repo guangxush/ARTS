@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210905](./202109/20210905.md) |[98. Validate Binary Search Tree(验证二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)||||
 | [20210831](./202108/20210831.md) |[221. Maximal Square(最大正方形)](https://leetcode.com/problems/maximal-square/)||||
 | [20210830](./202108/20210830.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
 | [20210829](./202108/20210829.md) |[155. Min Stack(最小栈)](https://leetcode.com/problems/min-stack/)||||
