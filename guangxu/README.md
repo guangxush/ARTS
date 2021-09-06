@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210906](./202109/20210906.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)||||
 | [20210905](./202109/20210905.md) |[98. Validate Binary Search Tree(验证二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)||||
 | [20210831](./202108/20210831.md) |[221. Maximal Square(最大正方形)](https://leetcode.com/problems/maximal-square/)||||
 | [20210830](./202108/20210830.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
