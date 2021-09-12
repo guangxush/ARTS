@@ -1,5 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210912](./202109/20210912.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)||||
+| [20210910](./202109/20210910.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)||||
+| [20210909](./202109/20210909.md) |[48. Rotate Image(旋转图像)](https://leetcode.com/problems/rotate-image/)||||
+| [20210908](./202109/20210908.md) |[162. Find Peak Element(发现山峰元素)](https://leetcode.com/problems/find-peak-element/)||||
 | [20210907](./202109/20210907.md) |[322. Coin Change(零钱兑换)](https://leetcode.com/problems/coin-change/)||||
 | [20210906](./202109/20210906.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)||||
 | [20210905](./202109/20210905.md) |[98. Validate Binary Search Tree(验证二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)||||
