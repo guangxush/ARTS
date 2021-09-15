@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210915](./202109/20210915.md) |[79. Word Search(单词搜索)](https://leetcode.com/problems/word-search/)||||
+| [20210914](./202109/20210914.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/)||||
 | [20210913](./202109/20210913.md) |[958. Check Completeness of a Binary Tree(二叉树的完全性检验)](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)||||
 | [20210912](./202109/20210912.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)||||
 | [20210910](./202109/20210910.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)||||
