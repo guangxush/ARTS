@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20210917](./202109/20210917.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)||||
 | [20210916](./202109/20210916.md) |[128. Longest Consecutive Sequence(最长连续序列)](https://leetcode.com/problems/longest-consecutive-sequence/)||||
 | [20210915](./202109/20210915.md) |[79. Word Search(单词搜索)](https://leetcode.com/problems/word-search/)||||
 | [20210914](./202109/20210914.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/)||||
