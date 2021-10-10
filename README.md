@@ -43,6 +43,10 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210926](./guangxu/202109/20210926.md) |[224. Basic Calculator(基本计算器)](https://leetcode.com/problems/basic-calculator/)|
+| [20210922](./guangxu/202109/20210922.md) |[78. Subsets(子集)](https://leetcode.com/problems/subsets/)|
+| [20210917](./guangxu/202109/20210917.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)|
+| [20210915](./guangxu/202109/20210915.md) |[79. Word Search(单词搜索)](https://leetcode.com/problems/word-search/)|
 | [20210828](./guangxu/202108/20210828.md) |[415. Add Strings(字符串相加)](https://leetcode.com/problems/add-strings/)|
 | [20210827](./guangxu/202108/20210827.md) |[20. Valid Parentheses(有效的括号)](https://leetcode.com/problems/valid-parentheses/)|
 | [20210818](./guangxu/202108/20210818.md) |[41. First Missing Positive(缺失的第一个正数)](https://leetcode.com/problems/first-missing-positive/)|
@@ -97,6 +101,10 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210928](./guangxu/202109/20210928.md) |[334. Increasing Triplet Subsequence(递增的三元子序列)](https://leetcode.com/problems/increasing-triplet-subsequence/)|
+| [20210916](./guangxu/202109/20210916.md) |[128. Longest Consecutive Sequence(最长连续序列)](https://leetcode.com/problems/longest-consecutive-sequence/)|
+| [20210914](./guangxu/202109/20210914.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/)|
+| [20210908](./guangxu/202109/20210908.md) |[162. Find Peak Element(发现山峰元素)](https://leetcode.com/problems/find-peak-element/)|
 | [20210628](./guangxu/202106/20210628.md) |[670. Maximum Swap(数组中两个数的最大异或值)](https://leetcode.com/problems/maximum-swap/)|
 | [20210624](./guangxu/202106/20210624.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)|
 | [20210626](./guangxu/202106/20210626.md) |[695. Max Area of Island(岛屿的最大面积)](https://leetcode.com/problems/max-area-of-island/)|
@@ -143,6 +151,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210907](./guangxu/202109/20210907.md) |[322. Coin Change(零钱兑换)](https://leetcode.com/problems/coin-change/)|
+| [20210906](./guangxu/202109/20210906.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)|
 | [20210809](./guangxu/202108/20210809.md) |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|
 | [20210831](./guangxu/202108/20210831.md) |[221. Maximal Square(最大正方形)](https://leetcode.com/problems/maximal-square/)|
 | [20210808](./guangxu/202108/20210808.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)|
@@ -194,6 +204,10 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210927](./guangxu/202109/20210927.md) |[226. Invert Binary Tree(二叉树反转)](https://leetcode.com/problems/invert-binary-tree/)|
+| [20210925](./guangxu/202109/20210925.md) |[114. Flatten Binary Tree to Linked List(二叉树展开为链表)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|
+| [20210913](./guangxu/202109/20210913.md) |[958. Check Completeness of a Binary Tree(二叉树的完全性检验)](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|
+| [20210905](./guangxu/202109/20210905.md) |[98. Validate Binary Search Tree(验证二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)|
 | [20210819](./guangxu/202108/20210819.md) |[101. Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/)|
 | [20210816](./guangxu/202108/20210816.md) |[124. Binary Tree Maximum Path Sum(二叉树最大路径和)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|
 | [20210812](./guangxu/202108/20210812.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(从前序与中序遍历序列构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|
@@ -293,6 +307,7 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210912](./guangxu/202109/20210912.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)|
 | [20210518](./guangxu/202105/20210518.md) |[232. Implement Queue using Stacks(用栈实现队列)](https://leetcode.com/problems/implement-queue-using-stacks/)|
 | [20210517](./guangxu/202105/20210517.md) |[225. Implement Stack using Queues(用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/)|
 | [20200826](./guangxu/202008/20200826.md) | [剑指offer-用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
@@ -309,6 +324,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210910](./guangxu/202109/20210910.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)|
+| [20210923](./guangxu/202109/20210923.md) |[24. Swap Nodes in Pairs(两两交换链表中的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
 | [20210811](./guangxu/202108/20210811.md) |[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|
 | [20210805](./guangxu/202108/20210805.md) |[23. Merge k Sorted Lists(合并K个排序链表)](https://leetcode.com/problems/merge-k-sorted-lists/)|
 | [20210729](./guangxu/202107/20210729.md) |[160. Intersection of Two Linked Lists(两个相交链表)](https://leetcode.com/problems/intersection-of-two-linked-lists/)|
@@ -459,6 +476,7 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20210909](./guangxu/202109/20210909.md) |[48. Rotate Image(旋转图像)](https://leetcode.com/problems/rotate-image/)|
 | [20210817](./guangxu/202108/20210817.md) |[200. Number of Islands(岛屿数量)](https://leetcode.com/problems/number-of-islands/)|
 | [20201026](./guangxu/202010/20201026.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20201025](./guangxu/202010/20201025.md) |[剑指offer-矩阵中的路径](https://www.nowcoder.com/practice/c61c6999eecb4b8f88a98f66b273a3cc?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
