@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211011](./202110/2021011.md) |[41. First Missing Positive(缺失的第一个正数)](https://leetcode.com/problems/first-missing-positive/)||||
+| [20211009](./202110/2021009.md) |[96. Unique Binary Search Trees(不同的二叉搜索树)](https://leetcode.com/problems/unique-binary-search-trees/)||||
 | [20210928](./202109/20210928.md) |[334. Increasing Triplet Subsequence(递增的三元子序列)](https://leetcode.com/problems/increasing-triplet-subsequence/)||||
 | [20210927](./202109/20210927.md) |[226. Invert Binary Tree(二叉树反转)](https://leetcode.com/problems/invert-binary-tree/)||||
 | [20210926](./202109/20210926.md) |[224. Basic Calculator(基本计算器)](https://leetcode.com/problems/basic-calculator/)||||
