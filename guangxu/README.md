@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211013](./202110/2021013.md) |[349. Intersection of Two Arrays(数组的交集)](https://leetcode.com/problems/intersection-of-two-arrays/)||||
+| [20211012](./202110/2021012.md) |[403. Frog Jump(青蛙跳)](https://leetcode.com/problems/frog-jump/)||||
 | [20211011](./202110/2021011.md) |[41. First Missing Positive(缺失的第一个正数)](https://leetcode.com/problems/first-missing-positive/)||||
 | [20211009](./202110/2021009.md) |[96. Unique Binary Search Trees(不同的二叉搜索树)](https://leetcode.com/problems/unique-binary-search-trees/)||||
 | [20210928](./202109/20210928.md) |[334. Increasing Triplet Subsequence(递增的三元子序列)](https://leetcode.com/problems/increasing-triplet-subsequence/)||||
