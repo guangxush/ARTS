@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211014](./202110/2021014.md) |[1156. Swap For Longest Repeated Character Substring(单字符重复子串的最大长度)](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/)||||
 | [20211013](./202110/2021013.md) |[349. Intersection of Two Arrays(数组的交集)](https://leetcode.com/problems/intersection-of-two-arrays/)||||
 | [20211012](./202110/2021012.md) |[403. Frog Jump(青蛙跳)](https://leetcode.com/problems/frog-jump/)||||
 | [20211011](./202110/2021011.md) |[41. First Missing Positive(缺失的第一个正数)](https://leetcode.com/problems/first-missing-positive/)||||
