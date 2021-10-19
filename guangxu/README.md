@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211019](./202110/2021019.md) |[951. Flip Equivalent Binary Trees(等价二叉树)](https://leetcode.com/problems/flip-equivalent-binary-trees/)||||
 | [20211018](./202110/2021018.md) |[560. Subarray Sum Equals K(和等于k的数组个数)](https://leetcode.com/problems/subarray-sum-equals-k/)||||
 | [20211015](./202110/2021015.md) |[51. N-Queens(N皇后问题)](https://leetcode.com/problems/n-queens/)||||
 | [20211014](./202110/2021014.md) |[1156. Swap For Longest Repeated Character Substring(单字符重复子串的最大长度)](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/)||||
