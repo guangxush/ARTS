@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211021](./202110/2021021.md) |[637. Average of Levels in Binary Tree(二叉树的层平均值)](https://leetcode.com/problems/average-of-levels-in-binary-tree/)||||
 | [20211020](./202110/2021020.md) |[107. Binary Tree Level Order Traversal II(二叉树层次遍历2)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)||||
 | [20211019](./202110/2021019.md) |[951. Flip Equivalent Binary Trees(等价二叉树)](https://leetcode.com/problems/flip-equivalent-binary-trees/)||||
 | [20211018](./202110/2021018.md) |[560. Subarray Sum Equals K(和等于k的数组个数)](https://leetcode.com/problems/subarray-sum-equals-k/)||||
