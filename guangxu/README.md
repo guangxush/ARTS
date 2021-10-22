@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211022](./202110/2021022.md) |[321. Create Maximum Number(拼接最大数)](https://leetcode.com/problems/create-maximum-number/)||||
 | [20211021](./202110/2021021.md) |[637. Average of Levels in Binary Tree(二叉树的层平均值)](https://leetcode.com/problems/average-of-levels-in-binary-tree/)||||
 | [20211020](./202110/2021020.md) |[107. Binary Tree Level Order Traversal II(二叉树层次遍历2)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)||||
 | [20211019](./202110/2021019.md) |[951. Flip Equivalent Binary Trees(等价二叉树)](https://leetcode.com/problems/flip-equivalent-binary-trees/)||||
