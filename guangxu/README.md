@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211027](./202110/2021027.md) |[204. Count Primes(计数质数)](https://leetcode.com/problems/count-primes/)||||
 | [20211026](./202110/2021026.md) |[97. Interleaving String(DP交错字符串)](https://leetcode.com/problems/interleaving-string/)||||
 | [20211025](./202110/2021025.md) |[525. Contiguous Array(连续数组)](https://leetcode.com/problems/contiguous-array/)||||
 | [20211022](./202110/2021022.md) |[321. Create Maximum Number(拼接最大数)](https://leetcode.com/problems/create-maximum-number/)||||
