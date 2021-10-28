@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211028](./202110/2021028.md) |[202. Happy Number(快乐数)](https://leetcode.com/problems/happy-number/)||||
 | [20211027](./202110/2021027.md) |[204. Count Primes(计数质数)](https://leetcode.com/problems/count-primes/)||||
 | [20211026](./202110/2021026.md) |[97. Interleaving String(DP交错字符串)](https://leetcode.com/problems/interleaving-string/)||||
 | [20211025](./202110/2021025.md) |[525. Contiguous Array(连续数组)](https://leetcode.com/problems/contiguous-array/)||||
