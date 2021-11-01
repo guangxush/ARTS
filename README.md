@@ -43,6 +43,12 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211028](./guangxu/202110/2021028.md) |[202. Happy Number(快乐数)](https://leetcode.com/problems/happy-number/)|
+| [20211027](./guangxu/202110/2021027.md) |[204. Count Primes(计数质数)](https://leetcode.com/problems/count-primes/)|
+| [20211022](./guangxu/202110/2021022.md) |[321. Create Maximum Number(拼接最大数)](https://leetcode.com/problems/create-maximum-number/)|
+| [20211015](./guangxu/202110/2021015.md) |[51. N-Queens(N皇后问题)](https://leetcode.com/problems/n-queens/)|
+| [20211012](./guangxu/202110/2021012.md) |[403. Frog Jump(青蛙跳)](https://leetcode.com/problems/frog-jump/)|
+| [20211011](./guangxu/202110/2021011.md) |[41. First Missing Positive(缺失的第一个正数)](https://leetcode.com/problems/first-missing-positive/)|
 | [20210926](./guangxu/202109/20210926.md) |[224. Basic Calculator(基本计算器)](https://leetcode.com/problems/basic-calculator/)|
 | [20210922](./guangxu/202109/20210922.md) |[78. Subsets(子集)](https://leetcode.com/problems/subsets/)|
 | [20210917](./guangxu/202109/20210917.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)|
@@ -101,6 +107,7 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211026](./guangxu/202110/2021026.md) |[97. Interleaving String(DP交错字符串)](https://leetcode.com/problems/interleaving-string/)|
 | [20210928](./guangxu/202109/20210928.md) |[334. Increasing Triplet Subsequence(递增的三元子序列)](https://leetcode.com/problems/increasing-triplet-subsequence/)|
 | [20210916](./guangxu/202109/20210916.md) |[128. Longest Consecutive Sequence(最长连续序列)](https://leetcode.com/problems/longest-consecutive-sequence/)|
 | [20210914](./guangxu/202109/20210914.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/)|
@@ -204,6 +211,10 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211021](./guangxu/202110/2021021.md) |[637. Average of Levels in Binary Tree(二叉树的层平均值)](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|
+| [20211020](./guangxu/202110/2021020.md) |[107. Binary Tree Level Order Traversal II(二叉树层次遍历2)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|
+| [20211019](./guangxu/202110/2021019.md) |[951. Flip Equivalent Binary Trees(等价二叉树)](https://leetcode.com/problems/flip-equivalent-binary-trees/)|
+| [20211009](./guangxu/202110/2021009.md) |[96. Unique Binary Search Trees(不同的二叉搜索树)](https://leetcode.com/problems/unique-binary-search-trees/)|
 | [20210927](./guangxu/202109/20210927.md) |[226. Invert Binary Tree(二叉树反转)](https://leetcode.com/problems/invert-binary-tree/)|
 | [20210925](./guangxu/202109/20210925.md) |[114. Flatten Binary Tree to Linked List(二叉树展开为链表)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|
 | [20210913](./guangxu/202109/20210913.md) |[958. Check Completeness of a Binary Tree(二叉树的完全性检验)](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|
@@ -388,6 +399,11 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211014](./guangxu/202110/2021014.md) |[1156. Swap For Longest Repeated Character Substring(单字符重复子串的最大长度)](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/)|
+| [20211013](./guangxu/202110/2021013.md) |[349. Intersection of Two Arrays(数组的交集)](https://leetcode.com/problems/intersection-of-two-arrays/)|
+| [20211029](./guangxu/202110/2021029.md) |[807. Max Increase to Keep City Skyline(保持城市天际线)](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|
+| [20211025](./guangxu/202110/2021025.md) |[525. Contiguous Array(连续数组)](https://leetcode.com/problems/contiguous-array/)|
+| [20211018](./guangxu/202110/2021018.md) |[560. Subarray Sum Equals K(和等于k的数组个数)](https://leetcode.com/problems/subarray-sum-equals-k/)|
 | [20210822](./guangxu/202108/20210822.md) |[56. Merge Intervals(合并区间)](https://leetcode.com/problems/merge-intervals/)|
 | [20210803](./guangxu/202108/20210803.md) |[33. Search in Rotated Sorted Array(搜索旋转排序数组)](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 | [20210713](./guangxu/202107/20210713.md) |[456. 132 Pattern(132模式)](https://leetcode.com/problems/132-pattern/)|
