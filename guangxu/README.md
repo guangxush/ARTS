@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211110](./202111/20211110.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)||||
 | [20211109](./202111/20211109.md) |[135. Candy(分发糖果)](https://leetcode.com/problems/candy/)||||
 | [20211108](./202111/20211108.md) |[104. Maximum Depth of Binary Tree(二叉树最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||||
 | [20211105](./202111/20211105.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)||||
