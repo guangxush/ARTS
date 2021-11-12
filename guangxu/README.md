@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211112](./202111/20211112.md) |[718. Maximum Length of Repeated Subarray(最长公共子序列)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)||||
 | [20211111](./202111/20211111.md) |[528. Random Pick with Weight(随机选择权重)](https://leetcode.com/problems/random-pick-with-weight/)||||
 | [20211110](./202111/20211110.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)||||
 | [20211109](./202111/20211109.md) |[135. Candy(分发糖果)](https://leetcode.com/problems/candy/)||||
