@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211129](./202111/20211129.md) |用一个栈实现另一个栈的排序||||
 | [20211125](./202111/20211125.md) |使用递归函数和栈操作一个逆序栈||||
 | [20211124](./202111/20211124.md) |[225. Implement Stack using Queues(用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/)||||
 | [20211123](./202111/20211123.md) |[155. Min Stack(最小栈)](https://leetcode.com/problems/min-stack/)||||
