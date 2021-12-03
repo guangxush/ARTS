@@ -1,7 +1,11 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211203](./202112/20211203.md) |[81. Search in Rotated Sorted Array II(旋转数组中的查找2)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)||||
+| [20211202](./202112/20211202.md) |[704. Binary Search(二分查找)](https://leetcode.com/problems/binary-search/)||||
+| [20211201](./202112/20211201.md) |[33. Search in Rotated Sorted Array(旋转数组中的查找)](https://leetcode.com/problems/search-in-rotated-sorted-array/)||||
 | [20211130](./202111/20211130.md) |[26. Remove Duplicates from Sorted Array(删除数组中的重复项)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||||
 | [20211129](./202111/20211129.md) |用一个栈实现另一个栈的排序||||
+| [20211124](./202111/20211124.md) |[700. Search in a Binary Search Tree(二叉树的二分查找)](https://leetcode.com/problems/search-in-a-binary-search-tree/)||||
 | [20211125](./202111/20211125.md) |使用递归函数和栈操作一个逆序栈||||
 | [20211124](./202111/20211124.md) |[225. Implement Stack using Queues(用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/)||||
 | [20211123](./202111/20211123.md) |[155. Min Stack(最小栈)](https://leetcode.com/problems/min-stack/)||||
