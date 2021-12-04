@@ -43,6 +43,11 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211115](./guangxu/202111/20211115.md) |[137. Single Number II(只出现一次的数字 II)](https://leetcode.com/problems/single-number-ii/)|
+| [20211111](./guangxu/202111/20211111.md) |[528. Random Pick with Weight(随机选择权重)](https://leetcode.com/problems/random-pick-with-weight/)|
+| [20211110](./guangxu/202111/20211110.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)|
+| [20211116](./guangxu/202111/20211116.md) |[3. Longest Substring Without Repeating Characters(无重复字符的最长子串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+| [20211101](./guangxu/202111/20211101.md) |[459. Repeated Substring Pattern(重复的子字符串)](https://leetcode.com/problems/repeated-substring-pattern/)|
 | [20211028](./guangxu/202110/2021028.md) |[202. Happy Number(快乐数)](https://leetcode.com/problems/happy-number/)|
 | [20211027](./guangxu/202110/2021027.md) |[204. Count Primes(计数质数)](https://leetcode.com/problems/count-primes/)|
 | [20211022](./guangxu/202110/2021022.md) |[321. Create Maximum Number(拼接最大数)](https://leetcode.com/problems/create-maximum-number/)|
@@ -107,6 +112,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211112](./guangxu/202111/20211112.md) |[718. Maximum Length of Repeated Subarray(最长公共子序列)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
+| [20211105](./guangxu/202111/20211105.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)|
 | [20211026](./guangxu/202110/2021026.md) |[97. Interleaving String(DP交错字符串)](https://leetcode.com/problems/interleaving-string/)|
 | [20210928](./guangxu/202109/20210928.md) |[334. Increasing Triplet Subsequence(递增的三元子序列)](https://leetcode.com/problems/increasing-triplet-subsequence/)|
 | [20210916](./guangxu/202109/20210916.md) |[128. Longest Consecutive Sequence(最长连续序列)](https://leetcode.com/problems/longest-consecutive-sequence/)|
@@ -158,6 +165,7 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211109](./guangxu/202111/20211109.md) |[135. Candy(分发糖果)](https://leetcode.com/problems/candy/)|
 | [20210907](./guangxu/202109/20210907.md) |[322. Coin Change(零钱兑换)](https://leetcode.com/problems/coin-change/)|
 | [20210906](./guangxu/202109/20210906.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)|
 | [20210809](./guangxu/202108/20210809.md) |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|
@@ -211,6 +219,9 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211124](./guangxu/202111/20211124.md) |[700. Search in a Binary Search Tree(二叉树的二分查找)](https://leetcode.com/problems/search-in-a-binary-search-tree/)|
+| [20211108](./guangxu/202111/20211108.md) |[104. Maximum Depth of Binary Tree(二叉树最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
+| [20211104](./guangxu/202111/20211104.md) |[108. Convert Sorted Array to Binary Search Tree(将有序数组转换为二叉搜索树)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|
 | [20211021](./guangxu/202110/2021021.md) |[637. Average of Levels in Binary Tree(二叉树的层平均值)](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|
 | [20211020](./guangxu/202110/2021020.md) |[107. Binary Tree Level Order Traversal II(二叉树层次遍历2)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|
 | [20211019](./guangxu/202110/2021019.md) |[951. Flip Equivalent Binary Trees(等价二叉树)](https://leetcode.com/problems/flip-equivalent-binary-trees/)|
@@ -318,6 +329,11 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211129](./guangxu/202111/20211129.md) |用一个栈实现另一个栈的排序|
+| [20211125](./guangxu/202111/20211125.md) |使用递归函数和栈操作一个逆序栈|
+| [20211124](./guangxu/202111/20211124.md) |[225. Implement Stack using Queues(用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/)|
+| [20211123](./guangxu/202111/20211123.md) |[155. Min Stack(最小栈)](https://leetcode.com/problems/min-stack/)|
+| [20211122](./guangxu/202111/20211122.md) |[232. Implement Queue using Stacks(用栈实现队列)](https://leetcode.com/problems/implement-queue-using-stacks/)|
 | [20210912](./guangxu/202109/20210912.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)|
 | [20210518](./guangxu/202105/20210518.md) |[232. Implement Queue using Stacks(用栈实现队列)](https://leetcode.com/problems/implement-queue-using-stacks/)|
 | [20210517](./guangxu/202105/20210517.md) |[225. Implement Stack using Queues(用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/)|
@@ -335,6 +351,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211103](./guangxu/202111/20211103.md) |[21. Merge Two Sorted Lists(合并两个有序链表)](https://leetcode.com/problems/merge-two-sorted-lists/)|
+| [20211102](./guangxu/202111/20211102.md) |[1669. Merge In Between Linked Lists(合并两个链表)](https://leetcode.com/problems/merge-in-between-linked-lists/)|
 | [20210910](./guangxu/202109/20210910.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)|
 | [20210923](./guangxu/202109/20210923.md) |[24. Swap Nodes in Pairs(两两交换链表中的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
 | [20210811](./guangxu/202108/20210811.md) |[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|
@@ -399,6 +417,9 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211130](./guangxu/202111/20211130.md) |[26. Remove Duplicates from Sorted Array(删除数组中的重复项)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
+| [20211118](./guangxu/202111/20211118.md) |[80. Remove Duplicates from Sorted Array II(删除排序数组中的重复项)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|
+| [20211117](./guangxu/202111/20211117.md) |[215. Kth Largest Element in an Array(数组中第K个最大元素)](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
 | [20211014](./guangxu/202110/2021014.md) |[1156. Swap For Longest Repeated Character Substring(单字符重复子串的最大长度)](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/)|
 | [20211013](./guangxu/202110/2021013.md) |[349. Intersection of Two Arrays(数组的交集)](https://leetcode.com/problems/intersection-of-two-arrays/)|
 | [20211029](./guangxu/202110/2021029.md) |[807. Max Increase to Keep City Skyline(保持城市天际线)](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|
