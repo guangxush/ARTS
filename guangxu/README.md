@@ -1,5 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211207](./202112/20211207.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)||||
+| [20211206](./202112/20211206.md) |[128. Longest Consecutive Sequence(最长递增序列)](https://leetcode.com/problems/longest-consecutive-sequence/)||||
+| [20211205](./202112/20211205.md) |[4. Median of Two Sorted Arrays(两个排序数组的中位数)](https://leetcode.com/problems/median-of-two-sorted-arrays/)||||
+| [20211204](./202112/20211204.md) |[27. Remove Element(移除元素)](https://leetcode.com/problems/remove-element/)||||
 | [20211203](./202112/20211203.md) |[81. Search in Rotated Sorted Array II(旋转数组中的查找2)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)||||
 | [20211202](./202112/20211202.md) |[704. Binary Search(二分查找)](https://leetcode.com/problems/binary-search/)||||
 | [20211201](./202112/20211201.md) |[33. Search in Rotated Sorted Array(旋转数组中的查找)](https://leetcode.com/problems/search-in-rotated-sorted-array/)||||
