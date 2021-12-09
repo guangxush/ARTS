@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211209](./202112/20211209.md) |[60. Permutation Sequence(序列排序)](https://leetcode.com/problems/permutation-sequence/)||||
+| [20211208](./202112/20211208.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)||||
 | [20211207](./202112/20211207.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)||||
 | [20211206](./202112/20211206.md) |[128. Longest Consecutive Sequence(最长递增序列)](https://leetcode.com/problems/longest-consecutive-sequence/)||||
 | [20211205](./202112/20211205.md) |[4. Median of Two Sorted Arrays(两个排序数组的中位数)](https://leetcode.com/problems/median-of-two-sorted-arrays/)||||
