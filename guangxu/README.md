@@ -1,5 +1,11 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211215](./202112/20211215.md) |[36. Valid Sudoku(有效数组)](https://leetcode.com/problems/valid-sudoku/)||||
+| [20211214](./202112/20211214.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)||||
+| [20211213](./202112/20211213.md) |[48. Rotate Image(旋转图像)](https://leetcode.com/problems/rotate-image/)||||
+| [20211212](./202112/20211212.md) |[66. Plus One(数组加一)](https://leetcode.com/problems/plus-one/)||||
+| [20211211](./202112/20211211.md) |[70. Climbing Stairs(爬梯子-动态规划)](https://leetcode.com/problems/climbing-stairs/)||||
+| [20211210](./202112/20211210.md) |[73. Set Matrix Zeroes(设置矩阵零)](https://leetcode.com/problems/set-matrix-zeroes/)||||
 | [20211209](./202112/20211209.md) |[60. Permutation Sequence(序列排序)](https://leetcode.com/problems/permutation-sequence/)||||
 | [20211208](./202112/20211208.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)||||
 | [20211207](./202112/20211207.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)||||
