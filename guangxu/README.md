@@ -1,6 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20211215](./202112/20211215.md) |[36. Valid Sudoku(有效数组)](https://leetcode.com/problems/valid-sudoku/)||||
+| [20211218](./202112/20211218.md) |[136. Single Number(出现一次的数字-位运算)](https://leetcode.com/problems/single-number/)||||
+| [20211217](./202112/20211217.md) |[135. Candy(糖果-贪心算法)](https://leetcode.com/problems/candy/)||||
+| [20211216](./202112/20211216.md) |[134. Gas Station(加油站)](https://leetcode.com/problems/gas-station/)||||
+| [20211215](./202112/20211215.md) |[36. Valid Sudoku(有效数独)](https://leetcode.com/problems/valid-sudoku/)||||
 | [20211214](./202112/20211214.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)||||
 | [20211213](./202112/20211213.md) |[48. Rotate Image(旋转图像)](https://leetcode.com/problems/rotate-image/)||||
 | [20211212](./202112/20211212.md) |[66. Plus One(数组加一)](https://leetcode.com/problems/plus-one/)||||
