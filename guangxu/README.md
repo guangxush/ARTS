@@ -1,5 +1,8 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211221](./202112/20211221.md) |[86. Partition List(链表分区)](https://leetcode.com/problems/partition-list/)||||
+| [20211220](./202112/20211220.md) |[92. Reverse Linked List II(链表反转2)](https://leetcode.com/problems/reverse-linked-list-ii/)||||
+| [20211219](./202112/20211219.md) |[2. Add Two Numbers(两个数字相加)](https://leetcode.com/problems/add-two-numbers/)||||
 | [20211218](./202112/20211218.md) |[136. Single Number(出现一次的数字-位运算)](https://leetcode.com/problems/single-number/)||||
 | [20211217](./202112/20211217.md) |[135. Candy(糖果-贪心算法)](https://leetcode.com/problems/candy/)||||
 | [20211216](./202112/20211216.md) |[134. Gas Station(加油站)](https://leetcode.com/problems/gas-station/)||||
