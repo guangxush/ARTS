@@ -1,5 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211225](./202112/20211225.md) |[19. Remove Nth Node From End of List(移除链表第N个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)||||
+| [20211224](./202112/20211224.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)||||
+| [20211223](./202112/20211223.md) |[82. Remove Duplicates from Sorted List II(移除链表相同的元素2)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)||||
+| [20211222](./202112/20211222.md) |[83. Remove Duplicates from Sorted List(移除链表相同的元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)||||
 | [20211221](./202112/20211221.md) |[86. Partition List(链表分区)](https://leetcode.com/problems/partition-list/)||||
 | [20211220](./202112/20211220.md) |[92. Reverse Linked List II(链表反转2)](https://leetcode.com/problems/reverse-linked-list-ii/)||||
 | [20211219](./202112/20211219.md) |[2. Add Two Numbers(两个数字相加)](https://leetcode.com/problems/add-two-numbers/)||||
