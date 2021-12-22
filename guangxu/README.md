@@ -1,5 +1,11 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20211231](./202112/20211231.md) |[143. Reorder List(链表重新排序)](https://leetcode.com/problems/reorder-list/)||||
+| [20211230](./202112/20211230.md) |[142. Linked List Cycle II(环形链表2)](https://leetcode.com/problems/linked-list-cycle-ii/)||||
+| [20211229](./202112/20211229.md) |[141. Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/)||||
+| [20211228](./202112/20211228.md) |[138. Copy List with Random Pointer(复制链表随机指针)](https://leetcode.com/problems/copy-list-with-random-pointer/)||||
+| [20211227](./202112/20211227.md) |[25. Reverse Nodes in k-Group(按照分组反转链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)||||
+| [20211226](./202112/20211226.md) |[24. Swap Nodes in Pairs(交换成对链表)](https://leetcode.com/problems/swap-nodes-in-pairs/)||||
 | [20211225](./202112/20211225.md) |[19. Remove Nth Node From End of List(移除链表第N个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)||||
 | [20211224](./202112/20211224.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)||||
 | [20211223](./202112/20211223.md) |[82. Remove Duplicates from Sorted List II(移除链表相同的元素2)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)||||
