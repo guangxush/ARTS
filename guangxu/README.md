@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220101](./202201/20220101.md) |[146. LRU Cache(LRU缓存)](https://leetcode.com/problems/lru-cache/)||||
 | [20211231](./202112/20211231.md) |[143. Reorder List(链表重新排序)](https://leetcode.com/problems/reorder-list/)||||
 | [20211230](./202112/20211230.md) |[142. Linked List Cycle II(环形链表2)](https://leetcode.com/problems/linked-list-cycle-ii/)||||
 | [20211229](./202112/20211229.md) |[141. Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/)||||
