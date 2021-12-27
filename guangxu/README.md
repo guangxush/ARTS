@@ -1,6 +1,10 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20220104](./202201/20220104.md) |[146. LRU Cache(LRU缓存)](https://leetcode.com/problems/lru-cache/)||||
+| [20220108](./202201/20220108.md) |[44. Wildcard Matching(外卡匹配DP)](https://leetcode.com/problems/wildcard-matching/)||||
+| [20220107](./202201/20220107.md) |[10. Regular Expression Matching(正则表达式匹配DP)](https://leetcode.com/problems/regular-expression-matching/)||||
+| [20220106](./202201/20220106.md) |[5. Longest Palindromic Substring(最长回文串DP)](https://leetcode.com/problems/longest-palindromic-substring/)||||
+| [20220105](./202201/20220105.md) |[67. Add Binary(二进制相加)](https://leetcode.com/problems/add-binary/)||||
+| [20220104](./202201/20220104.md) |[8. String to Integer (atoi)（字符串类型转整数）](https://leetcode.com/problems/string-to-integer-atoi/)||||
 | [20220103](./202201/20220103.md) |[28. Implement strStr(实现str)](https://leetcode.com/problems/implement-strstr/)||||
 | [20220102](./202201/20220102.md) |[125. Valid Palindrome(有效回文串)](https://leetcode.com/problems/valid-palindrome/)||||
 | [20220101](./202201/20220101.md) |[146. LRU Cache(LRU缓存)](https://leetcode.com/problems/lru-cache/)||||
