@@ -1,5 +1,13 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220116](./202201/20220116.md) |[58. Length of Last Word(最后一个单词长度)](https://leetcode.com/problems/length-of-last-word/)||||
+| [20220115](./202201/20220115.md) |[71. Simplify Path(最短路径)](https://leetcode.com/problems/simplify-path/)||||
+| [20220114](./202201/20220114.md) |[49. Group Anagrams(回文构词法)](https://leetcode.com/problems/group-anagrams/)||||
+| [20220113](./202201/20220113.md) |[38. Count and Say(数数)](https://leetcode.com/problems/count-and-say/)||||
+| [20220112](./202201/20220112.md) |[13. Roman to Integer(Roman转Integer)](https://leetcode.com/problems/roman-to-integer/)||||
+| [20220111](./202201/20220111.md) |[12. Integer to Roman(Integer转Roman)](https://leetcode.com/problems/integer-to-roman/)||||
+| [20220110](./202201/20220110.md) |[65. Valid Number(有效数字)](https://leetcode.com/problems/valid-number/)||||
+| [20220109](./202201/20220109.md) |[14. Longest Common Prefix(最长公共前缀)](https://leetcode.com/problems/longest-common-prefix/)||||
 | [20220108](./202201/20220108.md) |[44. Wildcard Matching(外卡匹配DP)](https://leetcode.com/problems/wildcard-matching/)||||
 | [20220107](./202201/20220107.md) |[10. Regular Expression Matching(正则表达式匹配DP)](https://leetcode.com/problems/regular-expression-matching/)||||
 | [20220106](./202201/20220106.md) |[5. Longest Palindromic Substring(最长回文串DP)](https://leetcode.com/problems/longest-palindromic-substring/)||||
