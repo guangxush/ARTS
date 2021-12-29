@@ -1,5 +1,10 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220121](./202201/20220121.md) |[150. Evaluate Reverse Polish Notation(计算逆波兰表达式)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)||||
+| [20220120](./202201/20220120.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)||||
+| [20220119](./202201/20220119.md) |[84. Largest Rectangle in Histogram(直方图最大矩形)](https://leetcode.com/problems/largest-rectangle-in-histogram/)||||
+| [20220118](./202201/20220118.md) |[32. Longest Valid Parentheses(最长回文串)](https://leetcode.com/problems/longest-valid-parentheses/)||||
+| [20220117](./202201/20220117.md) |[20. Valid Parentheses(有效回文串)](https://leetcode.com/problems/valid-parentheses/)||||
 | [20220116](./202201/20220116.md) |[58. Length of Last Word(最后一个单词长度)](https://leetcode.com/problems/length-of-last-word/)||||
 | [20220115](./202201/20220115.md) |[71. Simplify Path(最短路径)](https://leetcode.com/problems/simplify-path/)||||
 | [20220114](./202201/20220114.md) |[49. Group Anagrams(回文构词法)](https://leetcode.com/problems/group-anagrams/)||||
