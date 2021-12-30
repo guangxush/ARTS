@@ -1,5 +1,12 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220128](./202201/20220128.md) |[150. Evaluate Reverse Polish Notation(计算逆波兰表达式)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)||||
+| [20220127](./202201/20220127.md) |[103. Binary Tree Zigzag Level Order Traversal(之子形遍历)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||||
+| [20220126](./202201/20220126.md) |[107. Binary Tree Level Order Traversal II(层次遍历2)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)||||
+| [20220125](./202201/20220125.md) |[102. Binary Tree Level Order Traversal(层次遍历)](https://leetcode.com/problems/binary-tree-level-order-traversal/)||||
+| [20220124](./202201/20220124.md) |[145. Binary Tree Postorder Traversal(后序遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)||||
+| [20220123](./202201/20220123.md) |[94. Binary Tree Inorder Traversal(中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)||||
+| [20220122](./202201/20220122.md) |[144. Binary Tree Preorder Traversal(前序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)||||
 | [20220121](./202201/20220121.md) |[150. Evaluate Reverse Polish Notation(计算逆波兰表达式)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)||||
 | [20220120](./202201/20220120.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)||||
 | [20220119](./202201/20220119.md) |[84. Largest Rectangle in Histogram(直方图最大矩形)](https://leetcode.com/problems/largest-rectangle-in-histogram/)||||
