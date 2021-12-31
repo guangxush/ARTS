@@ -1,6 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20220128](./202201/20220128.md) |[150. Evaluate Reverse Polish Notation(计算逆波兰表达式)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)||||
+| [20220131](./202201/20220131.md) |[110. Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)||||
+| [20220130](./202201/20220130.md) |[101. Symmetric Tree(对称树)](https://leetcode.com/problems/symmetric-tree/)||||
+| [20220129](./202201/20220129.md) |[100. Same Tree(相似的树)](https://leetcode.com/problems/same-tree/)||||
+| [20220128](./202201/20220128.md) |[99. Recover Binary Search Tree(复原二叉搜索树)](https://leetcode.com/problems/recover-binary-search-tree/)||||
 | [20220127](./202201/20220127.md) |[103. Binary Tree Zigzag Level Order Traversal(之子形遍历)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||||
 | [20220126](./202201/20220126.md) |[107. Binary Tree Level Order Traversal II(层次遍历2)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)||||
 | [20220125](./202201/20220125.md) |[102. Binary Tree Level Order Traversal(层次遍历)](https://leetcode.com/problems/binary-tree-level-order-traversal/)||||
