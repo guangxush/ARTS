@@ -43,6 +43,23 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220118](./guangxu/202201/20220118.md) |[32. Longest Valid Parentheses(最长回文串)](https://leetcode.com/problems/longest-valid-parentheses/)|
+| [20220117](./guangxu/202201/20220117.md) |[20. Valid Parentheses(有效回文串)](https://leetcode.com/problems/valid-parentheses/)|
+| [20220116](./guangxu/202201/20220116.md) |[58. Length of Last Word(最后一个单词长度)](https://leetcode.com/problems/length-of-last-word/)|
+| [20220115](./guangxu/202201/20220115.md) |[71. Simplify Path(最短路径)](https://leetcode.com/problems/simplify-path/)|
+| [20220114](./guangxu/202201/20220114.md) |[49. Group Anagrams(回文构词法)](https://leetcode.com/problems/group-anagrams/)|
+| [20220113](./guangxu/202201/20220113.md) |[38. Count and Say(数数)](https://leetcode.com/problems/count-and-say/)|
+| [20220112](./guangxu/202201/20220112.md) |[13. Roman to Integer(Roman转Integer)](https://leetcode.com/problems/roman-to-integer/)|
+| [20220111](./guangxu/202201/20220111.md) |[12. Integer to Roman(Integer转Roman)](https://leetcode.com/problems/integer-to-roman/)|
+| [20220110](./guangxu/202201/20220110.md) |[65. Valid Number(有效数字)](https://leetcode.com/problems/valid-number/)|
+| [20220109](./guangxu/202201/20220109.md) |[14. Longest Common Prefix(最长公共前缀)](https://leetcode.com/problems/longest-common-prefix/)|
+| [20220108](./guangxu/202201/20220108.md) |[44. Wildcard Matching(外卡匹配DP)](https://leetcode.com/problems/wildcard-matching/)|
+| [20220107](./guangxu/202201/20220107.md) |[10. Regular Expression Matching(正则表达式匹配DP)](https://leetcode.com/problems/regular-expression-matching/)|
+| [20220106](./guangxu/202201/20220106.md) |[5. Longest Palindromic Substring(最长回文串DP)](https://leetcode.com/problems/longest-palindromic-substring/)|
+| [20220105](./guangxu/202201/20220105.md) |[67. Add Binary(二进制相加)](https://leetcode.com/problems/add-binary/)|
+| [20220104](./guangxu/202201/20220104.md) |[8. String to Integer (atoi)（字符串类型转整数）](https://leetcode.com/problems/string-to-integer-atoi/)|
+| [20220103](./guangxu/202201/20220103.md) |[28. Implement strStr(实现str)](https://leetcode.com/problems/implement-strstr/)|
+| [20220102](./guangxu/202201/20220102.md) |[125. Valid Palindrome(有效回文串)](https://leetcode.com/problems/valid-palindrome/)|
 | [20211115](./guangxu/202111/20211115.md) |[137. Single Number II(只出现一次的数字 II)](https://leetcode.com/problems/single-number-ii/)|
 | [20211111](./guangxu/202111/20211111.md) |[528. Random Pick with Weight(随机选择权重)](https://leetcode.com/problems/random-pick-with-weight/)|
 | [20211110](./guangxu/202111/20211110.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)|
@@ -219,6 +236,16 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220131](./guangxu/202201/20220131.md) |[110. Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)|
+| [20220130](./guangxu/202201/20220130.md) |[101. Symmetric Tree(对称树)](https://leetcode.com/problems/symmetric-tree/)|
+| [20220129](./guangxu/202201/20220129.md) |[100. Same Tree(相似的树)](https://leetcode.com/problems/same-tree/)|
+| [20220128](./guangxu/202201/20220128.md) |[99. Recover Binary Search Tree(复原二叉搜索树)](https://leetcode.com/problems/recover-binary-search-tree/)|
+| [20220127](./guangxu/202201/20220127.md) |[103. Binary Tree Zigzag Level Order Traversal(之子形遍历)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|
+| [20220126](./guangxu/202201/20220126.md) |[107. Binary Tree Level Order Traversal II(层次遍历2)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|
+| [20220125](./guangxu/202201/20220125.md) |[102. Binary Tree Level Order Traversal(层次遍历)](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
+| [20220124](./guangxu/202201/20220124.md) |[145. Binary Tree Postorder Traversal(后序遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)|
+| [20220123](./guangxu/202201/20220123.md) |[94. Binary Tree Inorder Traversal(中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
+| [20220122](./guangxu/202201/20220122.md) |[144. Binary Tree Preorder Traversal(前序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)|
 | [20211124](./guangxu/202111/20211124.md) |[700. Search in a Binary Search Tree(二叉树的二分查找)](https://leetcode.com/problems/search-in-a-binary-search-tree/)|
 | [20211108](./guangxu/202111/20211108.md) |[104. Maximum Depth of Binary Tree(二叉树最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
 | [20211104](./guangxu/202111/20211104.md) |[108. Convert Sorted Array to Binary Search Tree(将有序数组转换为二叉搜索树)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|
@@ -329,6 +356,9 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220121](./guangxu/202201/20220121.md) |[150. Evaluate Reverse Polish Notation(计算逆波兰表达式)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
+| [20220120](./guangxu/202201/20220120.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)|
+| [20220119](./guangxu/202201/20220119.md) |[84. Largest Rectangle in Histogram(直方图最大矩形)](https://leetcode.com/problems/largest-rectangle-in-histogram/)|
 | [20211129](./guangxu/202111/20211129.md) |用一个栈实现另一个栈的排序|
 | [20211125](./guangxu/202111/20211125.md) |使用递归函数和栈操作一个逆序栈|
 | [20211124](./guangxu/202111/20211124.md) |[225. Implement Stack using Queues(用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/)|
@@ -351,6 +381,19 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220101](./guangxu/202201/20220101.md) |[146. LRU Cache(LRU缓存)](https://leetcode.com/problems/lru-cache/)|
+| [20211231](./guangxu/202112/20211231.md) |[143. Reorder List(链表重新排序)](https://leetcode.com/problems/reorder-list/)|
+| [20211230](./guangxu/202112/20211230.md) |[142. Linked List Cycle II(环形链表2)](https://leetcode.com/problems/linked-list-cycle-ii/)|
+| [20211229](./guangxu/202112/20211229.md) |[141. Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/)|
+| [20211228](./guangxu/202112/20211228.md) |[138. Copy List with Random Pointer(复制链表随机指针)](https://leetcode.com/problems/copy-list-with-random-pointer/)|
+| [20211227](./guangxu/202112/20211227.md) |[25. Reverse Nodes in k-Group(按照分组反转链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|
+| [20211226](./guangxu/202112/20211226.md) |[24. Swap Nodes in Pairs(交换成对链表)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
+| [20211225](./guangxu/202112/20211225.md) |[19. Remove Nth Node From End of List(移除链表第N个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|
+| [20211224](./guangxu/202112/20211224.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)|
+| [20211223](./guangxu/202112/20211223.md) |[82. Remove Duplicates from Sorted List II(移除链表相同的元素2)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|
+| [20211222](./guangxu/202112/20211222.md) |[83. Remove Duplicates from Sorted List(移除链表相同的元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|
+| [20211221](./guangxu/202112/20211221.md) |[86. Partition List(链表分区)](https://leetcode.com/problems/partition-list/)|
+| [20211220](./guangxu/202112/20211220.md) |[92. Reverse Linked List II(链表反转2)](https://leetcode.com/problems/reverse-linked-list-ii/)|
 | [20211103](./guangxu/202111/20211103.md) |[21. Merge Two Sorted Lists(合并两个有序链表)](https://leetcode.com/problems/merge-two-sorted-lists/)|
 | [20211102](./guangxu/202111/20211102.md) |[1669. Merge In Between Linked Lists(合并两个链表)](https://leetcode.com/problems/merge-in-between-linked-lists/)|
 | [20210910](./guangxu/202109/20210910.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)|
@@ -417,6 +460,26 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20211219](./guangxu/202112/20211219.md) |[2. Add Two Numbers(两个数字相加)](https://leetcode.com/problems/add-two-numbers/)|
+| [20211218](./guangxu/202112/20211218.md) |[136. Single Number(出现一次的数字-位运算)](https://leetcode.com/problems/single-number/)|
+| [20211217](./guangxu/202112/20211217.md) |[135. Candy(糖果-贪心算法)](https://leetcode.com/problems/candy/)|
+| [20211216](./guangxu/202112/20211216.md) |[134. Gas Station(加油站)](https://leetcode.com/problems/gas-station/)|
+| [20211215](./guangxu/202112/20211215.md) |[36. Valid Sudoku(有效数独)](https://leetcode.com/problems/valid-sudoku/)|
+| [20211214](./guangxu/202112/20211214.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)|
+| [20211213](./guangxu/202112/20211213.md) |[48. Rotate Image(旋转图像)](https://leetcode.com/problems/rotate-image/)|
+| [20211212](./guangxu/202112/20211212.md) |[66. Plus One(数组加一)](https://leetcode.com/problems/plus-one/)|
+| [20211211](./guangxu/202112/20211211.md) |[70. Climbing Stairs(爬梯子-动态规划)](https://leetcode.com/problems/climbing-stairs/)|
+| [20211210](./guangxu/202112/20211210.md) |[73. Set Matrix Zeroes(设置矩阵零)](https://leetcode.com/problems/set-matrix-zeroes/)|
+| [20211209](./guangxu/202112/20211209.md) |[60. Permutation Sequence(序列排序)](https://leetcode.com/problems/permutation-sequence/)|
+| [20211208](./guangxu/202112/20211208.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)|
+| [20211207](./guangxu/202112/20211207.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)|
+| [20211206](./guangxu/202112/20211206.md) |[128. Longest Consecutive Sequence(最长递增序列)](https://leetcode.com/problems/longest-consecutive-sequence/)|
+| [20211205](./guangxu/202112/20211205.md) |[4. Median of Two Sorted Arrays(两个排序数组的中位数)](https://leetcode.com/problems/median-of-two-sorted-arrays/)|
+| [20211204](./guangxu/202112/20211204.md) |[27. Remove Element(移除元素)](https://leetcode.com/problems/remove-element/)|
+| [20211203](./guangxu/202112/20211203.md) |[81. Search in Rotated Sorted Array II(旋转数组中的查找2)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|
+| [20211202](./guangxu/202112/20211202.md) |[704. Binary Search(二分查找)](https://leetcode.com/problems/binary-search/)|
+| [20211201](./guangxu/202112/20211201.md) |[33. Search in Rotated Sorted Array(旋转数组中的查找)](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
+
 | [20211130](./guangxu/202111/20211130.md) |[26. Remove Duplicates from Sorted Array(删除数组中的重复项)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
 | [20211118](./guangxu/202111/20211118.md) |[80. Remove Duplicates from Sorted Array II(删除排序数组中的重复项)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|
 | [20211117](./guangxu/202111/20211117.md) |[215. Kth Largest Element in an Array(数组中第K个最大元素)](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
