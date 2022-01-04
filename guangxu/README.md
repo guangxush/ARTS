@@ -1,5 +1,16 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220201](./202202/20220201.md) |[110. Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)||||
+| [20220210](./202202/20220210.md) |[109. Convert Sorted List to Binary Search Tree(排序链表转二叉搜索树)](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)||||
+| [20220209](./202202/20220209.md) |[108. Convert Sorted Array to Binary Search Tree(排序数组转二叉搜索树)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)||||
+| [20220208](./202202/20220208.md) |[98. Validate Binary Search Tree(有效的二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)||||
+| [20220207](./202202/20220207.md) |[95. Unique Binary Search Trees II(不同的二叉搜索树2)](https://leetcode.com/problems/unique-binary-search-trees-ii/)||||
+| [20220206](./202202/20220206.md) |[96. Unique Binary Search Trees(不同的二叉搜索树)](https://leetcode.com/problems/unique-binary-search-trees/)||||
+| [20220205](./202202/20220205.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(前序和后序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)||||
+| [20220204](./202202/20220204.md) |[106. Construct Binary Tree from Inorder and Postorder Traversal(中序和后序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)||||
+| [20220203](./202202/20220203.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(前序和中序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||||
+| [20220202](./202202/20220202.md) |[117. Populating Next Right Pointers in Each Node II(指向右侧节点)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)||||
+| [20220201](./202202/20220201.md) |[114. Flatten Binary Tree to Linked List(二叉树转单链表)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)||||
 | [20220131](./202201/20220131.md) |[110. Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)||||
 | [20220130](./202201/20220130.md) |[101. Symmetric Tree(对称树)](https://leetcode.com/problems/symmetric-tree/)||||
 | [20220129](./202201/20220129.md) |[100. Same Tree(相似的树)](https://leetcode.com/problems/same-tree/)||||
