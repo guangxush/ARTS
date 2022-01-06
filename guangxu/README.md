@@ -1,6 +1,16 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20220218](./202202/20220218.md) |[111. Minimum Depth of Binary Tree(最小深度二叉树)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)||||
+| [20220228](./202202/20220228.md) |[35. Search Insert Position(寻找插入位置)](https://leetcode.com/problems/search-insert-position/)||||
+| [20220227](./202202/20220227.md) |[240. Search a 2D Matrix II(二维数组查找2)](https://leetcode.com/problems/search-a-2d-matrix-ii/)||||
+| [20220226](./202202/20220226.md) |[74. Search a 2D Matrix(二维数组查找)](https://leetcode.com/problems/search-a-2d-matrix/)||||
+| [20220225](./202202/20220225.md) |[704. Binary Search(二分查找)](https://leetcode.com/problems/binary-search/)||||
+| [20220224](./202202/20220224.md) |[75. Sort Colors(颜色排序-快速排序)](https://leetcode.com/problems/sort-colors/)||||
+| [20220223](./202202/20220223.md) |[41. First Missing Positive(发现缺失的正数-桶排序)](https://leetcode.com/problems/first-missing-positive/)||||
+| [20220222](./202202/20220222.md) |[148. Sort List(链表排序)](https://leetcode.com/problems/sort-list/)||||
+| [20220221](./202202/20220221.md) |[147. Insertion Sort List(链表插入排序)](https://leetcode.com/problems/insertion-sort-list/)||||
+| [20220220](./202202/20220220.md) |[23. Merge k Sorted Lists(合并K个排序链表)](https://leetcode.com/problems/merge-k-sorted-lists/)||||
+| [20220219](./202202/20220219.md) |[21. Merge Two Sorted Lists(合并两个排序链表)](https://leetcode.com/problems/merge-two-sorted-lists/)||||
+| [20220218](./202202/20220218.md) |[88. Merge Sorted Array(合并两个排序数组)](https://leetcode.com/problems/merge-sorted-array/)||||
 | [20220217](./202202/20220217.md) |[129. Sum Root to Leaf Numbers(根到叶子节点之和)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)||||
 | [20220216](./202202/20220216.md) |[116. Populating Next Right Pointers in Each Node(每个节点增加右指针)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)||||
 | [20220215](./202202/20220215.md) |[124. Binary Tree Maximum Path Sum(二叉树最大路径和)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)||||
