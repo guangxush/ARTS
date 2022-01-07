@@ -218,10 +218,27 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210506](./guangxu/202105/20210506.md) |[121. Best Time to Buy and Sell Stock(买卖股票的最佳时间)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
 | [20210505](./guangxu/202105/20210505.md) |[123. Best Time to Buy and Sell Stock III(买卖股票的最佳时间3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|
 
+### 查找
+
+| 参考解答 | 原题地址 |
+| :---- | :-----|
+| [20220228](./guangxu/202202/20220228.md) |[35. Search Insert Position(寻找插入位置)](https://leetcode.com/problems/search-insert-position/)|
+| [20220227](./guangxu/202202/20220227.md) |[240. Search a 2D Matrix II(二维数组查找2)](https://leetcode.com/problems/search-a-2d-matrix-ii/)|
+| [20220226](./guangxu/202202/20220226.md) |[74. Search a 2D Matrix(二维数组查找)](https://leetcode.com/problems/search-a-2d-matrix/)|
+| [20220225](./guangxu/202202/20220225.md) |[704. Binary Search(二分查找)](https://leetcode.com/problems/binary-search/)|
+
+
 ### 排序
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220224](./guangxu/202202/20220224.md) |[75. Sort Colors(颜色排序-快速排序)](https://leetcode.com/problems/sort-colors/)|
+| [20220223](./guangxu/202202/20220223.md) |[41. First Missing Positive(发现缺失的正数-桶排序)](https://leetcode.com/problems/first-missing-positive/)|
+| [20220222](./guangxu/202202/20220222.md) |[148. Sort List(链表排序)](https://leetcode.com/problems/sort-list/)|
+| [20220221](./guangxu/202202/20220221.md) |[147. Insertion Sort List(链表插入排序)](https://leetcode.com/problems/insertion-sort-list/)|
+| [20220220](./guangxu/202202/20220220.md) |[23. Merge k Sorted Lists(合并K个排序链表)](https://leetcode.com/problems/merge-k-sorted-lists/)|
+| [20220219](./guangxu/202202/20220219.md) |[21. Merge Two Sorted Lists(合并两个排序链表)](https://leetcode.com/problems/merge-two-sorted-lists/)|
+| [20220218](./guangxu/202202/20220218.md) |[88. Merge Sorted Array(合并两个排序数组)](https://leetcode.com/problems/merge-sorted-array/)|
 | [20210120](./guangxu/202101/20210120.md) |[912. Sort an Array(数组排序)](https://leetcode.com/problems/sort-an-array/)|
 | [20210504](./guangxu/202105/20210504.md) |[912. Sort an Array(归并排序)](https://leetcode.com/problems/sort-an-array/)|
 | [20201107](./guangxu/202011/20201107.md) |希尔排序|
@@ -236,6 +253,23 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220217](./guangxu/202202/20220217.md) |[129. Sum Root to Leaf Numbers(根到叶子节点之和)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|
+| [20220216](./guangxu/202202/20220216.md) |[116. Populating Next Right Pointers in Each Node(每个节点增加右指针)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|
+| [20220215](./guangxu/202202/20220215.md) |[124. Binary Tree Maximum Path Sum(二叉树最大路径和)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|
+| [20220214](./guangxu/202202/20220214.md) |[113. Path Sum II(路径和2)](https://leetcode.com/problems/path-sum-ii/)|
+| [20220213](./guangxu/202202/20220213.md) |[112. Path Sum(路径和)](https://leetcode.com/problems/path-sum/)|
+| [20220212](./guangxu/202202/20220212.md) |[104. Maximum Depth of Binary Tree(最大深度二叉树)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
+| [20220211](./guangxu/202202/20220211.md) |[111. Minimum Depth of Binary Tree(最小深度二叉树)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|
+| [20220210](./guangxu/202202/20220210.md) |[109. Convert Sorted List to Binary Search Tree(排序链表转二叉搜索树)](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|
+| [20220209](./guangxu/202202/20220209.md) |[108. Convert Sorted Array to Binary Search Tree(排序数组转二叉搜索树)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|
+| [20220208](./guangxu/202202/20220208.md) |[98. Validate Binary Search Tree(有效的二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)|
+| [20220207](./guangxu/202202/20220207.md) |[95. Unique Binary Search Trees II(不同的二叉搜索树2)](https://leetcode.com/problems/unique-binary-search-trees-ii/)|
+| [20220206](./guangxu/202202/20220206.md) |[96. Unique Binary Search Trees(不同的二叉搜索树)](https://leetcode.com/problems/unique-binary-search-trees/)|
+| [20220205](./guangxu/202202/20220205.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(前序和后序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|
+| [20220204](./guangxu/202202/20220204.md) |[106. Construct Binary Tree from Inorder and Postorder Traversal(中序和后序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|
+| [20220203](./guangxu/202202/20220203.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(前序和中序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|
+| [20220202](./guangxu/202202/20220202.md) |[117. Populating Next Right Pointers in Each Node II(指向右侧节点)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|
+| [20220201](./guangxu/202202/20220201.md) |[114. Flatten Binary Tree to Linked List(二叉树转单链表)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|
 | [20220131](./guangxu/202201/20220131.md) |[110. Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)|
 | [20220130](./guangxu/202201/20220130.md) |[101. Symmetric Tree(对称树)](https://leetcode.com/problems/symmetric-tree/)|
 | [20220129](./guangxu/202201/20220129.md) |[100. Same Tree(相似的树)](https://leetcode.com/problems/same-tree/)|
@@ -479,7 +513,6 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20211203](./guangxu/202112/20211203.md) |[81. Search in Rotated Sorted Array II(旋转数组中的查找2)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|
 | [20211202](./guangxu/202112/20211202.md) |[704. Binary Search(二分查找)](https://leetcode.com/problems/binary-search/)|
 | [20211201](./guangxu/202112/20211201.md) |[33. Search in Rotated Sorted Array(旋转数组中的查找)](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
-
 | [20211130](./guangxu/202111/20211130.md) |[26. Remove Duplicates from Sorted Array(删除数组中的重复项)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
 | [20211118](./guangxu/202111/20211118.md) |[80. Remove Duplicates from Sorted Array II(删除排序数组中的重复项)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|
 | [20211117](./guangxu/202111/20211117.md) |[215. Kth Largest Element in an Array(数组中第K个最大元素)](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
