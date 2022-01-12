@@ -1,27 +1,38 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20220322](./202202/20220322.md) |[130. Surrounded Regions(环绕区域-BFS)](https://leetcode.com/problems/surrounded-regions/)||||
-| [20220321](./202202/20220321.md) |[126. Word Ladder II(词语阶梯2-BFS)](https://leetcode.com/problems/word-ladder-ii/)||||
-| [20220320](./202202/20220320.md) |[127. Word Ladder(词语阶梯-BFS)](https://leetcode.com/problems/word-ladder/)||||
-| [20220319](./202202/20220319.md) |[17. Letter Combinations of a Phone Number(电话号码组合-暴力枚举)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)||||
-| [20220318](./202202/20220318.md) |[77. Combinations(组合-暴力枚举)](https://leetcode.com/problems/combinations/)||||
-| [20220317](./202202/20220317.md) |[46. Permutations(排列-暴力枚举)](https://leetcode.com/problems/permutations/)||||
-| [20220316](./202202/20220316.md) |[90. Subsets II(子集2-暴力枚举)](https://leetcode.com/problems/subsets-ii/)||||
-| [20220315](./202202/20220315.md) |[78. Subsets(子集-暴力枚举)](https://leetcode.com/problems/subsets/)||||
-| [20220314](./202202/20220314.md) |[140. Word Break II(单词切分2)](https://leetcode.com/problems/word-break-ii/)||||
-| [20220313](./202202/20220313.md) |[139. Word Break(单词切分)](https://leetcode.com/problems/word-break/)||||
-| [20220312](./202202/20220312.md) |[115. Distinct Subsequences(不同的子序列)](https://leetcode.com/problems/distinct-subsequences/)||||
-| [20220311](./202202/20220311.md) |[91. Decode Ways(解码方式)](https://leetcode.com/problems/decode-ways/)||||
-| [20220310](./202202/20220310.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)||||
-| [20220309](./202202/20220309.md) |[64. Minimum Path Sum(最短路径和)](https://leetcode.com/problems/minimum-path-sum/)||||
-| [20220308](./202202/20220308.md) |[87. Scramble String(搅乱字符串)](https://leetcode.com/problems/scramble-string/)||||
-| [20220307](./202202/20220307.md) |[97. Interleaving String(交织相错的字符串)](https://leetcode.com/problems/interleaving-string/)||||
-| [20220306](./202202/20220306.md) |[123. Best Time to Buy and Sell Stock III(买卖股票的最佳时间3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)||||
-| [20220305](./202202/20220305.md) |[85. Maximal Rectangle(最大矩形)](https://leetcode.com/problems/maximal-rectangle/)||||
-| [20220304](./202202/20220304.md) |[132. Palindrome Partitioning II(拆分回文串2)](https://leetcode.com/problems/palindrome-partitioning-ii/)||||
-| [20220303](./202202/20220303.md) |[131. Palindrome Partitioning(拆分回文串)](https://leetcode.com/problems/palindrome-partitioning/)||||
-| [20220302](./202202/20220302.md) |[53. Maximum Subarray(最大字段和)](https://leetcode.com/problems/maximum-subarray/)||||
-| [20220301](./202202/20220301.md) |[120. Triangle(三角形)](https://leetcode.com/problems/triangle/)||||
+| [20220402](./202204/20220402.md) |[79. Word Search(单词查找)](https://leetcode.com/problems/word-search/)||||
+| [20220401](./202204/20220401.md) |[37. Sudoku Solver(数独)](https://leetcode.com/problems/sudoku-solver/)||||
+| [20220331](./202203/20220331.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)||||
+| [20220330](./202203/20220330.md) |[40. Combination Sum II(组合总和2)](https://leetcode.com/problems/combination-sum-ii/)||||
+| [20220329](./202203/20220329.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)||||
+| [20220328](./202203/20220328.md) |[52. N-Queens II(N皇后问题2)](https://leetcode.com/problems/n-queens-ii/)||||
+| [20220327](./202203/20220327.md) |[51. N-Queens(N皇后问题)](https://leetcode.com/problems/n-queens/)||||
+| [20220326](./202203/20220326.md) |[63. Unique Paths II(不同的路径2)](https://leetcode.com/problems/unique-paths-ii/)||||
+| [20220325](./202203/20220325.md) |[62. Unique Paths(不同的路径)](https://leetcode.com/problems/unique-paths/)||||
+| [20220324](./202203/20220324.md) |[132. Palindrome Partitioning II(回文串拆分2)](https://leetcode.com/problems/palindrome-partitioning-ii)||||
+| [20220323](./202203/20220323.md) |[131. Palindrome Partitioning(回文串拆分)](https://leetcode.com/problems/palindrome-partitioning/)||||
+| [20220322](./202203/20220322.md) |[130. Surrounded Regions(环绕区域-BFS)](https://leetcode.com/problems/surrounded-regions/)||||
+| [20220321](./202203/20220321.md) |[126. Word Ladder II(词语阶梯2-BFS)](https://leetcode.com/problems/word-ladder-ii/)||||
+| [20220320](./202203/20220320.md) |[127. Word Ladder(词语阶梯-BFS)](https://leetcode.com/problems/word-ladder/)||||
+| [20220319](./202203/20220319.md) |[17. Letter Combinations of a Phone Number(电话号码组合-暴力枚举)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)||||
+| [20220318](./202203/20220318.md) |[77. Combinations(组合-暴力枚举)](https://leetcode.com/problems/combinations/)||||
+| [20220317](./202203/20220317.md) |[46. Permutations(排列-暴力枚举)](https://leetcode.com/problems/permutations/)||||
+| [20220316](./202203/20220316.md) |[90. Subsets II(子集2-暴力枚举)](https://leetcode.com/problems/subsets-ii/)||||
+| [20220315](./202203/20220315.md) |[78. Subsets(子集-暴力枚举)](https://leetcode.com/problems/subsets/)||||
+| [20220314](./202203/20220314.md) |[140. Word Break II(单词切分2)](https://leetcode.com/problems/word-break-ii/)||||
+| [20220313](./202203/20220313.md) |[139. Word Break(单词切分)](https://leetcode.com/problems/word-break/)||||
+| [20220312](./202203/20220312.md) |[115. Distinct Subsequences(不同的子序列)](https://leetcode.com/problems/distinct-subsequences/)||||
+| [20220311](./202203/20220311.md) |[91. Decode Ways(解码方式)](https://leetcode.com/problems/decode-ways/)||||
+| [20220310](./202203/20220310.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)||||
+| [20220309](./202203/20220309.md) |[64. Minimum Path Sum(最短路径和)](https://leetcode.com/problems/minimum-path-sum/)||||
+| [20220308](./202203/20220308.md) |[87. Scramble String(搅乱字符串)](https://leetcode.com/problems/scramble-string/)||||
+| [20220307](./202203/20220307.md) |[97. Interleaving String(交织相错的字符串)](https://leetcode.com/problems/interleaving-string/)||||
+| [20220306](./202203/20220306.md) |[123. Best Time to Buy and Sell Stock III(买卖股票的最佳时间3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)||||
+| [20220305](./202203/20220305.md) |[85. Maximal Rectangle(最大矩形)](https://leetcode.com/problems/maximal-rectangle/)||||
+| [20220304](./202203/20220304.md) |[132. Palindrome Partitioning II(拆分回文串2)](https://leetcode.com/problems/palindrome-partitioning-ii/)||||
+| [20220303](./202203/20220303.md) |[131. Palindrome Partitioning(拆分回文串)](https://leetcode.com/problems/palindrome-partitioning/)||||
+| [20220302](./202203/20220302.md) |[53. Maximum Subarray(最大字段和)](https://leetcode.com/problems/maximum-subarray/)||||
+| [20220301](./202203/20220301.md) |[120. Triangle(三角形)](https://leetcode.com/problems/triangle/)||||
 | [20220228](./202202/20220228.md) |[35. Search Insert Position(寻找插入位置)](https://leetcode.com/problems/search-insert-position/)||||
 | [20220227](./202202/20220227.md) |[240. Search a 2D Matrix II(二维数组查找2)](https://leetcode.com/problems/search-a-2d-matrix-ii/)||||
 | [20220226](./202202/20220226.md) |[74. Search a 2D Matrix(二维数组查找)](https://leetcode.com/problems/search-a-2d-matrix/)||||
