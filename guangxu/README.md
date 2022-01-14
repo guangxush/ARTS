@@ -1,5 +1,13 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220417](./202204/20220417.md) |[30. Substring with Concatenation of All Words(子字符串包含所有单词)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+||||
+| [20220416](./202204/20220416.md) |[43. Multiply Strings(大数乘法)](https://leetcode.com/problems/multiply-strings/)||||
+| [20220415](./202204/20220415.md) |[76. Minimum Window Substring(最小子字符串区间)](https://leetcode.com/problems/minimum-window-substring/)||||
+| [20220414](./202204/20220414.md) |[57. Insert Interval(插入区间)](https://leetcode.com/problems/insert-interval/)||||
+| [20220413](./202204/20220413.md) |[9. Palindrome Number(回文数)](https://leetcode.com/problems/palindrome-number/)||||
+| [20220412](./202204/20220412.md) |[7. Reverse Integer(整数反转)](https://leetcode.com/problems/reverse-integer/)||||
+| [20220411](./202204/20220411.md) |[133. Clone Graph(图复制)](https://leetcode.com/problems/clone-graph/)||||
 | [20220410](./202204/20220410.md) |[11. Container With Most Water(最大蓄水量)](https://leetcode.com/problems/container-with-most-water/)||||
 | [20220409](./202204/20220409.md) |[3. Longest Substring Without Repeating Characters(最长无重复字符串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||||
 | [20220408](./202204/20220408.md) |[122. Best Time to Buy and Sell Stock II(买卖股票最佳时间2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||||
