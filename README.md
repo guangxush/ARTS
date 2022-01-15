@@ -129,6 +129,20 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220314](./guangxu/202203/20220314.md) |[140. Word Break II(单词切分2)](https://leetcode.com/problems/word-break-ii/)|
+| [20220313](./guangxu/202203/20220313.md) |[139. Word Break(单词切分)](https://leetcode.com/problems/word-break/)|
+| [20220312](./guangxu/202203/20220312.md) |[115. Distinct Subsequences(不同的子序列)](https://leetcode.com/problems/distinct-subsequences/)|
+| [20220311](./guangxu/202203/20220311.md) |[91. Decode Ways(解码方式)](https://leetcode.com/problems/decode-ways/)|
+| [20220310](./guangxu/202203/20220310.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)|
+| [20220309](./guangxu/202203/20220309.md) |[64. Minimum Path Sum(最短路径和)](https://leetcode.com/problems/minimum-path-sum/)|
+| [20220308](./guangxu/202203/20220308.md) |[87. Scramble String(搅乱字符串)](https://leetcode.com/problems/scramble-string/)|
+| [20220307](./guangxu/202203/20220307.md) |[97. Interleaving String(交织相错的字符串)](https://leetcode.com/problems/interleaving-string/)|
+| [20220306](./guangxu/202203/20220306.md) |[123. Best Time to Buy and Sell Stock III(买卖股票的最佳时间3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|
+| [20220305](./guangxu/202203/20220305.md) |[85. Maximal Rectangle(最大矩形)](https://leetcode.com/problems/maximal-rectangle/)|
+| [20220304](./guangxu/202203/20220304.md) |[132. Palindrome Partitioning II(拆分回文串2)](https://leetcode.com/problems/palindrome-partitioning-ii/)|
+| [20220303](./guangxu/202203/20220303.md) |[131. Palindrome Partitioning(拆分回文串)](https://leetcode.com/problems/palindrome-partitioning/)|
+| [20220302](./guangxu/202203/20220302.md) |[53. Maximum Subarray(最大字段和)](https://leetcode.com/problems/maximum-subarray/)|
+| [20220301](./guangxu/202203/20220301.md) |[120. Triangle(三角形)](https://leetcode.com/problems/triangle/)|
 | [20211112](./guangxu/202111/20211112.md) |[718. Maximum Length of Repeated Subarray(最长公共子序列)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
 | [20211105](./guangxu/202111/20211105.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)|
 | [20211026](./guangxu/202110/2021026.md) |[97. Interleaving String(DP交错字符串)](https://leetcode.com/problems/interleaving-string/)|
@@ -178,10 +192,28 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210709](./guangxu/202107/20210709.md) |[40. Combination Sum II(组合总和)](https://leetcode.com/problems/combination-sum-ii/)|
 | [20210705](./guangxu/202107/20210705.md) |[718. Maximum Length of Repeated Subarray(最长公共子序列)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
 
+
+### 暴力枚举
+
+| 参考解答 | 原题地址 |
+| :---- | :-----|
+| [20220319](./guangxu/202203/20220319.md) |[17. Letter Combinations of a Phone Number(电话号码组合-暴力枚举)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|
+| [20220318](./guangxu/202203/20220318.md) |[77. Combinations(组合-暴力枚举)](https://leetcode.com/problems/combinations/)|
+| [20220317](./guangxu/202203/20220317.md) |[46. Permutations(排列-暴力枚举)](https://leetcode.com/problems/permutations/)|
+| [20220316](./guangxu/202203/20220316.md) |[90. Subsets II(子集2-暴力枚举)](https://leetcode.com/problems/subsets-ii/)|
+| [20220315](./guangxu/202203/20220315.md) |[78. Subsets(子集-暴力枚举)](https://leetcode.com/problems/subsets/)|
+
 ### 贪心算法
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220410](./guangxu/202204/20220410.md) |[11. Container With Most Water(最大蓄水量)](https://leetcode.com/problems/container-with-most-water/)|
+| [20220409](./guangxu/202204/20220409.md) |[3. Longest Substring Without Repeating Characters(最长无重复字符串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+| [20220408](./guangxu/202204/20220408.md) |[122. Best Time to Buy and Sell Stock II(买卖股票最佳时间2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|
+| [20220407](./guangxu/202204/20220407.md) |[121. Best Time to Buy and Sell Stock(买卖股票最佳时间)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
+| [20220406](./guangxu/202204/20220406.md) |[45. Jump Game II(跳跃游戏2)](https://leetcode.com/problems/jump-game-ii/)|
+| [20220405](./guangxu/202204/20220405.md) |[55. Jump Game(跳跃游戏)](https://leetcode.com/problems/jump-game/)|
+
 | [20211109](./guangxu/202111/20211109.md) |[135. Candy(分发糖果)](https://leetcode.com/problems/candy/)|
 | [20210907](./guangxu/202109/20210907.md) |[322. Coin Change(零钱兑换)](https://leetcode.com/problems/coin-change/)|
 | [20210906](./guangxu/202109/20210906.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)|
@@ -226,6 +258,38 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20220227](./guangxu/202202/20220227.md) |[240. Search a 2D Matrix II(二维数组查找2)](https://leetcode.com/problems/search-a-2d-matrix-ii/)|
 | [20220226](./guangxu/202202/20220226.md) |[74. Search a 2D Matrix(二维数组查找)](https://leetcode.com/problems/search-a-2d-matrix/)|
 | [20220225](./guangxu/202202/20220225.md) |[704. Binary Search(二分查找)](https://leetcode.com/problems/binary-search/)|
+
+
+### 分治法
+
+| 参考解答 | 原题地址 |
+| :---- | :-----|
+| [20220404](./guangxu/202204/20220404.md) |[69. Sqrt(x)(分治法求根号)](https://leetcode.com/problems/sqrtx/)|
+| [20220403](./guangxu/202204/20220403.md) |[50. Pow(x, n)(分治法求次方)](https://leetcode.com/problems/powx-n/)|
+
+### 深度优先搜索
+
+| 参考解答 | 原题地址 |
+| :---- | :-----|
+| [20220402](./guangxu/202204/20220402.md) |[79. Word Search(单词查找)](https://leetcode.com/problems/word-search/)|
+| [20220401](./guangxu/202204/20220401.md) |[37. Sudoku Solver(数独)](https://leetcode.com/problems/sudoku-solver/)|
+| [20220331](./guangxu/202203/20220331.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)|
+| [20220330](./guangxu/202203/20220330.md) |[40. Combination Sum II(组合总和2)](https://leetcode.com/problems/combination-sum-ii/)|
+| [20220329](./guangxu/202203/20220329.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)|
+| [20220328](./guangxu/202203/20220328.md) |[52. N-Queens II(N皇后问题2)](https://leetcode.com/problems/n-queens-ii/)|
+| [20220327](./guangxu/202203/20220327.md) |[51. N-Queens(N皇后问题)](https://leetcode.com/problems/n-queens/)|
+| [20220326](./guangxu/202203/20220326.md) |[63. Unique Paths II(不同的路径2)](https://leetcode.com/problems/unique-paths-ii/)|
+| [20220325](./guangxu/202203/20220325.md) |[62. Unique Paths(不同的路径)](https://leetcode.com/problems/unique-paths/)|
+| [20220324](./guangxu/202203/20220324.md) |[132. Palindrome Partitioning II(回文串拆分2)](https://leetcode.com/problems/palindrome-partitioning-ii)|
+| [20220323](./guangxu/202203/20220323.md) |[131. Palindrome Partitioning(回文串拆分)](https://leetcode.com/problems/palindrome-partitioning/)|
+
+### 广度优先搜索
+
+| 参考解答 | 原题地址 |
+| :---- | :-----|
+| [20220322](./guangxu/202203/20220322.md) |[130. Surrounded Regions(环绕区域-BFS)](https://leetcode.com/problems/surrounded-regions/)|
+| [20220321](./guangxu/202203/20220321.md) |[126. Word Ladder II(词语阶梯2-BFS)](https://leetcode.com/problems/word-ladder-ii/)|
+| [20220320](./guangxu/202203/20220320.md) |[127. Word Ladder(词语阶梯-BFS)](https://leetcode.com/problems/word-ladder/)|
 
 
 ### 排序
@@ -609,6 +673,7 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220411](./guangxu/202204/20220411.md) |[133. Clone Graph(图复制)](https://leetcode.com/problems/clone-graph/)|
 | [20210909](./guangxu/202109/20210909.md) |[48. Rotate Image(旋转图像)](https://leetcode.com/problems/rotate-image/)|
 | [20210817](./guangxu/202108/20210817.md) |[200. Number of Islands(岛屿数量)](https://leetcode.com/problems/number-of-islands/)|
 | [20201026](./guangxu/202010/20201026.md) |[剑指offer-机器人的运动范围](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
@@ -618,10 +683,24 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 | [20210224](./guangxu/202102/20210224.md) |[79. Word Search(单词查找-dfs)](https://leetcode.com/problems/word-search/)|
 
 
-### 其他
+### 细节实现题
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220425](./guangxu/202204/20220425.md) |[149. Max Points on a Line(线上最多的点)](https://leetcode.com/problems/max-points-on-a-line/)|
+| [20220424](./guangxu/202204/20220424.md) |[68. Text Justification(公平文本)](https://leetcode.com/problems/text-justification/)|
+| [20220423](./guangxu/202204/20220423.md) |[29. Divide Two Integers(整数相除)](https://leetcode.com/problems/divide-two-integers/)|
+| [20220422](./guangxu/202204/20220422.md) |[6. Zigzag Conversion(之字形文本)](https://leetcode.com/problems/zigzag-conversion/)|
+| [20220421](./guangxu/202204/20220421.md) |[59. Spiral Matrix II(环形矩阵2)](https://leetcode.com/problems/spiral-matrix-ii/)|
+| [20220420](./guangxu/202204/20220420.md) |[54. Spiral Matrix(环形矩阵)](https://leetcode.com/problems/spiral-matrix/)|
+| [20220419](./guangxu/202204/20220419.md) |[119. Pascal's Triangle II(杨辉三角2)](https://leetcode.com/problems/pascals-triangle-ii/)|
+| [20220418](./guangxu/202204/20220418.md) |[118. Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/)|
+| [20220417](./guangxu/202204/20220417.md) |[30. Substring with Concatenation of All Words(子字符串包含所有单词)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|
+| [20220416](./guangxu/202204/20220416.md) |[43. Multiply Strings(大数乘法)](https://leetcode.com/problems/multiply-strings/)|
+| [20220415](./guangxu/202204/20220415.md) |[76. Minimum Window Substring(最小子字符串区间)](https://leetcode.com/problems/minimum-window-substring/)|
+| [20220414](./guangxu/202204/20220414.md) |[57. Insert Interval(插入区间)](https://leetcode.com/problems/insert-interval/)|
+| [20220413](./guangxu/202204/20220413.md) |[9. Palindrome Number(回文数)](https://leetcode.com/problems/palindrome-number/)|
+| [20220412](./guangxu/202204/20220412.md) |[7. Reverse Integer(整数反转)](https://leetcode.com/problems/reverse-integer/)|
 | [20200828](./guangxu/202008/20200828.md) | [剑指offer-斐波那契数列](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20201005](./guangxu/202010/20201005.md) |[剑指offer-孩子们的游戏-圆圈中剩下的数字](https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|
 | [20201004](./guangxu/202010/20201004.md) |[剑指offer-扑克牌顺子](https://www.nowcoder.com/practice/762836f4d43d43ca9deb273b3de8e1f4?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1)|

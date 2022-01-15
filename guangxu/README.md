@@ -1,7 +1,14 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20220417](./202204/20220417.md) |[30. Substring with Concatenation of All Words(子字符串包含所有单词)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
-||||
+| [20220425](./202204/20220425.md) |[149. Max Points on a Line(线上最多的点)](https://leetcode.com/problems/max-points-on-a-line/)||||
+| [20220424](./202204/20220424.md) |[68. Text Justification(公平文本)](https://leetcode.com/problems/text-justification/)||||
+| [20220423](./202204/20220423.md) |[29. Divide Two Integers(整数相除)](https://leetcode.com/problems/divide-two-integers/)||||
+| [20220422](./202204/20220422.md) |[6. Zigzag Conversion(之字形文本)](https://leetcode.com/problems/zigzag-conversion/)||||
+| [20220421](./202204/20220421.md) |[59. Spiral Matrix II(环形矩阵2)](https://leetcode.com/problems/spiral-matrix-ii/)||||
+| [20220420](./202204/20220420.md) |[54. Spiral Matrix(环形矩阵)](https://leetcode.com/problems/spiral-matrix/)||||
+| [20220419](./202204/20220419.md) |[119. Pascal's Triangle II(杨辉三角2)](https://leetcode.com/problems/pascals-triangle-ii/)||||
+| [20220418](./202204/20220418.md) |[118. Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/)||||
+| [20220417](./202204/20220417.md) |[30. Substring with Concatenation of All Words(子字符串包含所有单词)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)||||
 | [20220416](./202204/20220416.md) |[43. Multiply Strings(大数乘法)](https://leetcode.com/problems/multiply-strings/)||||
 | [20220415](./202204/20220415.md) |[76. Minimum Window Substring(最小子字符串区间)](https://leetcode.com/problems/minimum-window-substring/)||||
 | [20220414](./202204/20220414.md) |[57. Insert Interval(插入区间)](https://leetcode.com/problems/insert-interval/)||||
