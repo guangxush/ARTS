@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220426](./202204/20220426.md) |[27. Remove Element(移除重复元素)](https://leetcode.com/problems/remove-element/)||||
 | [20220426](./202204/20220426.md) |[409. Longest Palindrome(最长回文串)](https://leetcode.com/problems/longest-palindrome/)||||
 | [20220425](./202204/20220425.md) |[149. Max Points on a Line(线上最多的点)](https://leetcode.com/problems/max-points-on-a-line/)||||
 | [20220424](./202204/20220424.md) |[68. Text Justification(公平文本)](https://leetcode.com/problems/text-justification/)||||
