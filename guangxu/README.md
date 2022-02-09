@@ -1,6 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20220428](./202204/20220428.md) |[47. Permutations II](https://leetcode.com/problems/permutations-ii/)||||
+| [20220429](./202204/20220429.md) |[877. Stone Game(石头游戏)](https://leetcode.com/problems/stone-game/)||||
+| [20220428](./202204/20220428.md) |[47. Permutations II(组合2)](https://leetcode.com/problems/permutations-ii/)||||
 | [20220427](./202204/20220427.md) |[27. Remove Element(移除重复元素)](https://leetcode.com/problems/remove-element/)||||
 | [20220426](./202204/20220426.md) |[409. Longest Palindrome(最长回文串)](https://leetcode.com/problems/longest-palindrome/)||||
 | [20220425](./202204/20220425.md) |[149. Max Points on a Line(线上最多的点)](https://leetcode.com/problems/max-points-on-a-line/)||||
