@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220430](./202204/20220430.md) |[98. Validate Binary Search Tree(有效的二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)||||
 | [20220429](./202204/20220429.md) |[877. Stone Game(石头游戏)](https://leetcode.com/problems/stone-game/)||||
 | [20220428](./202204/20220428.md) |[47. Permutations II(组合2)](https://leetcode.com/problems/permutations-ii/)||||
 | [20220427](./202204/20220427.md) |[27. Remove Element(移除重复元素)](https://leetcode.com/problems/remove-element/)||||
