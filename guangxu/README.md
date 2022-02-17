@@ -1,5 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220507](./202205/20220507.md) |[78. Subsets(子集)](https://leetcode.com/problems/subsets/)||||
+| [20220506](./202205/20220506.md) |[77. Combinations(组合)](https://leetcode.com/problems/combinations/)||||
+| [20220505](./202205/20220505.md) |[46. Permutations(排列)](https://leetcode.com/problems/permutations/)||||
+| [20220504](./202205/20220504.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)||||
 | [20220503](./202205/20220503.md) |[206. Reverse Linked List(反转链表-递归)](https://leetcode.com/problems/reverse-linked-list/)||||
 | [20220502](./202205/20220502.md) |[239. Sliding Window Maximum(滑动窗口的最大值-单调队列)](https://leetcode.com/problems/sliding-window-maximum/)||||
 | [20220501](./202205/20220501.md) |[739. Daily Temperatures(每日温度-单调栈)](https://leetcode.com/problems/daily-temperatures/)||||
