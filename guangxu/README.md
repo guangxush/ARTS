@@ -1,10 +1,14 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220512](./202205/20220512.md) |[887. Super Egg Drop(扔鸡蛋问题)](https://leetcode.com/problems/super-egg-drop/)||||
+| [20220511](./202205/20220511.md) |[773. Sliding Puzzle(滑动窗格-广度优先搜索)](https://leetcode.com/problems/sliding-puzzle/)||||
+| [20220510](./202205/20220510.md) |[986. Interval List Intersections(区间交集-贪心)](https://leetcode.com/problems/interval-list-intersections/)||||
+| [20220509](./202205/20220509.md) |[56. Merge Intervals(合并区间-贪心)](https://leetcode.com/problems/merge-intervals/)||||
 | [20220508](./202205/20220508.md) |[560. Subarray Sum Equals K(和等于K的子数组)](https://leetcode.com/problems/subarray-sum-equals-k/)||||
-| [20220507](./202205/20220507.md) |[78. Subsets(子集)](https://leetcode.com/problems/subsets/)||||
-| [20220506](./202205/20220506.md) |[77. Combinations(组合)](https://leetcode.com/problems/combinations/)||||
-| [20220505](./202205/20220505.md) |[46. Permutations(排列)](https://leetcode.com/problems/permutations/)||||
-| [20220504](./202205/20220504.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)||||
+| [20220507](./202205/20220507.md) |[78. Subsets(子集-深度优先遍历)](https://leetcode.com/problems/subsets/)||||
+| [20220506](./202205/20220506.md) |[77. Combinations(组合-深度优先遍历)](https://leetcode.com/problems/combinations/)||||
+| [20220505](./202205/20220505.md) |[46. Permutations(排列-深度优先遍历)](https://leetcode.com/problems/permutations/)||||
+| [20220504](./202205/20220504.md) |[22. Generate Parentheses(生成括号--深度优先遍历)](https://leetcode.com/problems/generate-parentheses/)||||
 | [20220503](./202205/20220503.md) |[206. Reverse Linked List(反转链表-递归)](https://leetcode.com/problems/reverse-linked-list/)||||
 | [20220502](./202205/20220502.md) |[239. Sliding Window Maximum(滑动窗口的最大值-单调队列)](https://leetcode.com/problems/sliding-window-maximum/)||||
 | [20220501](./202205/20220501.md) |[739. Daily Temperatures(每日温度-单调栈)](https://leetcode.com/problems/daily-temperatures/)||||
