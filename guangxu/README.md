@@ -1,6 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20220512](./202205/20220512.md) |[887. Super Egg Drop(扔鸡蛋问题)](https://leetcode.com/problems/super-egg-drop/)||||
+| [20220513](./202205/20220513.md) |[322. Coin Change(兑换硬币-动态规划)](https://leetcode.com/problems/coin-change/)||||
+| [20220512](./202205/20220512.md) |[887. Super Egg Drop(扔鸡蛋问题-动态规划)](https://leetcode.com/problems/super-egg-drop/)||||
 | [20220511](./202205/20220511.md) |[773. Sliding Puzzle(滑动窗格-广度优先搜索)](https://leetcode.com/problems/sliding-puzzle/)||||
 | [20220510](./202205/20220510.md) |[986. Interval List Intersections(区间交集-贪心)](https://leetcode.com/problems/interval-list-intersections/)||||
 | [20220509](./202205/20220509.md) |[56. Merge Intervals(合并区间-贪心)](https://leetcode.com/problems/merge-intervals/)||||
