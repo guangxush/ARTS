@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220514](./202205/20220514.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)||||
 | [20220513](./202205/20220513.md) |[322. Coin Change(兑换硬币-动态规划)](https://leetcode.com/problems/coin-change/)||||
 | [20220512](./202205/20220512.md) |[887. Super Egg Drop(扔鸡蛋问题-动态规划)](https://leetcode.com/problems/super-egg-drop/)||||
 | [20220511](./202205/20220511.md) |[773. Sliding Puzzle(滑动窗格-广度优先搜索)](https://leetcode.com/problems/sliding-puzzle/)||||
