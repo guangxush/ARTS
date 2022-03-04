@@ -1,6 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20220515](./202205/20220515.md) |[111. Minimum Depth of Binary Tree(求二叉树最小深度-DFS/BFS)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)||||
+| [20220516](./202205/20220516.md) |[111. Minimum Depth of Binary Tree(求二叉树最小深度-DFS/BFS)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)||||
+| [20220515](./202205/20220515.md) |[51. N-Queens(N皇后问题)](https://leetcode.com/problems/n-queens/)||||
 | [20220514](./202205/20220514.md) |[46. Permutations(全排列-回溯算法)](https://leetcode.com/problems/permutations/)||||
 | [20220513](./202205/20220513.md) |[322. Coin Change(兑换硬币-动态规划)](https://leetcode.com/problems/coin-change/)||||
 | [20220512](./202205/20220512.md) |[887. Super Egg Drop(扔鸡蛋问题-动态规划)](https://leetcode.com/problems/super-egg-drop/)||||
