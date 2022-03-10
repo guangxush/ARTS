@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220524](./202205/20220524.md) |[25. Reverse Nodes in k-Group(K个一组的链表反转)](https://leetcode.com/problems/reverse-nodes-in-k-group/)||||
+| [20220523](./202205/20220523.md) |[92. Reverse Linked List II(部分链表反转)](https://leetcode.com/problems/reverse-linked-list-ii/)||||
 | [20220522](./202205/20220522.md) |[206. Reverse Linked List(链表反转-递归和非递归)](https://leetcode.com/problems/reverse-linked-list/)||||
 | [20220521](./202205/20220521.md) |[3. Longest Substring Without Repeating Characters(无重复最大子串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||||
 | [20220520](./202205/20220520.md) |[76. Minimum Window Substring(滑动最小子串)](https://leetcode.com/problems/minimum-window-substring/)||||
