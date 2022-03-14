@@ -1,5 +1,10 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220529](./202205/20220529.md) |[718. Maximum Length of Repeated Subarray(最长重复子数组)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)||||
+| [20220528](./202205/20220528.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)||||
+| [20220527](./202205/20220527.md) |[5. Longest Palindromic Substring(最长回问子串)](https://leetcode.com/problems/longest-palindromic-substring/)||||
+| [20220526](./202205/20220526.md) |[300. Longest Increasing Subsequence(最长递增子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)||||
+| [20220525](./202205/20220525.md) |[53. Maximum Subarray(最大子段和-动态规划)](https://leetcode.com/problems/maximum-subarray/)||||
 | [20220524](./202205/20220524.md) |[25. Reverse Nodes in k-Group(K个一组的链表反转)](https://leetcode.com/problems/reverse-nodes-in-k-group/)||||
 | [20220523](./202205/20220523.md) |[92. Reverse Linked List II(部分链表反转)](https://leetcode.com/problems/reverse-linked-list-ii/)||||
 | [20220522](./202205/20220522.md) |[206. Reverse Linked List(链表反转-递归和非递归)](https://leetcode.com/problems/reverse-linked-list/)||||
