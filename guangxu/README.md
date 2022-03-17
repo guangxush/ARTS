@@ -1,5 +1,8 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220603](./202206/20220603.md) |[224. Basic Calculator(基本计算器)](https://leetcode.com/problems/basic-calculator/)||||
+| [20220602](./202206/20220602.md) |[518. Coin Change 2(换零钱问题2)](https://leetcode.com/problems/coin-change-2/)||||
+| [20220601](./202206/20220601.md) |[416. Partition Equal Subset Sum(分割等和子集-DP)](https://leetcode.com/problems/partition-equal-subset-sum/)||||
 | [20220530](./202205/20220530.md) |[213. House Robber II(打家劫舍2)](https://leetcode.com/problems/house-robber-ii/)||||
 | [20220531](./202205/20220531.md) |[198. House Robber(打家劫舍)](https://leetcode.com/problems/house-robber/)||||
 | [20220529](./202205/20220529.md) |[718. Maximum Length of Repeated Subarray(最长重复子数组)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)||||
