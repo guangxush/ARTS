@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220608](./202206/20220608.md) |[41. First Missing Positive(寻找缺失的第一个正数)](https://leetcode.com/problems/first-missing-positive/)||||
 | [20220607](./202206/20220607.md) |[268. Missing Number(缺失的数字-位运算/数组)](https://leetcode.com/problems/missing-number/)||||
 | [20220606](./202206/20220606.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)||||
 | [20220605](./202206/20220605.md) |[92. Reverse Linked List II(部分链表反转)](https://leetcode.com/problems/reverse-linked-list-ii/)||||
