@@ -1,5 +1,8 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220614](./202206/20220614.md) |[32. Longest Valid Parentheses](最长有效匹配括号)(https://leetcode.com/problems/longest-valid-parentheses/)||||
+| [20220613](./202206/20220613.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)||||
+| [20220612](./202206/20220612.md) |[20. Valid Parentheses(有效括号)](https://leetcode.com/problems/valid-parentheses/)||||
 | [20220611](./202206/20220611.md) |[392. Is Subsequence(是否是子串)](https://leetcode.com/problems/is-subsequence/)||||
 | [20220610](./202206/20220610.md) |[316. Remove Duplicate Letters(移除重复元素-单调栈)](https://leetcode.com/problems/remove-duplicate-letters/)||||
 | [20220609](./202206/20220609.md) |[312. Burst Balloons(戳气球-动态规划)](https://leetcode.com/problems/burst-balloons/)||||
