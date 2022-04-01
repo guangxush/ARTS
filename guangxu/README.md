@@ -1,6 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20220615](./202206/20220615.md) |[36. Valid Sudoku(有效数独)](https://leetcode.com/problems/valid-sudoku/)||||
+| [20220616](./202206/20220616.md) |[42. Trapping Rain Water(接雨水-双指针)](https://leetcode.com/problems/trapping-rain-water/)||||
+| [20220615](./202206/20220615.md) |[36. Valid Sudoku(有效数独-回溯)](https://leetcode.com/problems/valid-sudoku/)||||
 | [20220614](./202206/20220614.md) |[32. Longest Valid Parentheses](最长有效匹配括号-栈)(https://leetcode.com/problems/longest-valid-parentheses/)||||
 | [20220613](./202206/20220613.md) |[22. Generate Parentheses(生成括号-回溯)](https://leetcode.com/problems/generate-parentheses/)||||
 | [20220612](./202206/20220612.md) |[20. Valid Parentheses(有效括号-栈)](https://leetcode.com/problems/valid-parentheses/)||||
