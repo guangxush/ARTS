@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220618](./202206/20220618.md) |[204. Count Primes(数素数)](https://leetcode.com/problems/count-primes/)||||
 | [20220617](./202206/20220617.md) |[73. Set Matrix Zeroes(设置矩阵0)](https://leetcode.com/problems/set-matrix-zeroes/)||||
 | [20220616](./202206/20220616.md) |[42. Trapping Rain Water(接雨水-双指针)](https://leetcode.com/problems/trapping-rain-water/)||||
 | [20220615](./202206/20220615.md) |[36. Valid Sudoku(有效数独-回溯)](https://leetcode.com/problems/valid-sudoku/)||||
