@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220621](./202206/20220622.md) |[45. Jump Game II(跳跃游戏2-贪心算法)](https://leetcode.com/problems/jump-game-ii/)||||
+| [20220621](./202206/20220621.md) |[55. Jump Game(跳跃游戏-贪心算法)](https://leetcode.com/problems/jump-game/)||||
 | [20220620](./202206/20220620.md) |[50. Pow(x, n)(指数运算)](https://leetcode.com/problems/powx-n/)||||
 | [20220619](./202206/20220619.md) |[372. Super Pow(超级幂运算)](https://leetcode.com/problems/super-pow/)||||
 | [20220618](./202206/20220618.md) |[204. Count Primes(数素数)](https://leetcode.com/problems/count-primes/)||||
