@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220624](./202206/20220624.md) |[236. Lowest Common Ancestor of a Binary Tree(公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)||||
 | [20220623](./202206/20220623.md) |[1123. Lowest Common Ancestor of Deepest Leaves(最深公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)||||
 | [20220622](./202206/20220622.md) |[45. Jump Game II(跳跃游戏2-贪心算法)](https://leetcode.com/problems/jump-game-ii/)||||
 | [20220621](./202206/20220621.md) |[55. Jump Game(跳跃游戏-贪心算法)](https://leetcode.com/problems/jump-game/)||||
