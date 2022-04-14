@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220626](./202206/20220626.md) |[819. Most Common Word(最多公共单词)](https://leetcode.com/problems/most-common-word/)||||
 | [20220625](./202206/20220625.md) |[235. Lowest Common Ancestor of a Binary Search Tree(二叉搜索树公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||||
 | [20220624](./202206/20220624.md) |[236. Lowest Common Ancestor of a Binary Tree(公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)||||
 | [20220623](./202206/20220623.md) |[1123. Lowest Common Ancestor of Deepest Leaves(最深公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)||||
