@@ -1,5 +1,8 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220630](./202206/20220630.md) |[409. Longest Palindrome(可构造的最长回文串)](https://leetcode.com/problems/longest-palindrome/)||||
+| [20220629](./202206/20220629.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)||||
+| [20220628](./202206/20220628.md) |[14. Longest Common Prefix(最长公共前缀)](https://leetcode.com/problems/longest-common-prefix/)||||
 | [20220627](./202206/20220627.md) |[1002. Find Common Characters(发现公共单词)](https://leetcode.com/problems/find-common-characters/)||||
 | [20220626](./202206/20220626.md) |[819. Most Common Word(最多公共单词)](https://leetcode.com/problems/most-common-word/)||||
 | [20220625](./202206/20220625.md) |[235. Lowest Common Ancestor of a Binary Search Tree(二叉搜索树公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||||
