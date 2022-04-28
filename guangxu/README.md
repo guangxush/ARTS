@@ -1,10 +1,11 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20220705](./202206/20220705.md) |[128. Longest Consecutive Sequence(最长连续子序列-双指针)](https://leetcode.com/problems/longest-consecutive-sequence/)||||
-| [20220704](./202206/20220704.md) |[674. Longest Continuous Increasing Subsequence(最长连续递增子序列-动态规划)](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)||||
-| [20220703](./202206/20220703.md) |[300. Longest Increasing Subsequence(最长递增子序列-动态规划)](https://leetcode.com/problems/longest-increasing-subsequence/)||||
-| [20220702](./202206/20220702.md) |[1143. Longest Common Subsequence(最长公共子序列-动态规划)](https://leetcode.com/problems/longest-common-subsequence/)||||
-| [20220701](./202206/20220701.md) |[5. Longest Palindromic Substring(最长回文子串-动态规划)](https://leetcode.com/problems/longest-palindromic-substring/)||||
+| [20220706](./202207/20220706.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)||||
+| [20220705](./202207/20220705.md) |[128. Longest Consecutive Sequence(最长连续子序列-双指针)](https://leetcode.com/problems/longest-consecutive-sequence/)||||
+| [20220704](./202207/20220704.md) |[674. Longest Continuous Increasing Subsequence(最长连续递增子序列-动态规划)](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)||||
+| [20220703](./202207/20220703.md) |[300. Longest Increasing Subsequence(最长递增子序列-动态规划)](https://leetcode.com/problems/longest-increasing-subsequence/)||||
+| [20220702](./202207/20220702.md) |[1143. Longest Common Subsequence(最长公共子序列-动态规划)](https://leetcode.com/problems/longest-common-subsequence/)||||
+| [20220701](./202207/20220701.md) |[5. Longest Palindromic Substring(最长回文子串-动态规划)](https://leetcode.com/problems/longest-palindromic-substring/)||||
 | [20220630](./202206/20220630.md) |[409. Longest Palindrome(可构造的最长回文串)](https://leetcode.com/problems/longest-palindrome/)||||
 | [20220629](./202206/20220629.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)||||
 | [20220628](./202206/20220628.md) |[14. Longest Common Prefix(最长公共前缀)](https://leetcode.com/problems/longest-common-prefix/)||||
