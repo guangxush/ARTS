@@ -45,6 +45,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220627](./guangxu/202206/20220627.md) |[1002. Find Common Characters(发现公共单词)](https://leetcode.com/problems/find-common-characters/)|
+| [20220626](./guangxu/202206/20220626.md) |[819. Most Common Word(最多公共单词)](https://leetcode.com/problems/most-common-word/)|
 | [20220521](./guangxu/202205/20220521.md) |[3. Longest Substring Without Repeating Characters(无重复最大子串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
 | [20220520](./guangxu/202205/20220520.md) |[76. Minimum Window Substring(滑动最小子串)](https://leetcode.com/problems/minimum-window-substring/)|
 | [20220427](./guangxu/202204/20220427.md) |[27. Remove Element(移除重复元素)](https://leetcode.com/problems/remove-element/)|
@@ -135,6 +137,12 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220630](./guangxu/202206/20220630.md) |[409. Longest Palindrome(可构造的最长回文串)](https://leetcode.com/problems/longest-palindrome/)|
+| [20220609](./guangxu/202206/20220609.md) |[312. Burst Balloons(戳气球-动态规划)](https://leetcode.com/problems/burst-balloons/)|
+| [20220602](./guangxu/202206/20220602.md) |[518. Coin Change 2(换零钱问题2-DP)](https://leetcode.com/problems/coin-change-2/)|
+| [20220601](./guangxu/202206/20220601.md) |[416. Partition Equal Subset Sum(分割等和子集-DP)](https://leetcode.com/problems/partition-equal-subset-sum/)|
+| [20220629](./guangxu/202206/20220629.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)|
+| [20220628](./guangxu/202206/20220628.md) |[14. Longest Common Prefix(最长公共前缀)](https://leetcode.com/problems/longest-common-prefix/)|
 | [20220530](./guangxu/202205/20220530.md) |[213. House Robber II(打家劫舍2)](https://leetcode.com/problems/house-robber-ii/)|
 | [20220531](./guangxu/202205/20220531.md) |[198. House Robber(打家劫舍)](https://leetcode.com/problems/house-robber/)|
 | [20220529](./guangxu/202205/20220529.md) |[718. Maximum Length of Repeated Subarray(最长重复子数组)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
@@ -222,6 +230,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220622](./guangxu/202206/20220622.md) |[45. Jump Game II(跳跃游戏2-贪心算法)](https://leetcode.com/problems/jump-game-ii/)|
+| [20220621](./guangxu/202206/20220621.md) |[55. Jump Game(跳跃游戏-贪心算法)](https://leetcode.com/problems/jump-game/)|
 | [20220510](./guangxu/202205/20220510.md) |[986. Interval List Intersections(区间交集-贪心)](https://leetcode.com/problems/interval-list-intersections/)|
 | [20220509](./guangxu/202205/20220509.md) |[56. Merge Intervals(合并区间-贪心)](https://leetcode.com/problems/merge-intervals/)|
 | [20220429](./guangxu/202204/20220429.md) |[877. Stone Game(石头游戏)](https://leetcode.com/problems/stone-game/)|
@@ -291,6 +301,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220615](./guangxu/202206/20220615.md) |[36. Valid Sudoku(有效数独-回溯)](https://leetcode.com/problems/valid-sudoku/)|
+| [20220613](./guangxu/202206/20220613.md) |[22. Generate Parentheses(生成括号-回溯)](https://leetcode.com/problems/generate-parentheses/)|
 | [20220428](./guangxu/202204/20220428.md) |[47. Permutations II(组合2)](https://leetcode.com/problems/permutations-ii/)|
 | [20220515](./guangxu/202205/20220515.md) |[51. N-Queens(N皇后问题)](https://leetcode.com/problems/n-queens/)|
 | [20220514](./guangxu/202205/20220514.md) |[46. Permutations(全排列-回溯算法)](https://leetcode.com/problems/permutations/)|
@@ -346,6 +358,9 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220625](./guangxu/202206/20220625.md) |[235. Lowest Common Ancestor of a Binary Search Tree(二叉搜索树公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|
+| [20220624](./guangxu/202206/20220624.md) |[236. Lowest Common Ancestor of a Binary Tree(公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
+| [20220623](./guangxu/202206/20220623.md) |[1123. Lowest Common Ancestor of Deepest Leaves(最深公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|
 | [20220430](./guangxu/202204/20220430.md) |[98. Validate Binary Search Tree(有效的二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)|
 | [20220217](./guangxu/202202/20220217.md) |[129. Sum Root to Leaf Numbers(根到叶子节点之和)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|
 | [20220216](./guangxu/202202/20220216.md) |[116. Populating Next Right Pointers in Each Node(每个节点增加右指针)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|
@@ -484,6 +499,10 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220614](./guangxu/202206/20220614.md) |[32. Longest Valid Parentheses](最长有效匹配括号-栈)(https://leetcode.com/problems/longest-valid-parentheses/)|
+| [20220612](./guangxu/202206/20220612.md) |[20. Valid Parentheses(有效括号-栈)](https://leetcode.com/problems/valid-parentheses/)|
+| [20220610](./guangxu/202206/20220610.md) |[316. Remove Duplicate Letters(移除重复元素-单调栈)](https://leetcode.com/problems/remove-duplicate-letters/)|
+| [20220603](./guangxu/202206/20220603.md) |[224. Basic Calculator(基本计算器-栈)](https://leetcode.com/problems/basic-calculator/)|
 | [20220502](./guangxu/202205/20220502.md) |[239. Sliding Window Maximum(滑动窗口的最大值-单调队列)](https://leetcode.com/problems/sliding-window-maximum/)|
 | [20220501](./guangxu/202205/20220501.md) |[739. Daily Temperatures(每日温度-单调栈)](https://leetcode.com/problems/daily-temperatures/)|
 | [20220121](./guangxu/202201/20220121.md) |[150. Evaluate Reverse Polish Notation(计算逆波兰表达式)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
@@ -511,6 +530,9 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220606](./guangxu/202206/20220606.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)|
+| [20220605](./guangxu/202206/20220605.md) |[92. Reverse Linked List II(部分链表反转)](https://leetcode.com/problems/reverse-linked-list-ii/)|
+| [20220604](./guangxu/202206/20220604.md) |[206. Reverse Linked List(链表反转)](https://leetcode.com/problems/reverse-linked-list/)|
 | [20220524](./guangxu/202205/20220524.md) |[25. Reverse Nodes in k-Group(K个一组的链表反转)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|
 | [20220523](./guangxu/202205/20220523.md) |[92. Reverse Linked List II(部分链表反转)](https://leetcode.com/problems/reverse-linked-list-ii/)|
 | [20220522](./guangxu/202205/20220522.md) |[206. Reverse Linked List(链表反转-递归和非递归)](https://leetcode.com/problems/reverse-linked-list/)|
@@ -594,6 +616,9 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220617](./guangxu/202206/20220617.md) |[73. Set Matrix Zeroes(设置矩阵0)](https://leetcode.com/problems/set-matrix-zeroes/)|
+| [20220616](./guangxu/202206/20220616.md) |[42. Trapping Rain Water(接雨水-双指针)](https://leetcode.com/problems/trapping-rain-water/)|
+| [20220611](./guangxu/202206/20220611.md) |[392. Is Subsequence(是否是子串)](https://leetcode.com/problems/is-subsequence/)|
 | [20220508](./guangxu/202205/20220508.md) |[560. Subarray Sum Equals K(和等于K的子数组)](https://leetcode.com/problems/subarray-sum-equals-k/)|
 | [20211219](./guangxu/202112/20211219.md) |[2. Add Two Numbers(两个数字相加)](https://leetcode.com/problems/add-two-numbers/)|
 | [20211218](./guangxu/202112/20211218.md) |[136. Single Number(出现一次的数字-位运算)](https://leetcode.com/problems/single-number/)|
@@ -724,6 +749,11 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220620](./guangxu/202206/20220620.md) |[50. Pow(x, n)(指数运算)](https://leetcode.com/problems/powx-n/)|
+| [20220619](./guangxu/202206/20220619.md) |[372. Super Pow(超级幂运算)](https://leetcode.com/problems/super-pow/)|
+| [20220618](./guangxu/202206/20220618.md) |[204. Count Primes(数素数)](https://leetcode.com/problems/count-primes/)|
+| [20220608](./guangxu/202206/20220608.md) |[41. First Missing Positive(寻找缺失的第一个正数-数学)](https://leetcode.com/problems/first-missing-positive/)|
+| [20220607](./guangxu/202206/20220607.md) |[268. Missing Number(缺失的数字-位运算/数组)](https://leetcode.com/problems/missing-number/)|
 | [20220425](./guangxu/202204/20220425.md) |[149. Max Points on a Line(线上最多的点)](https://leetcode.com/problems/max-points-on-a-line/)|
 | [20220424](./guangxu/202204/20220424.md) |[68. Text Justification(公平文本)](https://leetcode.com/problems/text-justification/)|
 | [20220423](./guangxu/202204/20220423.md) |[29. Divide Two Integers(整数相除)](https://leetcode.com/problems/divide-two-integers/)|
