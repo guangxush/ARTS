@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220709](./202207/20220709.md) |[80. Remove Duplicates from Sorted Array II(移除数组中的重复元素2)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)||||
+| [20220708](./202207/20220708.md) |[26. Remove Duplicates from Sorted Array(移除数组中的重复元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||||
 | [20220707](./202207/20220707.md) |[53. Maximum Subarray(最大子段和)](https://leetcode.com/problems/maximum-subarray/)||||
 | [20220706](./202207/20220706.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)||||
 | [20220705](./202207/20220705.md) |[128. Longest Consecutive Sequence(最长连续子序列-双指针)](https://leetcode.com/problems/longest-consecutive-sequence/)||||
