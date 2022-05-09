@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220713](./202207/20220713.md) |[128. Longest Consecutive Sequence(最长连续序列)](https://leetcode.com/problems/longest-consecutive-sequence/)||||
+| [20220712](./202207/20220712.md) |[4. Median of Two Sorted Arrays(两个排序数组中间数字)](https://leetcode.com/problems/median-of-two-sorted-arrays/)||||
 | [20220711](./202207/20220711.md) |[81. Search in Rotated Sorted Array II(旋转数组中的搜索2)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)||||
 | [20220710](./202207/20220710.md) |[33. Search in Rotated Sorted Array(旋转数组中的搜索)](https://leetcode.com/problems/search-in-rotated-sorted-array/)||||
 | [20220709](./202207/20220709.md) |[80. Remove Duplicates from Sorted Array II(移除数组中的重复元素2)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)||||
