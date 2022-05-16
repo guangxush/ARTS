@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220718](./202207/20220718.md) |[27. Remove Element(移除重复的元素)](https://leetcode.com/problems/remove-element/)||||
 | [20220717](./202207/20220717.md) |[18. 4Sum(四数之和)](https://leetcode.com/problems/4sum/)||||
 | [20220716](./202207/20220716.md) |[16. 3Sum Closest(最接近的三数之和)](https://leetcode.com/problems/3sum-closest/)||||
 | [20220715](./202207/20220715.md) |[15. 3Sum(三数之和)](https://leetcode.com/problems/3sum/)||||
