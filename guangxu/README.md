@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220720](./202207/20220720.md) |[60. Permutation Sequence(排列序列)](https://leetcode.com/problems/permutation-sequence/)||||
+| [20220719](./202207/20220719.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)||||
 | [20220718](./202207/20220718.md) |[27. Remove Element(移除元素)](https://leetcode.com/problems/remove-element/)||||
 | [20220717](./202207/20220717.md) |[18. 4Sum(四数之和)](https://leetcode.com/problems/4sum/)||||
 | [20220716](./202207/20220716.md) |[16. 3Sum Closest(最接近的三数之和)](https://leetcode.com/problems/3sum-closest/)||||
