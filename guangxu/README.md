@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220722](./202207/20220722.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)||||
 | [20220721](./202207/20220721.md) |[36. Valid Sudoku(有效数独)](https://leetcode.com/problems/valid-sudoku/)||||
 | [20220720](./202207/20220720.md) |[60. Permutation Sequence(排列序列)](https://leetcode.com/problems/permutation-sequence/)||||
 | [20220719](./202207/20220719.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)||||
