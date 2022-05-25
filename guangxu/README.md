@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220725](./202207/20220725.md) |[89. Gray Code(灰度Code)](https://leetcode.com/problems/gray-code/)||||
 | [20220724](./202207/20220724.md) |[70. Climbing Stairs(爬梯子)](https://leetcode.com/problems/climbing-stairs/)||||
 | [20220723](./202207/20220723.md) |[48. Rotate Image(图像旋转)](https://leetcode.com/problems/rotate-image/)||||
 | [20220722](./202207/20220722.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)||||
