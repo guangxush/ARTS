@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220730](./202207/20220730.md) |[136. Single Number(只出现一次的数字)](https://leetcode.com/problems/single-number/)||||
+| [20220729](./202207/20220729.md) |[575. Distribute Candies(分糖果)](https://leetcode.com/problems/distribute-candies/)||||
 | [20220728](./202207/20220728.md) |[135. Candy(分糖果)](https://leetcode.com/problems/candy)||||
 | [20220727](./202207/20220727.md) |[134. Gas Station(加油站)](https://leetcode.com/problems/gas-station/)||||
 | [20220726](./202207/20220726.md) |[73. Set Matrix Zeroes(设置矩阵0)](https://leetcode.com/problems/set-matrix-zeroes/)||||
