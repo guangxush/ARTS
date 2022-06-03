@@ -137,6 +137,12 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220707](./guangxu/202207/20220707.md) |[53. Maximum Subarray(最大子段和)](https://leetcode.com/problems/maximum-subarray/)|
+| [20220706](./guangxu/202207/20220706.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)|
+| [20220704](./guangxu/202207/20220704.md) |[674. Longest Continuous Increasing Subsequence(最长连续递增子序列-动态规划)](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|
+| [20220703](./guangxu/202207/20220703.md) |[300. Longest Increasing Subsequence(最长递增子序列-动态规划)](https://leetcode.com/problems/longest-increasing-subsequence/)|
+| [20220702](./guangxu/202207/20220702.md) |[1143. Longest Common Subsequence(最长公共子序列-动态规划)](https://leetcode.com/problems/longest-common-subsequence/)|
+| [20220701](./guangxu/202207/20220701.md) |[5. Longest Palindromic Substring(最长回文子串-动态规划)](https://leetcode.com/problems/longest-palindromic-substring/)|
 | [20220630](./guangxu/202206/20220630.md) |[409. Longest Palindrome(可构造的最长回文串)](https://leetcode.com/problems/longest-palindrome/)|
 | [20220609](./guangxu/202206/20220609.md) |[312. Burst Balloons(戳气球-动态规划)](https://leetcode.com/problems/burst-balloons/)|
 | [20220602](./guangxu/202206/20220602.md) |[518. Coin Change 2(换零钱问题2-DP)](https://leetcode.com/problems/coin-change-2/)|
@@ -616,6 +622,31 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220731](./guangxu/202207/20220731.md) |[137. Single Number II(只出现一次的数字2)](https://leetcode.com/problems/single-number-ii/)|
+| [20220730](./guangxu/202207/20220730.md) |[136. Single Number(只出现一次的数字)](https://leetcode.com/problems/single-number/)|
+| [20220729](./guangxu/202207/20220729.md) |[575. Distribute Candies(分糖果)](https://leetcode.com/problems/distribute-candies/)|
+| [20220728](./guangxu/202207/20220728.md) |[135. Candy(分糖果)](https://leetcode.com/problems/candy)|
+| [20220727](./guangxu/202207/20220727.md) |[134. Gas Station(加油站)](https://leetcode.com/problems/gas-station/)|
+| [20220726](./guangxu/202207/20220726.md) |[73. Set Matrix Zeroes(设置矩阵0)](https://leetcode.com/problems/set-matrix-zeroes/)|
+| [20220725](./guangxu/202207/20220725.md) |[89. Gray Code(灰度Code)](https://leetcode.com/problems/gray-code/)|
+| [20220724](./guangxu/202207/20220724.md) |[70. Climbing Stairs(爬梯子)](https://leetcode.com/problems/climbing-stairs/)|
+| [20220723](./guangxu/202207/20220723.md) |[48. Rotate Image(图像旋转)](https://leetcode.com/problems/rotate-image/)|
+| [20220722](./guangxu/202207/20220722.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)|
+| [20220721](./guangxu/202207/20220721.md) |[36. Valid Sudoku(有效数独)](https://leetcode.com/problems/valid-sudoku/)|
+| [20220720](./guangxu/202207/20220720.md) |[60. Permutation Sequence(排列序列)](https://leetcode.com/problems/permutation-sequence/)|
+| [20220719](./guangxu/202207/20220719.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)|
+| [20220718](./guangxu/202207/20220718.md) |[27. Remove Element(移除元素)](https://leetcode.com/problems/remove-element/)|
+| [20220717](./guangxu/202207/20220717.md) |[18. 4Sum(四数之和)](https://leetcode.com/problems/4sum/)|
+| [20220716](./guangxu/202207/20220716.md) |[16. 3Sum Closest(最接近的三数之和)](https://leetcode.com/problems/3sum-closest/)|
+| [20220715](./guangxu/202207/20220715.md) |[15. 3Sum(三数之和)](https://leetcode.com/problems/3sum/)|
+| [20220714](./guangxu/202207/20220714.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)|
+| [20220713](./guangxu/202207/20220713.md) |[128. Longest Consecutive Sequence(最长连续序列)](https://leetcode.com/problems/longest-consecutive-sequence/)|
+| [20220712](./guangxu/202207/20220712.md) |[4. Median of Two Sorted Arrays(两个排序数组中间数字)](https://leetcode.com/problems/median-of-two-sorted-arrays/)|
+| [20220711](./guangxu/202207/20220711.md) |[81. Search in Rotated Sorted Array II(旋转数组中的搜索2)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|
+| [20220710](./guangxu/202207/20220710.md) |[33. Search in Rotated Sorted Array(旋转数组中的搜索)](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
+| [20220709](./guangxu/202207/20220709.md) |[80. Remove Duplicates from Sorted Array II(移除数组中的重复元素2)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|
+| [20220708](./guangxu/202207/20220708.md) |[26. Remove Duplicates from Sorted Array(移除数组中的重复元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
+| [20220705](./guangxu/202207/20220705.md) |[128. Longest Consecutive Sequence(最长连续子序列-双指针)](https://leetcode.com/problems/longest-consecutive-sequence/)|
 | [20220617](./guangxu/202206/20220617.md) |[73. Set Matrix Zeroes(设置矩阵0)](https://leetcode.com/problems/set-matrix-zeroes/)|
 | [20220616](./guangxu/202206/20220616.md) |[42. Trapping Rain Water(接雨水-双指针)](https://leetcode.com/problems/trapping-rain-water/)|
 | [20220611](./guangxu/202206/20220611.md) |[392. Is Subsequence(是否是子串)](https://leetcode.com/problems/is-subsequence/)|
