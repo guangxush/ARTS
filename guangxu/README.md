@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220804](./202208/20220804.md) |[86. Partition List(分割链表)](https://leetcode.com/problems/partition-list/)||||
 | [20220803](./202208/20220803.md) |[206. Reverse Linked List(反转链表)](https://leetcode.com/problems/reverse-linked-list/)||||
 | [20220802](./202208/20220802.md) |[206. Reverse Linked List(反转链表)](https://leetcode.com/problems/reverse-linked-list/)||||
 | [20220801](./202208/20220801.md) |[2. Add Two Numbers(两个数字想加)](https://leetcode.com/problems/add-two-numbers/)||||
