@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220806](./202208/20220806.md) |[82. Remove Duplicates from Sorted List II(移除链表中的重复元素2)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)||||
+| [20220805](./202208/20220805.md) |[83. Remove Duplicates from Sorted List(移除链表中的重复元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)||||
 | [20220804](./202208/20220804.md) |[86. Partition List(分割链表)](https://leetcode.com/problems/partition-list/)||||
 | [20220803](./202208/20220803.md) |[206. Reverse Linked List(反转链表)](https://leetcode.com/problems/reverse-linked-list/)||||
 | [20220802](./202208/20220802.md) |[206. Reverse Linked List(反转链表)](https://leetcode.com/problems/reverse-linked-list/)||||
