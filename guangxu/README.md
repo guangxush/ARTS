@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220807](./202208/20220807.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)||||
 | [20220806](./202208/20220806.md) |[82. Remove Duplicates from Sorted List II(移除链表中的重复元素2)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)||||
 | [20220805](./202208/20220805.md) |[83. Remove Duplicates from Sorted List(移除链表中的重复元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)||||
 | [20220804](./202208/20220804.md) |[86. Partition List(分割链表)](https://leetcode.com/problems/partition-list/)||||
