@@ -1,5 +1,8 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220814](./202208/20220814.md) |[143. Reorder List(链表重排序)](https://leetcode.com/problems/reorder-list/)||||
+| [20220813](./202208/20220813.md) |[142. Linked List Cycle II(环形链表2)](https://leetcode.com/problems/linked-list-cycle-ii)||||
+| [20220812](./202208/20220812.md) |[141. Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/)||||
 | [20220811](./202208/20220811.md) |[138. Copy List with Random Pointer(随机指针)](https://leetcode.com/problems/copy-list-with-random-pointer/)||||
 | [20220810](./202208/20220810.md) |[25. Reverse Nodes in k-Group(K组链表反转)](https://leetcode.com/problems/reverse-nodes-in-k-group/)||||
 | [20220809](./202208/20220809.md) |[24. Swap Nodes in Pairs(成对交换节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)||||
