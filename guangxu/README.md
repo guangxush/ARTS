@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220818](./202208/20220818.md) |[8. String to Integer (atoi)(字符串转整数)](https://leetcode.com/problems/string-to-integer-atoi/)||||
+| [20220817](./202208/20220817.md) |[28. Implement strStr()(实现Str)](https://leetcode.com/problems/implement-strstr/)||||
 | [20220816](./202208/20220816.md) |[125. Valid Palindrome(有效回文串)](https://leetcode.com/problems/valid-palindrome/)||||
 | [20220815](./202208/20220815.md) |[146. LRU Cache(LRU缓存)](https://leetcode.com/problems/lru-cache/)||||
 | [20220814](./202208/20220814.md) |[143. Reorder List(链表重排序)](https://leetcode.com/problems/reorder-list/)||||
