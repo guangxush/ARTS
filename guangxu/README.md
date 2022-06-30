@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220824](./202208/20220824.md) |[65. Valid Number(有效数字)](https://leetcode.com/problems/valid-number/)||||
+| [20220823](./202208/20220823.md) |[14. Longest Common Prefix(最长公共前缀)](https://leetcode.com/problems/longest-common-prefix/)||||
 | [20220822](./202208/20220822.md) |[44. Wildcard Matching(广义单词匹配)](https://leetcode.com/problems/wildcard-matching/)||||
 | [20220821](./202208/20220821.md) |[10. Regular Expression Matching(正则匹配)](https://leetcode.com/problems/regular-expression-matching/)||||
 | [20220820](./202208/20220820.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/)||||
