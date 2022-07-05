@@ -1,6 +1,8 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20220826](./202208/20220826.md) |[38. Count and Say(数和说)](https://leetcode.com/problems/count-and-say/)||||
+| [20220828](./202208/20220828.md) |[49. Group Anagrams(回文构词法)](https://leetcode.com/problems/group-anagrams/)||||
+| [20220827](./202208/20220827.md) |[38. Count and Say(数和说)](https://leetcode.com/problems/count-and-say/)||||
+| [20220826](./202208/20220826.md) |[13. Roman to Integer(罗马转整数)](https://leetcode.com/problems/roman-to-integer/)||||
 | [20220825](./202208/20220825.md) |[12. Integer to Roman(整数转罗马)](https://leetcode.com/problems/integer-to-roman/)||||
 | [20220824](./202208/20220824.md) |[65. Valid Number(有效数字)](https://leetcode.com/problems/valid-number/)||||
 | [20220823](./202208/20220823.md) |[14. Longest Common Prefix(最长公共前缀)](https://leetcode.com/problems/longest-common-prefix/)||||
