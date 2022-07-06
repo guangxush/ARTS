@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220829](./202208/20220829.md) |[71. Simplify Path(简化路径)](https://leetcode.com/problems/simplify-path/)||||
 | [20220828](./202208/20220828.md) |[49. Group Anagrams(回文构词法)](https://leetcode.com/problems/group-anagrams/)||||
 | [20220827](./202208/20220827.md) |[38. Count and Say(数和说)](https://leetcode.com/problems/count-and-say/)||||
 | [20220826](./202208/20220826.md) |[13. Roman to Integer(罗马转整数)](https://leetcode.com/problems/roman-to-integer/)||||
