@@ -45,6 +45,21 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220830](./guangxu/202208/20220830.md) |[58. Length of Last Word(最后一个单词的长度)](https://leetcode.com/problems/length-of-last-word/)|
+| [20220829](./guangxu/202208/20220829.md) |[71. Simplify Path(简化路径)](https://leetcode.com/problems/simplify-path/)|
+| [20220828](./guangxu/202208/20220828.md) |[49. Group Anagrams(回文构词法)](https://leetcode.com/problems/group-anagrams/)|
+| [20220827](./guangxu/202208/20220827.md) |[38. Count and Say(数和说)](https://leetcode.com/problems/count-and-say/)|
+| [20220826](./guangxu/202208/20220826.md) |[13. Roman to Integer(罗马转整数)](https://leetcode.com/problems/roman-to-integer/)|
+| [20220825](./guangxu/202208/20220825.md) |[12. Integer to Roman(整数转罗马)](https://leetcode.com/problems/integer-to-roman/)|
+| [20220824](./guangxu/202208/20220824.md) |[65. Valid Number(有效数字)](https://leetcode.com/problems/valid-number/)|
+| [20220823](./guangxu/202208/20220823.md) |[14. Longest Common Prefix(最长公共前缀)](https://leetcode.com/problems/longest-common-prefix/)|
+| [20220822](./guangxu/202208/20220822.md) |[44. Wildcard Matching(广义单词匹配)](https://leetcode.com/problems/wildcard-matching/)|
+| [20220821](./guangxu/202208/20220821.md) |[10. Regular Expression Matching(正则匹配)](https://leetcode.com/problems/regular-expression-matching/)|
+| [20220820](./guangxu/202208/20220820.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/)|
+| [20220819](./guangxu/202208/20220819.md) |[67. Add Binary(二进制数字相加)](https://leetcode.com/problems/add-binary/)|
+| [20220818](./guangxu/202208/20220818.md) |[8. String to Integer (atoi)(字符串转整数)](https://leetcode.com/problems/string-to-integer-atoi/)|
+| [20220817](./guangxu/202208/20220817.md) |[28. Implement strStr()(实现Str)](https://leetcode.com/problems/implement-strstr/)|
+| [20220816](./guangxu/202208/20220816.md) |[125. Valid Palindrome(有效回文串)](https://leetcode.com/problems/valid-palindrome/)|
 | [20220627](./guangxu/202206/20220627.md) |[1002. Find Common Characters(发现公共单词)](https://leetcode.com/problems/find-common-characters/)|
 | [20220626](./guangxu/202206/20220626.md) |[819. Most Common Word(最多公共单词)](https://leetcode.com/problems/most-common-word/)|
 | [20220521](./guangxu/202205/20220521.md) |[3. Longest Substring Without Repeating Characters(无重复最大子串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
@@ -505,6 +520,7 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220831](./guangxu/202208/20220831.md) |[20. Valid Parentheses(有效括号)](https://leetcode.com/problems/valid-parentheses/)|
 | [20220614](./guangxu/202206/20220614.md) |[32. Longest Valid Parentheses](最长有效匹配括号-栈)(https://leetcode.com/problems/longest-valid-parentheses/)|
 | [20220612](./guangxu/202206/20220612.md) |[20. Valid Parentheses(有效括号-栈)](https://leetcode.com/problems/valid-parentheses/)|
 | [20220610](./guangxu/202206/20220610.md) |[316. Remove Duplicate Letters(移除重复元素-单调栈)](https://leetcode.com/problems/remove-duplicate-letters/)|
@@ -536,6 +552,21 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20220815](./guangxu/202208/20220815.md) |[146. LRU Cache(LRU缓存)](https://leetcode.com/problems/lru-cache/)|
+| [20220814](./guangxu/202208/20220814.md) |[143. Reorder List(链表重排序)](https://leetcode.com/problems/reorder-list/)|
+| [20220813](./guangxu/202208/20220813.md) |[142. Linked List Cycle II(环形链表2)](https://leetcode.com/problems/linked-list-cycle-ii)|
+| [20220812](./guangxu/202208/20220812.md) |[141. Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/)|
+| [20220811](./guangxu/202208/20220811.md) |[138. Copy List with Random Pointer(随机指针)](https://leetcode.com/problems/copy-list-with-random-pointer/)|
+| [20220810](./guangxu/202208/20220810.md) |[25. Reverse Nodes in k-Group(K组链表反转)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|
+| [20220809](./guangxu/202208/20220809.md) |[24. Swap Nodes in Pairs(成对交换节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
+| [20220808](./guangxu/202208/20220808.md) |[19. Remove Nth Node From End of List(移除链表倒数第N个元素)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|
+| [20220807](./guangxu/202208/20220807.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)|
+| [20220806](./guangxu/202208/20220806.md) |[82. Remove Duplicates from Sorted List II(移除链表中的重复元素2)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|
+| [20220805](./guangxu/202208/20220805.md) |[83. Remove Duplicates from Sorted List(移除链表中的重复元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|
+| [20220804](./guangxu/202208/20220804.md) |[86. Partition List(分割链表)](https://leetcode.com/problems/partition-list/)|
+| [20220803](./guangxu/202208/20220803.md) |[92. Reverse Linked List II(反转链表2)](https://leetcode.com/problems/reverse-linked-list-ii/)|
+| [20220802](./guangxu/202208/20220802.md) |[206. Reverse Linked List(反转链表)](https://leetcode.com/problems/reverse-linked-list/)|
+| [20220801](./guangxu/202208/20220801.md) |[2. Add Two Numbers(两个数字相加)](https://leetcode.com/problems/add-two-numbers/)|
 | [20220606](./guangxu/202206/20220606.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/)|
 | [20220605](./guangxu/202206/20220605.md) |[92. Reverse Linked List II(部分链表反转)](https://leetcode.com/problems/reverse-linked-list-ii/)|
 | [20220604](./guangxu/202206/20220604.md) |[206. Reverse Linked List(链表反转)](https://leetcode.com/problems/reverse-linked-list/)|
