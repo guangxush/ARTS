@@ -1,5 +1,10 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220908](./202209/20220908.md) |[145. Binary Tree Postorder Traversal(后序遍历)](https://leetcode.com/problems/binary-tree-postorder-traversal/)||||
+| [20220907](./202209/20220907.md) |[94. Binary Tree Inorder Traversal(中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)||||
+| [20220906](./202209/20220906.md) |[144. Binary Tree Preorder Traversal(前序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)||||
+| [20220905](./202209/20220905.md) |[225. Implement Stack using Queues(使用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/)||||
+| [20220904](./202209/20220904.md) |[232. Implement Queue using Stacks(使用栈实现队列)](https://leetcode.com/problems/implement-queue-using-stacks/)||||
 | [20220903](./202209/20220903.md) |[150. Evaluate Reverse Polish Notation(实现逆波兰表达式)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)||||
 | [20220902](./202209/20220902.md) |[84. Largest Rectangle in Histogram(直方图最大矩形)](https://leetcode.com/problems/largest-rectangle-in-histogram/)||||
 | [20220901](./202209/20220901.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)||||
