@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220916](./202209/20220916.md) |[114. Flatten Binary Tree to Linked List(二叉树转单链表)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)||||
 | [20220915](./202209/20220915.md) |[110. Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/)||||
 | [20220914](./202209/20220914.md) |[101. Symmetric Tree(对称树)](https://leetcode.com/problems/symmetric-tree/)||||
 | [20220913](./202209/20220913.md) |[100. Same Tree(相同的树)](https://leetcode.com/problems/same-tree/)||||
