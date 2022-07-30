@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220920](./202209/20220920.md) |[106. Construct Binary Tree from Inorder and Postorder Traversal(根据中序和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)||||
 | [20220919](./202209/20220919.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(根据前序和中序构建二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||||
 | [20220918](./202209/20220918.md) |[116. Populating Next Right Pointers in Each Node(完美二叉树的每个节点增加Next指针)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)||||
 | [20220917](./202209/20220917.md) |[117. Populating Next Right Pointers in Each Node II(完美二叉树的每个节点增加Next指针2)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)||||
