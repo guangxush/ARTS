@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220922](./202209/20220922.md) |[96. Unique Binary Search Trees(不同的二叉搜索树)](https://leetcode.com/problems/unique-binary-search-trees/)||||
 | [20220921](./202209/20220921.md) |[889. Construct Binary Tree from Preorder and Postorder Traversal(根据前序和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)||||
 | [20220920](./202209/20220920.md) |[106. Construct Binary Tree from Inorder and Postorder Traversal(根据中序和后序遍历构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)||||
 | [20220919](./202209/20220919.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(根据前序和中序构建二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||||
