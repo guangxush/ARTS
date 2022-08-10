@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20220926](./202209/20220926.md) |[109. Convert Sorted List to Binary Search Tree(排序链表转换成二叉搜索树)](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)||||
+| [20220925](./202209/20220925.md) |[108. Convert Sorted Array to Binary Search Tree(排序数组转换成二叉搜索树)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)||||
 | [20220924](./202209/20220924.md) |[98. Validate Binary Search Tree(有效的二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)||||
 | [20220923](./202209/20220923.md) |[95. Unique Binary Search Trees II(不同的二叉搜索树2)](https://leetcode.com/problems/unique-binary-search-trees-ii/)||||
 | [20220922](./202209/20220922.md) |[96. Unique Binary Search Trees(不同的二叉搜索树)](https://leetcode.com/problems/unique-binary-search-trees/)||||
