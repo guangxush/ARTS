@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221007](./202210/20221007.md) |[147. Insertion Sort List(链表插入排序)](https://leetcode.com/problems/insertion-sort-list/)||||
+| [20221006](./202210/20221006.md) |[23. Merge k Sorted Lists(合并K个有序链表)](https://leetcode.com/problems/merge-k-sorted-lists/)||||
 | [20221005](./202210/20221005.md) |[21. Merge Two Sorted Lists(合并两个有序的链表)](https://leetcode.com/problems/merge-two-sorted-lists/)||||
 | [20221004](./202210/20221004.md) |[88. Merge Sorted Array(合并排序的数组)](https://leetcode.com/problems/merge-sorted-array/)||||
 | [20221003](./202210/20221003.md) |[129. Sum Root to Leaf Numbers(根到叶子节点的路径和)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)||||
