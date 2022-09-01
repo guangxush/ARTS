@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221008](./202210/20221008.md) |[148. Sort List(链表排序)](https://leetcode.com/problems/sort-list/)||||
 | [20221007](./202210/20221007.md) |[147. Insertion Sort List(链表插入排序)](https://leetcode.com/problems/insertion-sort-list/)||||
 | [20221006](./202210/20221006.md) |[23. Merge k Sorted Lists(合并K个有序链表)](https://leetcode.com/problems/merge-k-sorted-lists/)||||
 | [20221005](./202210/20221005.md) |[21. Merge Two Sorted Lists(合并两个有序的链表)](https://leetcode.com/problems/merge-two-sorted-lists/)||||
