@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221010](./202210/20221010.md) |[75. Sort Colors(颜色排序)](https://leetcode.com/problems/sort-colors/)||||
 | [20221009](./202210/20221009.md) |[41. First Missing Positive(第一个缺失的正数)](https://leetcode.com/problems/first-missing-positive/)||||
 | [20221008](./202210/20221008.md) |[148. Sort List(链表排序)](https://leetcode.com/problems/sort-list/)||||
 | [20221007](./202210/20221007.md) |[147. Insertion Sort List(链表插入排序)](https://leetcode.com/problems/insertion-sort-list/)||||
