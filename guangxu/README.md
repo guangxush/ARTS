@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221012](./202210/20221012.md) |[74. Search a 2D Matrix(二维矩阵查找)](https://leetcode.com/problems/search-a-2d-matrix)||||
 | [20221011](./202210/20221011.md) |[35. Search Insert Position(寻找插入的位置)](https://leetcode.com/problems/search-insert-position/)||||
 | [20221010](./202210/20221010.md) |[75. Sort Colors(颜色排序)](https://leetcode.com/problems/sort-colors/)||||
 | [20221009](./202210/20221009.md) |[41. First Missing Positive(第一个缺失的正数)](https://leetcode.com/problems/first-missing-positive/)||||
