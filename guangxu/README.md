@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221019](./202210/20221019.md) |[127. Word Ladder(单词梯子)](https://leetcode.com/problems/word-ladder/)||||
 | [20221018](./202210/20221018.md) |[17. Letter Combinations of a Phone Number(号码字母组合)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)||||
 | [20221017](./202210/20221017.md) |[77. Combinations(组合)](https://leetcode.com/problems/combinations/)||||
 | [20221016](./202210/20221016.md) |[47. Permutations II(排列2)](https://leetcode.com/problems/permutations-ii/)||||
