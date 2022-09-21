@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221021](./202210/20221021.md) |[131. Palindrome Partitioning(回文分割)](https://leetcode.com/problems/palindrome-partitioning/)||||
 | [20221020](./202210/20221020.md) |[130. Surrounded Regions(被环绕的区域)](https://leetcode.com/problems/surrounded-regions/)||||
 | [20221019](./202210/20221019.md) |[127. Word Ladder(单词梯子)](https://leetcode.com/problems/word-ladder/)||||
 | [20221018](./202210/20221018.md) |[17. Letter Combinations of a Phone Number(号码字母组合)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)||||
