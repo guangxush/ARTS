@@ -1,6 +1,9 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20221022](./202210/20221022.md) |[62. Unique Paths(唯一的路径)](https://leetcode.com/problems/unique-paths/)||||
+| [20221025](./202210/20221025.md) |[52. N-Queens II(N皇后问题2)](https://leetcode.com/problems/n-queens-ii/)||||
+| [20221024](./202210/20221024.md) |[51. N-Queens(N皇后问题)](https://leetcode.com/problems/n-queens/)||||
+| [20221023](./202210/20221023.md) |[63. Unique Paths II(不同的路径2)](https://leetcode.com/problems/unique-paths-ii/)||||
+| [20221022](./202210/20221022.md) |[62. Unique Paths(不同的路径)](https://leetcode.com/problems/unique-paths/)||||
 | [20221021](./202210/20221021.md) |[131. Palindrome Partitioning(回文分割)](https://leetcode.com/problems/palindrome-partitioning/)||||
 | [20221020](./202210/20221020.md) |[130. Surrounded Regions(被环绕的区域)](https://leetcode.com/problems/surrounded-regions/)||||
 | [20221019](./202210/20221019.md) |[127. Word Ladder(单词梯子)](https://leetcode.com/problems/word-ladder/)||||
