@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221029](./202210/20221029.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)||||
 | [20221028](./202210/20221028.md) |[40. Combination Sum II(组合总和2)](https://leetcode.com/problems/combination-sum-ii/)||||
 | [20221027](./202210/20221027.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)||||
 | [20221026](./202210/20221026.md) |[93. Restore IP Addresses(复原IP地址)](https://leetcode.com/problems/restore-ip-addresses/)||||
