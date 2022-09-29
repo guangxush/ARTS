@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221030](./202210/20221030.md) |[37. Sudoku Solver(数独解决方案)](https://leetcode.com/problems/sudoku-solver/)||||
 | [20221029](./202210/20221029.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)||||
 | [20221028](./202210/20221028.md) |[40. Combination Sum II(组合总和2)](https://leetcode.com/problems/combination-sum-ii/)||||
 | [20221027](./202210/20221027.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)||||
