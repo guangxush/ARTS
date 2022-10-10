@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221102](./202210/20221102.md) |[69. Sqrt(x)(求根号)](https://leetcode.com/problems/sqrtx/)||||
 | [20221101](./202210/20221101.md) |[50. Pow(x, n)(求次幂)](https://leetcode.com/problems/powx-n/)||||
 | [20221031](./202210/20221031.md) |[79. Word Search(单词搜索)](https://leetcode.com/problems/word-search/description/)||||
 | [20221030](./202210/20221030.md) |[37. Sudoku Solver(数独解决方案)](https://leetcode.com/problems/sudoku-solver/)||||
