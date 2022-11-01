@@ -1,6 +1,8 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20221119](./202211/20221119.md) |[115. Distinct Subsequences(距离子序列)](https://leetcode.com/problems/distinct-subsequences/)||||
+| [20221121](./202211/20221121.md) |[140. Word Break II(断字2)](https://leetcode.com/problems/word-break-ii/)||||
+| [20221120](./202211/20221120.md) |[139. Word Break(断字)](https://leetcode.com/problems/word-break/)||||
+| [20221119](./202211/20221119.md) |[115. Distinct Subsequences(不同子序列)](https://leetcode.com/problems/distinct-subsequences/)||||
 | [20221118](./202211/20221118.md) |[91. Decode Ways(解码方法)](https://leetcode.com/problems/decode-ways/)||||
 | [20221117](./202211/20221117.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)||||
 | [20221116](./202211/20221116.md) |[64. Minimum Path Sum(最小路径和)](https://leetcode.com/problems/minimum-path-sum/)||||
