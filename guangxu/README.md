@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221126](./202211/20221126.md) |[56. Merge Intervals(合并区间)](https://leetcode.com/problems/merge-intervals/)||||
 | [20221125](./202211/20221125.md) |[57. Insert Interval(插入区间)](https://leetcode.com/problems/insert-interval/)||||
 | [20221124](./202211/20221124.md) |[9. Palindrome Number(回文数)](https://leetcode.com/problems/palindrome-number/)||||
 | [20221123](./202211/20221123.md) |[7. Reverse Integer(整数反转)](https://leetcode.com/problems/reverse-integer/)||||
