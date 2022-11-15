@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221129](./202211/20221129.md) |[30. Substring with Concatenation of All Words(串联所有单词的子串)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)||||
 | [20221128](./202211/20221128.md) |[43. Multiply Strings(字符串相乘)](https://leetcode.com/problems/multiply-strings/description/)||||
 | [20221127](./202211/20221127.md) |[76. Minimum Window Substring(最小窗口子串)](https://leetcode.com/problems/minimum-window-substring/)||||
 | [20221126](./202211/20221126.md) |[56. Merge Intervals(合并区间)](https://leetcode.com/problems/merge-intervals/)||||
