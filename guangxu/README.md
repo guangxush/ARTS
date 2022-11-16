@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221201](./202212/20221201.md) |[119. Pascal's Triangle II(杨辉三角2)](https://leetcode.com/problems/pascals-triangle-ii/)||||
+| [20221130](./202211/20221130.md) |[118. Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/)||||
 | [20221129](./202211/20221129.md) |[30. Substring with Concatenation of All Words(串联所有单词的子串)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)||||
 | [20221128](./202211/20221128.md) |[43. Multiply Strings(字符串相乘)](https://leetcode.com/problems/multiply-strings/description/)||||
 | [20221127](./202211/20221127.md) |[76. Minimum Window Substring(最小窗口子串)](https://leetcode.com/problems/minimum-window-substring/)||||
