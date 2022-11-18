@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221204](./202212/20221204.md) |[6. Zigzag Conversion(之字形转换)](https://leetcode.com/problems/zigzag-conversion/)||||
 | [20221203](./202212/20221203.md) |[59. Spiral Matrix II(螺旋矩阵2)](https://leetcode.com/problems/spiral-matrix-ii/)||||
 | [20221202](./202212/20221202.md) |[54. Spiral Matrix(螺旋矩阵)](https://leetcode.com/problems/spiral-matrix/)||||
 | [20221201](./202212/20221201.md) |[119. Pascal's Triangle II(杨辉三角2)](https://leetcode.com/problems/pascals-triangle-ii/)||||
