@@ -152,6 +152,19 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20221121](./202211/20221121.md) |[140. Word Break II(断字2)](https://leetcode.com/problems/word-break-ii/)||||
+| [20221120](./202211/20221120.md) |[139. Word Break(断字)](https://leetcode.com/problems/word-break/)||||
+| [20221119](./202211/20221119.md) |[115. Distinct Subsequences(不同子序列)](https://leetcode.com/problems/distinct-subsequences/)||||
+| [20221118](./202211/20221118.md) |[91. Decode Ways(解码方法)](https://leetcode.com/problems/decode-ways/)||||
+| [20221117](./202211/20221117.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)||||
+| [20221116](./202211/20221116.md) |[64. Minimum Path Sum(最小路径和)](https://leetcode.com/problems/minimum-path-sum/)||||
+| [20221115](./202211/20221115.md) |[87. Scramble String(可拼凑字符串)](https://leetcode.com/problems/scramble-string/)||||
+| [20221114](./202211/20221114.md) |[97. Interleaving String(交错字符串)](https://leetcode.com/problems/interleaving-string/)||||
+| [20221113](./202211/20221113.md) |[123. Best Time to Buy and Sell Stock III(买卖股票的最佳时间3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)||||
+| [20221112](./202211/20221112.md) |[85. Maximal Rectangle(最大矩形)](https://leetcode.com/problems/maximal-rectangle/)||||
+| [20221111](./202211/20221111.md) |[132. Palindrome Partitioning II(回文分割算法2)](https://leetcode.com/problems/palindrome-partitioning-ii/)||||
+| [20221110](./202211/20221110.md) |[53. Maximum Subarray(最大子段和)](https://leetcode.com/problems/maximum-subarray/)||||
+| [20221109](./202211/20221109.md) |[120. Triangle(三角形)](https://leetcode.com/problems/triangle/)||||
 | [20220707](./guangxu/202207/20220707.md) |[53. Maximum Subarray(最大子段和)](https://leetcode.com/problems/maximum-subarray/)|
 | [20220706](./guangxu/202207/20220706.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)|
 | [20220704](./guangxu/202207/20220704.md) |[674. Longest Continuous Increasing Subsequence(最长连续递增子序列-动态规划)](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|
@@ -257,6 +270,12 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20221108](./202211/20221108.md) |[11. Container With Most Water(容器最大水容量)](https://leetcode.com/problems/container-with-most-water/)||||
+| [20221107](./202211/20221107.md) |[3. Longest Substring Without Repeating Characters(无重复最长子串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||||
+| [20221106](./202211/20221106.md) |[122. Best Time to Buy and Sell Stock II(买卖股票的最佳时机2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||||
+| [20221105](./202211/20221105.md) |[121. Best Time to Buy and Sell Stock(买卖股票的最佳时机)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||||
+| [20221104](./202211/20221104.md) |[45. Jump Game II(跳跃游戏2)](https://leetcode.com/problems/jump-game-ii/)||||
+| [20221103](./202211/20221103.md) |[55. Jump Game(跳跃游戏)](https://leetcode.com/problems/jump-game/)||||
 | [20220622](./guangxu/202206/20220622.md) |[45. Jump Game II(跳跃游戏2-贪心算法)](https://leetcode.com/problems/jump-game-ii/)|
 | [20220621](./guangxu/202206/20220621.md) |[55. Jump Game(跳跃游戏-贪心算法)](https://leetcode.com/problems/jump-game/)|
 | [20220510](./guangxu/202205/20220510.md) |[986. Interval List Intersections(区间交集-贪心)](https://leetcode.com/problems/interval-list-intersections/)|
@@ -323,6 +342,8 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20221102](./202211/20221102.md) |[69. Sqrt(x)(求根号)](https://leetcode.com/problems/sqrtx/)||||
+| [20221101](./202211/20221101.md) |[50. Pow(x, n)(求次幂)](https://leetcode.com/problems/powx-n/)||||
 | [20220404](./guangxu/202204/20220404.md) |[69. Sqrt(x)(分治法求根号)](https://leetcode.com/problems/sqrtx/)|
 | [20220403](./guangxu/202204/20220403.md) |[50. Pow(x, n)(分治法求次方)](https://leetcode.com/problems/powx-n/)|
 
@@ -858,6 +879,7 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20221122](./202211/20221122.md) |[133. Clone Graph(克隆图)](https://leetcode.com/problems/clone-graph/)||||
 | [20220411](./guangxu/202204/20220411.md) |[133. Clone Graph(图复制)](https://leetcode.com/problems/clone-graph/)|
 | [20210909](./guangxu/202109/20210909.md) |[48. Rotate Image(旋转图像)](https://leetcode.com/problems/rotate-image/)|
 | [20210817](./guangxu/202108/20210817.md) |[200. Number of Islands(岛屿数量)](https://leetcode.com/problems/number-of-islands/)|
@@ -872,6 +894,18 @@ ARTS 高效学习是耗子叔发起的一个高效学习方法，一个需要持
 
 | 参考解答 | 原题地址 |
 | :---- | :-----|
+| [20221204](./202212/20221204.md) |[6. Zigzag Conversion(之字形转换)](https://leetcode.com/problems/zigzag-conversion/)||||
+| [20221203](./202212/20221203.md) |[59. Spiral Matrix II(螺旋矩阵2)](https://leetcode.com/problems/spiral-matrix-ii/)||||
+| [20221202](./202212/20221202.md) |[54. Spiral Matrix(螺旋矩阵)](https://leetcode.com/problems/spiral-matrix/)||||
+| [20221201](./202212/20221201.md) |[119. Pascal's Triangle II(杨辉三角2)](https://leetcode.com/problems/pascals-triangle-ii/)||||
+| [20221130](./202211/20221130.md) |[118. Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/)||||
+| [20221129](./202211/20221129.md) |[30. Substring with Concatenation of All Words(串联所有单词的子串)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)||||
+| [20221128](./202211/20221128.md) |[43. Multiply Strings(字符串相乘)](https://leetcode.com/problems/multiply-strings/description/)||||
+| [20221127](./202211/20221127.md) |[76. Minimum Window Substring(最小窗口子串)](https://leetcode.com/problems/minimum-window-substring/)||||
+| [20221126](./202211/20221126.md) |[56. Merge Intervals(合并区间)](https://leetcode.com/problems/merge-intervals/)||||
+| [20221125](./202211/20221125.md) |[57. Insert Interval(插入区间)](https://leetcode.com/problems/insert-interval/)||||
+| [20221124](./202211/20221124.md) |[9. Palindrome Number(回文数)](https://leetcode.com/problems/palindrome-number/)||||
+| [20221123](./202211/20221123.md) |[7. Reverse Integer(整数反转)](https://leetcode.com/problems/reverse-integer/)||||
 | [20220620](./guangxu/202206/20220620.md) |[50. Pow(x, n)(指数运算)](https://leetcode.com/problems/powx-n/)|
 | [20220619](./guangxu/202206/20220619.md) |[372. Super Pow(超级幂运算)](https://leetcode.com/problems/super-pow/)|
 | [20220618](./guangxu/202206/20220618.md) |[204. Count Primes(数素数)](https://leetcode.com/problems/count-primes/)|
