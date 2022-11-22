@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221206](./202212/20221206.md) |[68. Text Justification(文本对齐)](https://leetcode.com/problems/text-justification/)||||
 | [20221205](./202212/20221205.md) |[29. Divide Two Integers(两个整数相除)](https://leetcode.com/problems/divide-two-integers/)||||
 | [20221204](./202212/20221204.md) |[6. Zigzag Conversion(之字形转换)](https://leetcode.com/problems/zigzag-conversion/)||||
 | [20221203](./202212/20221203.md) |[59. Spiral Matrix II(螺旋矩阵2)](https://leetcode.com/problems/spiral-matrix-ii/)||||
