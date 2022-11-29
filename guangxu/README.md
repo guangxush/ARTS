@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221209](./202212/20221209.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树最小公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)||||
 | [20221208](./202212/20221208.md) |[215. Kth Largest Element in an Array(数组中第K个最大元素)](https://leetcode.com/problems/kth-largest-element-in-an-array/)||||
 | [20221207](./202212/20221207.md) |[149. Max Points on a Line(同一条线上最多的点)](https://leetcode.com/problems/max-points-on-a-line/)||||
 | [20221206](./202212/20221206.md) |[68. Text Justification(文本对齐)](https://leetcode.com/problems/text-justification/)||||
