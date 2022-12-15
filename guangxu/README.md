@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221220](./202212/20221220.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)||||
+| [20221219](./202212/20221219.md) |[450. Delete Node in a BST(删除二叉搜索树的节点)](https://leetcode.com/problems/delete-node-in-a-bst/)||||
 | [20221218](./202212/20221218.md) |[146. LRU Cache(LRU缓存)](https://leetcode.com/problems/lru-cache/)||||
 | [20221217](./202212/20221217.md) |[297. Serialize and Deserialize Binary Tree(二叉树序列化与反序列化)](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)||||
 | [20221216](./202212/20221216.md) |[543. Diameter of Binary Tree(二叉树的直径)](https://leetcode.com/problems/diameter-of-binary-tree/)||||
