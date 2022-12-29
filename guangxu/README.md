@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20221230](./202212/20221230.md) |[3. Longest Substring Without Repeating Characters(无重复字符串的最长串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||||
+| [20221229](./202212/20221229.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)||||
 | [20221228](./202212/20221228.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)||||
 | [20221227](./202212/20221227.md) |[121. Best Time to Buy and Sell Stock(买卖股票的最佳时机)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||||
 | [20221226](./202212/20221226.md) |[15. 3Sum(三数之和)](https://leetcode.com/problems/3sum/)||||
