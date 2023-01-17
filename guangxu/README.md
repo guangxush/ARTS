@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20230117](./202301/20230117.md) |[89. Gray Code(格雷编码)](https://leetcode.com/problems/gray-code/)||||
 | [20230116](./202301/20230116.md) |[200. Number of Islands(岛屿的数量)](https://leetcode.com/problems/number-of-islands/)||||
 | [20230113](./202301/20230113.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)||||
 | [20230112](./202301/20230112.md) |[62. Unique Paths(唯一路径)](https://leetcode.com/problems/unique-paths/)||||
