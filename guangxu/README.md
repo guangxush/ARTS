@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20230120](./202301/20230120.md) |[384. Shuffle an Array(打乱数组)](https://leetcode.com/problems/shuffle-an-array/description/)||||
 | [20230119](./202301/20230119.md) |[152. Maximum Product Subarray(最大子数组乘积)](https://leetcode.com/problems/maximum-product-subarray/description/)||||
 | [20230118](./202301/20230118.md) |[98. Validate Binary Search Tree(验证是否是二叉树)](https://leetcode.com/problems/validate-binary-search-tree/)||||
 | [20230117](./202301/20230117.md) |[89. Gray Code(格雷编码)](https://leetcode.com/problems/gray-code/)||||
