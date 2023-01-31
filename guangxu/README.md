@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20230131](./202301/20230131.md) |[36. Valid Sudoku(有效数独)](https://leetcode.com/problems/valid-sudoku/)||||
 | [20230130](./202301/20230130.md) |[37. Sudoku Solver(解数独)](https://leetcode.com/problems/sudoku-solver/)||||
 | [20230120](./202301/20230120.md) |[384. Shuffle an Array(打乱数组)](https://leetcode.com/problems/shuffle-an-array/description/)||||
 | [20230119](./202301/20230119.md) |[152. Maximum Product Subarray(最大子数组乘积)](https://leetcode.com/problems/maximum-product-subarray/description/)||||
