@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20230206](./202302/20230206.md) |[33. Search in Rotated Sorted Array(搜索旋转排序数组)](https://leetcode.com/problems/search-in-rotated-sorted-array/)||||
 | [20230203](./202302/20230203.md) |[153. Find Minimum in Rotated Sorted Array(旋转数组中发现最小值)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)||||
 | [20230202](./202302/20230202.md) |[141. Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/)||||
 | [20230201](./202302/20230201.md) |[51. N-Queens(N皇后)](https://leetcode.com/problems/n-queens/)||||
