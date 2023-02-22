@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20230222](./202302/20230222.md) |[79. Word Search(单词搜索)](https://leetcode.com/problems/word-search/)||||
 | [20230221](./202302/20230221.md) |[10. Regular Expression Matching(正则表达式匹配)](https://leetcode.com/problems/regular-expression-matching/)||||
 | [20230220](./202302/20230220.md) |[283. Move Zeroes(移动零)](https://leetcode.com/problems/move-zeroes/)||||
 | [20230214](./202302/20230214.md) |[154. Find Minimum in Rotated Sorted Array II(寻找旋转排序数组中的最小值 II)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)||||
