@@ -1,5 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20230228](./202302/20230228.md) |[877. Stone Game(石子游戏)](https://leetcode.com/problems/stone-game/)||||
+| [20230227](./202302/20230227.md) |[300. Longest Increasing Subsequence(最长递增子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)||||
 | [20230224](./202302/20230224.md) |[297. Serialize and Deserialize Binary Tree(序列化和反序列化二叉树)](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)||||
 | [20230223](./202302/20230223.md) |[76. Minimum Window Substring(最小覆盖子串)](https://leetcode.com/problems/minimum-window-substring/)||||
 | [20230222](./202302/20230222.md) |[79. Word Search(单词搜索)](https://leetcode.com/problems/word-search/)||||
