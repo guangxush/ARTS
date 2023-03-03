@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20230303](./202303/20230303.md) |[119. Pascal's Triangle II(杨辉三角2)](https://leetcode.com/problems/pascals-triangle-ii/)||||
 | [20230302](./202303/20230302.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)||||
 | [20230301](./202303/20230301.md) |[25. Reverse Nodes in k-Group(K个一组翻转链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)||||
 | [20230228](./202302/20230228.md) |[877. Stone Game(石子游戏)](https://leetcode.com/problems/stone-game/)||||
