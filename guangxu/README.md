@@ -1,6 +1,7 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
-| [20230307](./202303/20230307.md) |[1095. Find in Mountain Array(寻找山峰数组)](https://leetcode.com/problems/find-in-mountain-array/)||||
+| [20230308](./202303/20230308.md) |[295. Find Median from Data Stream(发现数据流中的中位数)](https://leetcode.com/problems/find-median-from-data-stream/description/)||||
+| [20230307](./202303/20230307.md) |[1095. Find in Mountain Array(山脉数组中查找目标值)](https://leetcode.com/problems/find-in-mountain-array/)||||
 | [20230306](./202303/20230306.md) |[863. All Nodes Distance K in Binary Tree(二叉树中所有距离为K的结点)](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)||||
 | [20230303](./202303/20230303.md) |[119. Pascal's Triangle II(杨辉三角2)](https://leetcode.com/problems/pascals-triangle-ii/)||||
 | [20230302](./202303/20230302.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)||||
