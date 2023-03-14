@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20230314](./202303/20230314.md) |[73. Set Matrix Zeroes(设置矩阵0)](https://leetcode.com/problems/set-matrix-zeroes/)||||
 | [20230313](./202303/20230313.md) |[173. Binary Search Tree Iterator(二叉搜索树迭代器)](https://leetcode.com/problems/binary-search-tree-iterator/)||||
 | [20230310](./202303/20230310.md) |[129. Sum Root to Leaf Numbers(求根到叶子节点数字之和)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)||||
 | [20230309](./202303/20230309.md) |[8. String to Integer (atoi)(字符串转换整数 (atoi))](https://leetcode.com/problems/string-to-integer-atoi/)||||
