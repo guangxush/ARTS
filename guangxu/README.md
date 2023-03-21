@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20230321](./202303/20230321.md) |[643. Maximum Average Subarray I(子数组最大平均数 I)](https://leetcode.com/problems/maximum-average-subarray-i/)||||
 | [20230320](./202303/20230320.md) |[209. Minimum Size Subarray Sum(长度最小的子数组)](https://leetcode.com/problems/minimum-size-subarray-sum/)||||
 | [20230317](./202303/20230317.md) |[386. Lexicographical Numbers(字典数排序)](https://leetcode.com/problems/lexicographical-numbers/description/)||||
 | [20230316](./202303/20230316.md) |[347. Top K Frequent Elements(前K个高频元素)](https://leetcode.com/problems/top-k-frequent-elements/submissions/915970943/)||||
