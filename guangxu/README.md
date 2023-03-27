@@ -1,5 +1,6 @@
 | 标题 | Algorithm | Review | Tip | Share|
 | - | - | - | - | - |
+| [20230327](./202303/20230327.md) |[743. Network Delay Time(网络延迟时间)](https://leetcode.com/problems/network-delay-time/description/)||||
 | [20230324](./202303/20230324.md) |[199. Binary Tree Right Side View(二叉树右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)||||
 | [20230323](./202303/20230323.md) |[135. Candy(分发糖果)](https://leetcode.com/problems/candy/)||||
 | [20230322](./202303/20230322.md) |[41. First Missing Positive(缺失的第一个正数)](https://leetcode.com/problems/first-missing-positive/)||||
