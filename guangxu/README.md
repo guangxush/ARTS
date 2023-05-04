@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20230504](./202305/20230504.md) |[300. Longest Increasing Subsequence(最长上升子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)|
 | [20230428](./202304/20230428.md) |[144. Binary Tree Preorder Traversal(二叉树的先序遍历)](https://leetcode.com/problems/binary-tree-preorder-traversal/)|
 | [20230427](./202304/20230427.md) |[102. Binary Tree Level Order Traversal(二叉树的层序遍历)](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
 | [20230426](./202304/20230426.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)|
