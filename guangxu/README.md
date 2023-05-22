@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20230522](./202305/20230522.md) |[525. Contiguous Array(连续数组)](https://leetcode.com/problems/contiguous-array/)|
 | [20230519](./202305/20230519.md) |[322. Coin Change(零钱兑换)](https://leetcode.com/problems/coin-change/)|
 | [20230518](./202305/20230518.md) |[104. Maximum Depth of Binary Tree(二叉树的最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
 | [20230517](./202305/20230517.md) |[155. Min Stack(最小栈)](https://leetcode.com/problems/min-stack/)|
