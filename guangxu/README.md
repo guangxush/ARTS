@@ -1,5 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
+| [20230524](./202305/20230524.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树的最近公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
+| [20230523](./202305/20230523.md) |[169. Majority Element(多数元素)](https://leetcode.com/problems/majority-element/)|
 | [20230522](./202305/20230522.md) |[525. Contiguous Array(连续数组)](https://leetcode.com/problems/contiguous-array/)|
 | [20230519](./202305/20230519.md) |[322. Coin Change(零钱兑换)](https://leetcode.com/problems/coin-change/)|
 | [20230518](./202305/20230518.md) |[104. Maximum Depth of Binary Tree(二叉树的最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
