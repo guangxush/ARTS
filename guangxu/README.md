@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20230525](./202305/20230525.md) |[328. Odd Even Linked List(奇偶链表)](https://leetcode.com/problems/odd-even-linked-list/)|
 | [20230524](./202305/20230524.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树的最近公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
 | [20230523](./202305/20230523.md) |[169. Majority Element(多数元素)](https://leetcode.com/problems/majority-element/)|
 | [20230522](./202305/20230522.md) |[525. Contiguous Array(连续数组)](https://leetcode.com/problems/contiguous-array/)|
