@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230605](./202306/20230605.md) |[706. Design HashMap(设计HashMap)](https://leetcode.com/problems/design-hashmap/description/)|
 |[20230602](./202306/20230602.md) |[20. Valid Parentheses(有效的括号)](https://leetcode.com/problems/valid-parentheses/)|
 |[20230601](./202306/20230601.md) |[240. Search a 2D Matrix II(搜索二维矩阵 II)](https://leetcode.com/problems/search-a-2d-matrix-ii/)|
 |[20230531](./202305/20230531.md) |[54. Spiral Matrix(螺旋矩阵)](https://leetcode.com/problems/spiral-matrix/)|
