@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230607](./202306/20230607.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)|
 |[20230606](./202306/20230606.md) |[678. Valid Parenthesis String(有效的括号字符串)](https://leetcode.com/problems/valid-parenthesis-string/)|
 |[20230605](./202306/20230605.md) |[706. Design HashMap(设计HashMap)](https://leetcode.com/problems/design-hashmap/description/)|
 |[20230602](./202306/20230602.md) |[20. Valid Parentheses(有效的括号)](https://leetcode.com/problems/valid-parentheses/)|
