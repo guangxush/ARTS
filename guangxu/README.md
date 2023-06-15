@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230615](./202306/20230615.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)|
 |[20230614](./202306/20230614.md) |[887. Super Egg Drop(鸡蛋掉落)](https://leetcode.com/problems/super-egg-drop/)|
 |[20230608](./202306/20230608.md) |[199. Binary Tree Right Side View(二叉树的右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)|
 |[20230607](./202306/20230607.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)|
