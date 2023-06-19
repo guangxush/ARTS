@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230619](./202306/20230619.md) |[189. Rotate Array(旋转数组)](https://leetcode.com/problems/rotate-array/)|
 |[20230616](./202306/20230616.md) |[88. Merge Sorted Array(合并两个有序数组)](https://leetcode.com/problems/merge-sorted-array/)|
 |[20230615](./202306/20230615.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)|
 |[20230614](./202306/20230614.md) |[887. Super Egg Drop(鸡蛋掉落)](https://leetcode.com/problems/super-egg-drop/)|
