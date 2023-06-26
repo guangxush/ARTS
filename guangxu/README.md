@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230626](./202306/20230626.md) |[384. Shuffle an Array(打乱一个数组)(https://leetcode.com/problems/shuffle-an-array/)|
 |[20230621](./202306/20230621.md) |[43. Multiply Strings(字符串相乘)](https://leetcode.com/problems/multiply-strings/)|
 |[20230620](./202306/20230620.md) |[23. Merge k Sorted Lists(合并K个排序数组)](https://leetcode.com/problems/merge-k-sorted-lists/)|
 |[20230619](./202306/20230619.md) |[189. Rotate Array(旋转数组)](https://leetcode.com/problems/rotate-array/)|
