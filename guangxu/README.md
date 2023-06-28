@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230628](./202306/20230628.md) |[718. Maximum Length of Repeated Subarray(最长重复子数组)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
 |[20230627](./202306/20230627.md) |[172. Factorial Trailing Zeroes(阶乘后的零)](https://leetcode.com/problems/factorial-trailing-zeroes/)|
 |[20230626](./202306/20230626.md) |[384. Shuffle an Array(打乱一个数组)(https://leetcode.com/problems/shuffle-an-array/)|
 |[20230621](./202306/20230621.md) |[43. Multiply Strings(字符串相乘)](https://leetcode.com/problems/multiply-strings/)|
