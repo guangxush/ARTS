@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230630](./202306/20230630.md) |[148. Sort List(排序链表)](https://leetcode.com/problems/sort-list/)|
 |[20230629](./202306/20230629.md) |[394. Decode String(字符串解码)](https://leetcode.com/problems/decode-string/)|
 |[20230628](./202306/20230628.md) |[718. Maximum Length of Repeated Subarray(最长重复子数组)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
 |[20230627](./202306/20230627.md) |[172. Factorial Trailing Zeroes(阶乘后的零)](https://leetcode.com/problems/factorial-trailing-zeroes/)|
