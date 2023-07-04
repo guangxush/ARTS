@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[2023004](./202307/20230704.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)|
 |[2023003](./202307/20230703.md) |[121. Best Time to Buy and Sell Stock(买卖股票的最佳时机)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
 |[20230630](./202306/20230630.md) |[148. Sort List(排序链表)](https://leetcode.com/problems/sort-list/)|
 |[20230629](./202306/20230629.md) |[394. Decode String(字符串解码)](https://leetcode.com/problems/decode-string/)|
