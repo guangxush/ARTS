@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[2023005](./202307/20230705.md) |[129. Sum Root to Leaf Numbers(求根到叶子节点数字之和)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|
 |[2023004](./202307/20230704.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)|
 |[2023003](./202307/20230703.md) |[121. Best Time to Buy and Sell Stock(买卖股票的最佳时机)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
 |[20230630](./202306/20230630.md) |[148. Sort List(排序链表)](https://leetcode.com/problems/sort-list/)|
