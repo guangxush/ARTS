@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[2023011](./202307/20230711.md) |[82. Remove Duplicates from Sorted List II(删除排序链表中的重复元素 II)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|
 |[2023010](./202307/20230710.md) |[78. Subsets(子集)](https://leetcode.com/problems/subsets/)|
 |[2023005](./202307/20230705.md) |[129. Sum Root to Leaf Numbers(求根到叶子节点数字之和)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|
 |[2023004](./202307/20230704.md) |[287. Find the Duplicate Number(发现重复的数字)](https://leetcode.com/problems/find-the-duplicate-number/)|
