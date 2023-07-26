@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230725](./202307/20230725.md) |[26. Remove Duplicates from Sorted Array(删除排序数组中的重复项)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
 |[20230724](./202307/20230724.md) |[11. Container With Most Water(乘最多水的容器)](https://leetcode.com/problems/container-with-most-water/)|
 |[20230721](./202307/20230721.md) |[19. Remove Nth Node From End of List(返回链表中的第N个节点)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|
 |[20230720](./202307/20230720.md) |[459. Repeated Substring Pattern(重复的子字符串)](https://leetcode.com/problems/repeated-substring-pattern/)|
