@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230807](./202307/20230807.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)|
 |[20230804](./202307/20230804.md) |[316. Remove Duplicate Letters(去除重复字母)](https://leetcode.com/problems/remove-duplicate-letters/)|
 |[20230803](./202307/20230803.md) |[7. Reverse Integer(整数反转)](https://leetcode.com/problems/reverse-integer/)|
 |[20230802](./202307/20230802.md) |[24. Swap Nodes in Pairs(两两交换链表中的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
