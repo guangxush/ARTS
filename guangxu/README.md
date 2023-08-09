@@ -1,11 +1,12 @@
 | 标题 | Algorithm |
 | - | - |
-|[20230808](./202307/20230808.md) |[283. Move Zeroes(移动零)](https://leetcode.com/problems/move-zeroes/)|
-|[20230807](./202307/20230807.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)|
-|[20230804](./202307/20230804.md) |[316. Remove Duplicate Letters(去除重复字母)](https://leetcode.com/problems/remove-duplicate-letters/)|
-|[20230803](./202307/20230803.md) |[7. Reverse Integer(整数反转)](https://leetcode.com/problems/reverse-integer/)|
-|[20230802](./202307/20230802.md) |[24. Swap Nodes in Pairs(两两交换链表中的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
-|[20230801](./202307/20230801.md) |[451. Sort Characters By Frequency(根据字符出现频率排序)](https://leetcode.com/problems/sort-characters-by-frequency/)|
+|[20230809](./202308/20230809.md) |[128. Longest Consecutive Sequence(最长连续序列)](https://leetcode.com/problems/longest-consecutive-sequence/)|
+|[20230808](./202308/20230808.md) |[283. Move Zeroes(移动零)](https://leetcode.com/problems/move-zeroes/)|
+|[20230807](./202308/20230807.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)|
+|[20230804](./202308/20230804.md) |[316. Remove Duplicate Letters(去除重复字母)](https://leetcode.com/problems/remove-duplicate-letters/)|
+|[20230803](./202308/20230803.md) |[7. Reverse Integer(整数反转)](https://leetcode.com/problems/reverse-integer/)|
+|[20230802](./202308/20230802.md) |[24. Swap Nodes in Pairs(两两交换链表中的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
+|[20230801](./202308/20230801.md) |[451. Sort Characters By Frequency(根据字符出现频率排序)](https://leetcode.com/problems/sort-characters-by-frequency/)|
 |[20230731](./202307/20230731.md) |[122. Best Time to Buy and Sell Stock II(买卖股票的最佳时机2)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|
 |[20230726](./202307/20230726.md) |[103. Binary Tree Zigzag Level Order Traversal(二叉树的锯齿形层次遍历)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|
 |[20230725](./202307/20230725.md) |[26. Remove Duplicates from Sorted Array(删除排序数组中的重复项)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
