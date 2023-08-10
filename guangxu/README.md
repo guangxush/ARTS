@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230810](./202308/20230810.md) |[1044. Longest Duplicate Substring(最长重复子串)](https://leetcode.com/problems/longest-duplicate-substring/)|
 |[20230809](./202308/20230809.md) |[128. Longest Consecutive Sequence(最长连续序列)](https://leetcode.com/problems/longest-consecutive-sequence/)|
 |[20230808](./202308/20230808.md) |[283. Move Zeroes(移动零)](https://leetcode.com/problems/move-zeroes/)|
 |[20230807](./202308/20230807.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)|
