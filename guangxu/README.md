@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230818](./202308/20230818.md) |[728. Self Dividing Numbers(自除数)](https://leetcode.com/problems/self-dividing-numbers/)|
 |[20230817](./202308/20230817.md) |[123. Best Time to Buy and Sell Stock III(买卖股票的最佳时机3)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|
 |[20230816](./202308/20230816.md) |[179. Largest Number(最大数)](https://leetcode.com/problems/largest-number/)|
 |[20230815](./202308/20230815.md) |[208. Implement Trie (Prefix Tree)(实现Trie(前缀树))](https://leetcode.com/problems/implement-trie-prefix-tree/)|
