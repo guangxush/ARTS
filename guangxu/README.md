@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230904](./202309/20230904.md) |[714. Best Time to Buy and Sell Stock with Transaction Fee(无交易费基础上买卖股票最佳时机)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|
 |[20230901](./202309/20230901.md) |[622. Design Circular Queue(设计循环队列)](https://leetcode.com/problems/design-circular-queue/)|
 |[20230831](./202308/20230831.md) |[518. Coin Change II(零钱兑换2)](https://leetcode.com/problems/coin-change-ii/)|
 |[20230830](./202308/20230830.md) |[292. Nim Game(Nim游戏)](https://leetcode.com/problems/nim-game/)|
