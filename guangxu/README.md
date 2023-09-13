@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230914](./202309/20230914.md) |[442. Find All Duplicates in an Array(发现数组中的重复数)](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|
 |[20230913](./202309/20230913.md) |[295. Find Median from Data Stream(数据流的中位数)](https://leetcode.com/problems/find-median-from-data-stream)|
 |[20230912](./202309/20230912.md) |[84. Largest Rectangle in Histogram(柱状图中最大的矩形)](https://leetcode.com/problems/largest-rectangle-in-histogram/)|
 |[20230911](./202309/20230911.md) |[901. Online Stock Span(在线股票价格跨度)](https://leetcode.com/problems/online-stock-span/)|
