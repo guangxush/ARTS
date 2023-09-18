@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230918](./202309/20230918.md) |[2034. Stock Price Fluctuation(股票价格波动)](https://leetcode.com/problems/stock-price-fluctuation/)|
 |[20230915](./202309/20230915.md) |[695. Max Area of Island(岛屿的最大面积)](https://leetcode.com/problems/max-area-of-island/)|
 |[20230914](./202309/20230914.md) |[442. Find All Duplicates in an Array(发现数组中的重复数)](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|
 |[20230913](./202309/20230913.md) |[295. Find Median from Data Stream(数据流的中位数)](https://leetcode.com/problems/find-median-from-data-stream)|
