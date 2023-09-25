@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230925](./202309/20230925.md) |[2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/)|
 |[20230922](./202309/20230922.md) |[25. Reverse Nodes in k-Group(K组反转链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|
 |[20230921](./202309/20230921.md) |[1219. Path with Maximum Gold(黄金矿工)](https://leetcode.com/problems/path-with-maximum-gold/)|
 |[20230920](./202309/20230920.md) |[567. Permutation in String(字符串的排列)](https://leetcode.com/problems/permutation-in-string/)|
