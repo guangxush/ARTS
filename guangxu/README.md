@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230927](./202309/20230927.md) |[146. LRU Cache(LRU缓存机制)](https://leetcode.com/problems/lru-cache/)|
 |[20230926](./202309/20230926.md) |[3. Longest Substring Without Repeating Characters(无重复字符的最长子串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
 |[20230925](./202309/20230925.md) |[2110. Number of Smooth Descent Periods of a Stock(股票平滑下跌阶段的数目)](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/)|
 |[20230922](./202309/20230922.md) |[25. Reverse Nodes in k-Group(K组反转链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|
