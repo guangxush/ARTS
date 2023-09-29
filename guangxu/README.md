@@ -1,5 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
+|[20230929](./202309/20230929.md) |[206. Reverse Linked List(链表反转)](https://leetcode.com/problems/reverse-linked-list/)|
+|[20230928](./202309/20230928.md) |[215. Kth Largest Element in an Array(数组中第K个最大元素)](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
 |[20230927](./202309/20230927.md) |[146. LRU Cache(LRU缓存机制)](https://leetcode.com/problems/lru-cache/)|
 |[20230926](./202309/20230926.md) |[3. Longest Substring Without Repeating Characters(无重复字符的最长子串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
 |[20230925](./202309/20230925.md) |[2110. Number of Smooth Descent Periods of a Stock(股票平滑下跌阶段的数目)](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/)|
