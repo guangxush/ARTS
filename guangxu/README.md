@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231011](./202310/20231011.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)|
 |[20231010](./202310/20231010.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树的最近公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
 |[20231009](./202310/20231009.md) |[160. Intersection of Two Linked Lists(相交链表)](https://leetcode.com/problems/intersection-of-two-linked-lists/)|
 |[20231001](./202310/20231001.md) |[15. 3Sum(三数之和)](https://leetcode.com/problems/3sum/)|
