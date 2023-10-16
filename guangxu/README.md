@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231016](./202310/20231016.md) |[199. Binary Tree Right Side View(二叉树的右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)|
 |[20231013](./202310/20231013.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)|
 |[20231012](./202310/20231012.md) |[33. Search in Rotated Sorted Array(搜索旋转排序数组)](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 |[20231011](./202310/20231011.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)|
