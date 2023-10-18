@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231018](./202310/20231018.md) |[143. Reorder List(链表重排序)](https://leetcode.com/problems/reorder-list/)|
 |[20231017](./202310/20231017.md) |[54. Spiral Matrix(旋转矩阵)](https://leetcode.com/problems/spiral-matrix/)|
 |[20231016](./202310/20231016.md) |[199. Binary Tree Right Side View(二叉树的右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)|
 |[20231013](./202310/20231013.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)|
