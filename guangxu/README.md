@@ -1,6 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
-|[20231020](./202310/20231020.md) |[21. Merge Two Sorted Lists(合并两个排序的链表)](https://leetcode.com/problems/merge-two-sorted-lists/)|
+|[20231023](./202310/20231023.md) |[300. Longest Increasing Subsequence(最长递增子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)|
 |[20231019](./202310/20231019.md) |[23. Merge k Sorted Lists(链表重排序)](https://leetcode.com/problems/merge-k-sorted-lists/)|
 |[20231018](./202310/20231018.md) |[143. Reorder List(链表重排序)](https://leetcode.com/problems/reorder-list/)|
 |[20231017](./202310/20231017.md) |[54. Spiral Matrix(旋转矩阵)](https://leetcode.com/problems/spiral-matrix/)|
