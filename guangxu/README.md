@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231026](./202310/20231026.md) |[69. Sqrt(x)(求平方根)](https://leetcode.com/problems/sqrtx/)|
 |[20231023](./202310/20231023.md) |[300. Longest Increasing Subsequence(最长递增子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)|
 |[20231019](./202310/20231019.md) |[23. Merge k Sorted Lists(链表重排序)](https://leetcode.com/problems/merge-k-sorted-lists/)|
 |[20231018](./202310/20231018.md) |[143. Reorder List(链表重排序)](https://leetcode.com/problems/reorder-list/)|
