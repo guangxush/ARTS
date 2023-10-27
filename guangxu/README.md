@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231027](./202310/20231027.md) |[92. Reverse Linked List II(链表反转2)](https://leetcode.com/problems/reverse-linked-list-ii/)|
 |[20231026](./202310/20231026.md) |[69. Sqrt(x)(求平方根)](https://leetcode.com/problems/sqrtx/)|
 |[20231023](./202310/20231023.md) |[300. Longest Increasing Subsequence(最长递增子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)|
 |[20231019](./202310/20231019.md) |[23. Merge k Sorted Lists(链表重排序)](https://leetcode.com/problems/merge-k-sorted-lists/)|
