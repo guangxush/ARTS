@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231031](./202310/20231031.md) |[1. Two Sum(两数之和)](https://leetcode.com/problems/two-sum/)|
 |[20231028](./202310/20231028.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(从前序与中序遍历序列构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|
 |[20231027](./202310/20231027.md) |[92. Reverse Linked List II(链表反转2)](https://leetcode.com/problems/reverse-linked-list-ii/)|
 |[20231026](./202310/20231026.md) |[69. Sqrt(x)(求平方根)](https://leetcode.com/problems/sqrtx/)|
