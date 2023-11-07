@@ -2,6 +2,7 @@
 | - | - |
 |[20231107](./202311/20231107.md) |[121. 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)|
 |[20231106](./202311/20231106.md) |[101. Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/)|
+|[20231105](./202311/20231105.md) |[56. Merge Intervals(合并区间)](https://leetcode.com/problems/merge-intervals/)|
 |[20231103](./202311/20231103.md) |[41. First Missing Positive(缺失的第一个正数)](https://leetcode.com/problems/first-missing-positive/)|
 |[20231102](./202311/20231102.md) |[200. Number of Islands(岛屿的数量)](https://leetcode.com/problems/number-of-islands)|
 |[20231101](./202311/20231101.md) |[124. Binary Tree Maximum Path Sum(二叉树的最大路径和)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|
