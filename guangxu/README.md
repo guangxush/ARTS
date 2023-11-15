@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231116](./202311/20231116.md) |[141. Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/)|
 |[20231115](./202311/20231115.md) |[76. Minimum Window Substring(最小覆盖子串)](https://leetcode.com/problems/minimum-window-substring/)|
 |[20231114](./202311/20231114.md) |[46. Permutations(全排列)](https://leetcode.com/problems/permutations/)|
 |[20231113](./202311/20231113.md) |[155. Min Stack(最小栈)](https://leetcode.com/problems/min-stack/)|
