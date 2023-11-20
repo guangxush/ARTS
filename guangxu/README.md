@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231120](./202311/20231120.md) |[20. Valid Parentheses(有效的括号)](https://leetcode.com/problems/valid-parentheses/)|
 |[20231117](./202311/20231117.md) |[221. Maximal Square(最大矩形)](https://leetcode.com/problems/maximal-square/)|
 |[20231116](./202311/20231116.md) |[141. Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/)|
 |[20231115](./202311/20231115.md) |[76. Minimum Window Substring(最小覆盖子串)](https://leetcode.com/problems/minimum-window-substring/)|
