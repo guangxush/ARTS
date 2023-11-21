@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231121](./202311/20231121.md) |[98. Validate Binary Search Tree(验证二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)|
 |[20231120](./202311/20231120.md) |[20. Valid Parentheses(有效的括号)](https://leetcode.com/problems/valid-parentheses/)|
 |[20231117](./202311/20231117.md) |[221. Maximal Square(最大矩形)](https://leetcode.com/problems/maximal-square/)|
 |[20231116](./202311/20231116.md) |[141. Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/)|
