@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231123](./202311/20231123.md) |[102. Binary Tree Level Order Traversal(二叉树层次遍历)](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
 |[20231122](./202311/20231122.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/)|
 |[20231121](./202311/20231121.md) |[98. Validate Binary Search Tree(验证二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree/)|
 |[20231120](./202311/20231120.md) |[20. Valid Parentheses(有效的括号)](https://leetcode.com/problems/valid-parentheses/)|
