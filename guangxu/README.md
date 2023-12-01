@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231201](./202312/20231201.md) |[470. Implement Rand10() Using Rand7()(用 Rand7() 实现 Rand10())](https://leetcode.com/problems/implement-rand10-using-rand7/)|
 |[20231130](./202311/20231130.md) |[48. Rotate Image(旋转图像)](https://leetcode.com/problems/rotate-image/)|
 |[20231129](./202311/20231129.md) |[142. Linked List Cycle II(循环链表2)](https://leetcode.com/problems/linked-list-cycle-ii/)|
 |[20231128](./202311/20231128.md) |[162. Find Peak Element(寻找峰值)](https://leetcode.com/problems/find-peak-element/)|
