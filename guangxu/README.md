@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231208](./202312/20231208.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)|
 |[20231207](./202312/20231207.md) |[2. Add Two Numbers(两数之和)](https://leetcode.com/problems/add-two-numbers/)|
 |[20231206](./202312/20231206.md) |[88. Merge Sorted Array(合并两个有序数组)](https://leetcode.com/problems/merge-sorted-array/)|
 |[20231205](./202312/20231205.md) |[518. Coin Change II(零钱兑换2)](https://leetcode.com/problems/coin-change-ii/)|
