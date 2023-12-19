@@ -1,5 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231219](./202312/20231219.md) |[198. House Robber(打家劫舍)](https://leetcode.com/problems/house-robber/)|
+|[20231218](./202312/20231218.md) |[148. Sort List(链表排序)](https://leetcode.com/problems/sort-list/)|
 |[20231217](./202312/20231217.md) |LRUCache|
 |[20231208](./202312/20231208.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/)|
 |[20231207](./202312/20231207.md) |[2. Add Two Numbers(两数之和)](https://leetcode.com/problems/add-two-numbers/)|
