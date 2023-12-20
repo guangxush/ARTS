@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231220](./202312/20231220.md) |[232. Implement Queue using Stacks(使用栈实现队列)](https://leetcode.com/problems/implement-queue-using-stacks/)|
 |[20231219](./202312/20231219.md) |[198. House Robber(打家劫舍)](https://leetcode.com/problems/house-robber/)|
 |[20231218](./202312/20231218.md) |[148. Sort List(链表排序)](https://leetcode.com/problems/sort-list/)|
 |[20231217](./202312/20231217.md) |LRUCache|
