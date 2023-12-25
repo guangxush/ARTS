@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231223](./202312/20231223.md) |[543. Diameter of Binary Tree(二叉树的直径)](https://leetcode.com/problems/diameter-of-binary-tree/)|
 |[20231222](./202312/20231222.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/)|
 |[20231221](./202312/20231221.md) |[113. Path Sum II(路径和2)](https://leetcode.com/problems/path-sum-ii/)|
 |[20231220](./202312/20231220.md) |[232. Implement Queue using Stacks(使用栈实现队列)](https://leetcode.com/problems/implement-queue-using-stacks/)|
