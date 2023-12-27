@@ -1,7 +1,9 @@
 | 标题 | Algorithm |
 | - | - |
-|[20231224](./202312/20231224.md) |[79. Word Search(单词搜索)](https://leetcode.com/problems/word-search/)|
-|[20231223](./202312/20231223.md) |[543. Diameter of Binary Tree(二叉树的直径)](https://leetcode.com/problems/diameter-of-binary-tree/)|
+|[20231228](./202312/20231228.md) |[82. Remove Duplicates from Sorted List II(移除链表中的重复元素2)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|
+|[20231227](./202312/20231227.md) |[83. Remove Duplicates from Sorted List(移除链表中的重复元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|
+|[20231226](./202312/20231226.md) |[79. Word Search(单词搜索)](https://leetcode.com/problems/word-search/)|
+|[20231225](./202312/20231225.md) |[543. Diameter of Binary Tree(二叉树的直径)](https://leetcode.com/problems/diameter-of-binary-tree/)|
 |[20231222](./202312/20231222.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/)|
 |[20231221](./202312/20231221.md) |[113. Path Sum II(路径和2)](https://leetcode.com/problems/path-sum-ii/)|
 |[20231220](./202312/20231220.md) |[232. Implement Queue using Stacks(使用栈实现队列)](https://leetcode.com/problems/implement-queue-using-stacks/)|
