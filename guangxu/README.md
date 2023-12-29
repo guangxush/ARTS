@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+|[20231230](./202312/20231230.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses)|
 |[20231229](./202312/20231229.md) |[128. Longest Consecutive Sequence(最长连续序列)](https://leetcode.com/problems/longest-consecutive-sequence/)|
 |[20231228](./202312/20231228.md) |[82. Remove Duplicates from Sorted List II(移除链表中的重复元素2)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|
 |[20231227](./202312/20231227.md) |[83. Remove Duplicates from Sorted List(移除链表中的重复元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|
