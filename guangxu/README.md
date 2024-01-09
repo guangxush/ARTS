@@ -1,5 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240522](./202405/20240522.md) |[78. Subsets(子集)](https://leetcode.com/problems/subsets/)|
+| [20240521](./202405/20240521.md) |[739. Daily Temperatures(每日温度)](https://leetcode.com/problems/daily-temperatures/)|
 | [20240520](./202405/20240520.md) |[94. Binary Tree Inorder Traversal(二叉树的中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 | [20240519](./202405/20240519.md) |[695. Max Area of Island(岛屿的最大面积)](https://leetcode.com/problems/max-area-of-island/)|
 | [20240518](./202405/20240518.md) |[200. Number of Islands(岛屿的数量)](https://leetcode.com/problems/number-of-islands/)|
