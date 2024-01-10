@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240523](./202405/20240523.md) |[24. Swap Nodes in Pairs(两两交换链表中的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
 | [20240522](./202405/20240522.md) |[78. Subsets(子集)](https://leetcode.com/problems/subsets/)|
 | [20240521](./202405/20240521.md) |[739. Daily Temperatures(每日温度)](https://leetcode.com/problems/daily-temperatures/)|
 | [20240520](./202405/20240520.md) |[94. Binary Tree Inorder Traversal(二叉树的中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
