@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240525](./202405/20240525.md) |[93. Restore IP Addresses(复原IP地址)](https://leetcode.com/problems/restore-ip-addresses/)|
 | [20240524](./202405/20240524.md) |[114. Flatten Binary Tree to Linked List(二叉树展开为链表)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|
 | [20240523](./202405/20240523.md) |[24. Swap Nodes in Pairs(两两交换链表中的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
 | [20240522](./202405/20240522.md) |[78. Subsets(子集)](https://leetcode.com/problems/subsets/)|
