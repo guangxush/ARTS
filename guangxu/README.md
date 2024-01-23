@@ -1,6 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
-| [20240605](./202405/20240605.md) |[328. Odd Even Linked List(奇偶链表)](https://leetcode.com/problems/odd-even-linked-list/)|
+| [20240606](./202406/20240606.md) |[460. LFU Cache(LFU缓存)](https://leetcode.com/problems/lfu-cache/)|
+| [20240605](./202406/20240605.md) |[328. Odd Even Linked List(奇偶链表)](https://leetcode.com/problems/odd-even-linked-list/)|
 | [20240526](./202405/20240526.md) |[440. K-th Smallest in Lexicographical Order(字典序的第K小数字)](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/)|
 | [20240525](./202405/20240525.md) |[93. Restore IP Addresses(复原IP地址)](https://leetcode.com/problems/restore-ip-addresses/)|
 | [20240524](./202405/20240524.md) |[114. Flatten Binary Tree to Linked List(二叉树展开为链表)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|
