@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240608](./202406/20240608.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)|
 | [20240607](./202406/20240607.md) |[64. Minimum Path Sum(最小路径和)](https://leetcode.com/problems/minimum-path-sum/description/)|
 | [20240606](./202406/20240606.md) |[460. LFU Cache(LFU缓存)](https://leetcode.com/problems/lfu-cache/)|
 | [20240605](./202406/20240605.md) |[328. Odd Even Linked List(奇偶链表)](https://leetcode.com/problems/odd-even-linked-list/)|
