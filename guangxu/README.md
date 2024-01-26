@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240609](./202406/20240609.md) |[226. Invert Binary Tree(翻转二叉树)](https://leetcode.com/problems/invert-binary-tree/)|
 | [20240608](./202406/20240608.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)|
 | [20240607](./202406/20240607.md) |[64. Minimum Path Sum(最小路径和)](https://leetcode.com/problems/minimum-path-sum/description/)|
 | [20240606](./202406/20240606.md) |[460. LFU Cache(LFU缓存)](https://leetcode.com/problems/lfu-cache/)|
