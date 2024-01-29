@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240615](./202406/20240615.md) |[209. Minimum Size Subarray Sum(最小子序列之和)](https://leetcode.com/problems/minimum-size-subarray-sum/)|
 | [20240609](./202406/20240609.md) |[226. Invert Binary Tree(翻转二叉树)](https://leetcode.com/problems/invert-binary-tree/)|
 | [20240608](./202406/20240608.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)|
 | [20240607](./202406/20240607.md) |[64. Minimum Path Sum(最小路径和)](https://leetcode.com/problems/minimum-path-sum/description/)|
