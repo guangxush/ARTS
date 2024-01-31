@@ -1,6 +1,8 @@
 | 标题 | Algorithm |
 | - | - |
-| [20240616](./202406/20240616.md) |[862. Shortest Subarray with Sum at Least K(和至少为 K 的最短子数组)](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|
+| [20240618](./202406/20240618.md) |[42. Trapping Rain Water(接雨水)](https://leetcode-cn.com/problems/trapping-rain-water)|
+| [20240617](./202406/20240617.md) |[11. Container With Most Water(盛最多水的容器)](https://leetcode.com/problems/container-with-most-water/)|
+| [20240616](./202406/20240616.md) |[862. Shortest Subarray with Sum at Least K(和至少为K的最短子数组)](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|
 | [20240615](./202406/20240615.md) |[209. Minimum Size Subarray Sum(长度最小的子数组)](https://leetcode.com/problems/minimum-size-subarray-sum/)|
 | [20240609](./202406/20240609.md) |[226. Invert Binary Tree(翻转二叉树)](https://leetcode.com/problems/invert-binary-tree/)|
 | [20240608](./202406/20240608.md) |[61. Rotate List(旋转链表)](https://leetcode.com/problems/rotate-list/)|
