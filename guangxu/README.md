@@ -1,5 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240620](./202406/20240620.md) |[81. Search in Rotated Sorted Array II(旋转数组的搜索2)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|
+| [20240619](./202406/20240619.md) |[33. Search in Rotated Sorted Array(旋转数组的搜索)](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 | [20240618](./202406/20240618.md) |[42. Trapping Rain Water(接雨水)](https://leetcode-cn.com/problems/trapping-rain-water)|
 | [20240617](./202406/20240617.md) |[11. Container With Most Water(盛最多水的容器)](https://leetcode.com/problems/container-with-most-water/)|
 | [20240616](./202406/20240616.md) |[862. Shortest Subarray with Sum at Least K(和至少为K的最短子数组)](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|
