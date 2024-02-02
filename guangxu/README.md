@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240621](./202406/20240621.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)|
 | [20240620](./202406/20240620.md) |[81. Search in Rotated Sorted Array II(旋转数组的搜索2)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|
 | [20240619](./202406/20240619.md) |[33. Search in Rotated Sorted Array(旋转数组的搜索)](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 | [20240618](./202406/20240618.md) |[42. Trapping Rain Water(接雨水)](https://leetcode-cn.com/problems/trapping-rain-water)|
