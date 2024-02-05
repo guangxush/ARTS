@@ -1,5 +1,8 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240703](./202407/20240703.md) |[496. Next Greater Element I(下一个更大的元素)](https://leetcode.com/problems/next-greater-element-i)|
+| [20240702](./202407/20240702.md) |[901. Online Stock Span(在线股票跨度)](https://leetcode.com/problems/online-stock-span)|
+| [20240701](./202407/20240701.md) |[739. Daily Temperatures(每日温度)](https://leetcode.com/problems/daily-temperatures)|
 | [20240630](./202406/20240630.md) |[199. Binary Tree Right Side View(二叉树的右视图)](https://leetcode.com/problems/binary-tree-right-side-view/)|
 | [20240621](./202406/20240621.md) |[31. Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/)|
 | [20240620](./202406/20240620.md) |[81. Search in Rotated Sorted Array II(旋转数组的搜索2)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|
