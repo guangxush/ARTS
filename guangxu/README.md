@@ -1,5 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240727](./202407/20240727.md) |[23. Merge k Sorted Lists(合并K个有序链表)](https://leetcode.com/problems/merge-k-sorted-lists/description/)|
+| [20240726](./202407/20240726.md) |[21. Merge Two Sorted Lists(合并2个有序链表)](https://leetcode.com/problems/merge-two-sorted-lists/)|
 | [20240706](./202407/20240706.md) |[143. Reorder List(重排链表)](https://leetcode.com/problems/reorder-list/description/)|
 | [20240705](./202407/20240705.md) |[54. Spiral Matrix(旋转矩阵)](https://leetcode.com/problems/spiral-matrix/)|
 | [20240703](./202407/20240703.md) |[496. Next Greater Element I(下一个更大的元素)](https://leetcode.com/problems/next-greater-element-i)|
