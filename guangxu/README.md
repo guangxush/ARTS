@@ -1,5 +1,8 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240730](./202407/20240730.md) |[560. Subarray Sum Equals K(和为K的子数组)](https://leetcode.com/problems/subarray-sum-equals-k/)|
+| [20240729](./202407/20240729.md) |[674. Longest Continuous Increasing Subsequence(最长连续递增子序列)](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|
+| [20240728](./202407/20240728.md) |[300. Longest Increasing Subsequence(最长递增子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)|
 | [20240727](./202407/20240727.md) |[23. Merge k Sorted Lists(合并K个有序链表)](https://leetcode.com/problems/merge-k-sorted-lists/description/)|
 | [20240726](./202407/20240726.md) |[21. Merge Two Sorted Lists(合并2个有序链表)](https://leetcode.com/problems/merge-two-sorted-lists/)|
 | [20240706](./202407/20240706.md) |[143. Reorder List(重排链表)](https://leetcode.com/problems/reorder-list/description/)|
