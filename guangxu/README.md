@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240809](./202407/20240809.md) |[977. Squares of a Sorted Array(有序数组的平方)](https://leetcode.com/problems/squares-of-a-sorted-array/)|
 | [20240730](./202407/20240730.md) |[560. Subarray Sum Equals K(和为K的子数组)](https://leetcode.com/problems/subarray-sum-equals-k/)|
 | [20240729](./202407/20240729.md) |[674. Longest Continuous Increasing Subsequence(最长连续递增子序列)](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|
 | [20240728](./202407/20240728.md) |[300. Longest Increasing Subsequence(最长递增子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)|
