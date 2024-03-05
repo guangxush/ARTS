@@ -1,5 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240823](./202408/20240823.md) |[887. Super Egg Drop(鸡蛋掉落)](https://leetcode.com/problems/super-egg-drop/description/)|
+| [20240821](./202408/20240821.md) |[71. Simplify Path(简化路径)](https://leetcode.com/problems/simplify-path/description/)|
 | [20240812](./202408/20240812.md) |[134. Gas Station(加油站)](https://leetcode.com/problems/gas-station/)|
 | [20240811](./202408/20240811.md) |[283. Move Zeroes(移动零)](https://leetcode.com/problems/move-zeroes/description/)|
 | [20240810](./202408/20240810.md) |[503. Next Greater Element II(下一个更大元素 II)](https://leetcode.com/problems/next-greater-element-ii/description/)|
