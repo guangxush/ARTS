@@ -1,5 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240825](./202408/20240825.md) |[1254. Number of Closed Islands(封闭岛屿的数量)](https://leetcode.com/problems/number-of-closed-islands/description/)|
+| [20240824](./202408/20240824.md) |[347. Top K Frequent Elements(前K个高频元素)](https://leetcode.com/problems/top-k-frequent-elements/description/)|
 | [20240823](./202408/20240823.md) |[887. Super Egg Drop(鸡蛋掉落)](https://leetcode.com/problems/super-egg-drop/description/)|
 | [20240821](./202408/20240821.md) |[71. Simplify Path(简化路径)](https://leetcode.com/problems/simplify-path/description/)|
 | [20240812](./202408/20240812.md) |[134. Gas Station(加油站)](https://leetcode.com/problems/gas-station/)|
