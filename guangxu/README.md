@@ -1,5 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240904](./202409/20240904.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/description)|
+| [20240903](./202409/20240903.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)|
 | [20240902](./202409/20240902.md) |[17. Letter Combinations of a Phone Number(电话号码的字母组合)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|
 | [20240901](./202409/20240901.md) |[125. Valid Palindrome(验证回文串)](https://leetcode.com/problems/valid-palindrome/)|
 | [20240831](./202408/20240831.md) |[523. Continuous Subarray Sum(连续的子数组和)](https://leetcode.com/problems/continuous-subarray-sum/)|
