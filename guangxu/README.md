@@ -1,5 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240906](./202409/20240906.md) |[51. N-Queens(N皇后)](https://leetcode.com/problems/n-queens/description)|
+| [20240905](./202409/20240905.md) |[46. Permutations(排列)](https://leetcode.com/problems/permutations/description/)|
 | [20240904](./202409/20240904.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/description)|
 | [20240903](./202409/20240903.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)|
 | [20240902](./202409/20240902.md) |[17. Letter Combinations of a Phone Number(电话号码的字母组合)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|
