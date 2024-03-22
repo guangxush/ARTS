@@ -1,5 +1,7 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240908](./202409/20240908.md) |[79. Word Search(单词查找)](https://leetcode.com/problems/word-search)|
+| [20240907](./202409/20240907.md) |[78. Subsets(子集)](https://leetcode.com/problems/subsets)|
 | [20240906](./202409/20240906.md) |[51. N-Queens(N皇后)](https://leetcode.com/problems/n-queens/description)|
 | [20240905](./202409/20240905.md) |[46. Permutations(排列)](https://leetcode.com/problems/permutations/description/)|
 | [20240904](./202409/20240904.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/description)|
