@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240912](./202409/20240912.md) |[33. Search in Rotated Sorted Array(旋转数组二分查找)](https://leetcode.com/problems/search-in-rotated-sorted-array)|
 | [20240911](./202409/20240911.md) |[4. Median of Two Sorted Arrays(两个排序数组的中位数)](https://leetcode.com/problems/median-of-two-sorted-arrays/)|
 | [20240909](./202409/20240909.md) |[131. Palindrome Partitioning(分割回文串)](https://leetcode.com/problems/palindrome-partitioning/description)|
 | [20240908](./202409/20240908.md) |[79. Word Search(单词查找)](https://leetcode.com/problems/word-search)|
