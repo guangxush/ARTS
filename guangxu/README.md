@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240913](./202409/20240913.md) |[34. Find First and Last Position of Element in Sorted Array(查找排序数组中元素的第一个和最后一个位置)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|
 | [20240912](./202409/20240912.md) |[33. Search in Rotated Sorted Array(旋转数组二分查找)](https://leetcode.com/problems/search-in-rotated-sorted-array)|
 | [20240911](./202409/20240911.md) |[4. Median of Two Sorted Arrays(两个排序数组的中位数)](https://leetcode.com/problems/median-of-two-sorted-arrays/)|
 | [20240909](./202409/20240909.md) |[131. Palindrome Partitioning(分割回文串)](https://leetcode.com/problems/palindrome-partitioning/description)|
