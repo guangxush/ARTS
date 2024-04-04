@@ -1,5 +1,9 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240919](./202409/20240919.md) |[98. Validate Binary Search Tree(有效的二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree)|
+| [20240918](./202409/20240918.md) |[94. Binary Tree Inorder Traversal(二叉树的中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal)|
+| [20240917](./202409/20240917.md) |[153. Find Minimum in Rotated Sorted Array(旋转排序数组中的最小值)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|
+| [20240916](./202409/20240916.md) |[124. Binary Tree Maximum Path Sum(二叉树的最大路径和)](https://leetcode.com/problems/binary-tree-maximum-path-sum/description)|
 | [20240915](./202409/20240915.md) |[74. Search a 2D Matrix(二维数组的查找)](https://leetcode.com/problems/search-a-2d-matrix/description/)|
 | [20240914](./202409/20240914.md) |[35. Search Insert Position(寻找插入的位置)](https://leetcode.com/problems/search-insert-position/)|
 | [20240913](./202409/20240913.md) |[34. Find First and Last Position of Element in Sorted Array(查找排序数组中元素的第一个和最后一个位置)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|
