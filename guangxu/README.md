@@ -1,5 +1,6 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240927](./202409/20240927.md) |[230. Kth Smallest Element in a BST(二叉搜索树的第K个最小元素)](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|
 | [20240926](./202409/20240926.md) |[226. Invert Binary Tree(旋转二叉树)](https://leetcode.com/problems/invert-binary-tree/description/)|
 | [20240925](./202409/20240925.md) |[199. Binary Tree Right Side View(二叉树的右视图)](https://leetcode.com/problems/binary-tree-right-side-view/description)|
 | [20240924](./202409/20240924.md) |[114. Flatten Binary Tree to Linked List(二叉树转换成单链表)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|
