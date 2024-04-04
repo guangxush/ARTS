@@ -1,5 +1,12 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240926](./202409/20240926.md) |[226. Invert Binary Tree(旋转二叉树)](https://leetcode.com/problems/invert-binary-tree/description/)|
+| [20240925](./202409/20240925.md) |[199. Binary Tree Right Side View(二叉树的右视图)](https://leetcode.com/problems/binary-tree-right-side-view/description)|
+| [20240924](./202409/20240924.md) |[114. Flatten Binary Tree to Linked List(二叉树转换成单链表)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|
+| [20240923](./202409/20240923.md) |[105. Construct Binary Tree from Preorder and Inorder Traversal(根据前序和中序构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|
+| [20240922](./202409/20240922.md) |[104. Maximum Depth of Binary Tree(二叉树的最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description)|
+| [20240921](./202409/20240921.md) |[102. Binary Tree Level Order Traversal(二叉树的层次遍历)](https://leetcode.com/problems/binary-tree-level-order-traversal/description)|
+| [20240920](./202409/20240920.md) |[101. Symmetric Tree(对称树)](https://leetcode.com/problems/symmetric-tree/description)|
 | [20240919](./202409/20240919.md) |[98. Validate Binary Search Tree(有效的二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree)|
 | [20240918](./202409/20240918.md) |[94. Binary Tree Inorder Traversal(二叉树的中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal)|
 | [20240917](./202409/20240917.md) |[153. Find Minimum in Rotated Sorted Array(旋转排序数组中的最小值)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|
