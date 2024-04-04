@@ -1,5 +1,8 @@
 | 标题 | Algorithm |
 | - | - |
+| [20240930](./202409/20240930.md) |[543. Diameter of Binary Tree(二叉树的直径)](https://leetcode.com/problems/diameter-of-binary-tree/)|
+| [20240929](./202409/20240929.md) |[437. Path Sum III(路径和3)](https://leetcode.com/problems/path-sum-iii/description)|
+| [20240928](./202409/20240928.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树的最近公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|
 | [20240927](./202409/20240927.md) |[230. Kth Smallest Element in a BST(二叉搜索树的第K个最小元素)](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|
 | [20240926](./202409/20240926.md) |[226. Invert Binary Tree(旋转二叉树)](https://leetcode.com/problems/invert-binary-tree/description/)|
 | [20240925](./202409/20240925.md) |[199. Binary Tree Right Side View(二叉树的右视图)](https://leetcode.com/problems/binary-tree-right-side-view/description)|
