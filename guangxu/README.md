@@ -1,5 +1,9 @@
 | 标题 | Algorithm |
 | - | - |
+| [20241004](./202410/20241004.md) |[64. Minimum Path Sum(最小路径和)](https://leetcode.com/problems/minimum-path-sum/description)|
+| [20241003](./202410/20241003.md) |[62. Unique Paths(不同的路径)](https://leetcode.com/problems/unique-paths/description)|
+| [20241002](./202410/20241002.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/description)|
+| [20241001](./202410/20241001.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/description)|
 | [20240930](./202409/20240930.md) |[543. Diameter of Binary Tree(二叉树的直径)](https://leetcode.com/problems/diameter-of-binary-tree/)|
 | [20240929](./202409/20240929.md) |[437. Path Sum III(路径和3)](https://leetcode.com/problems/path-sum-iii/description)|
 | [20240928](./202409/20240928.md) |[236. Lowest Common Ancestor of a Binary Tree(二叉树的最近公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|
