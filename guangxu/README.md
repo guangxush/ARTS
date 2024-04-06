@@ -1,5 +1,14 @@
 | 标题 | Algorithm |
 | - | - |
+| [20241028](./202410/20241028.md) |[142. Linked List Cycle II(环形链表2)](https://leetcode.com/problems/linked-list-cycle-ii/)|
+| [20241027](./202410/20241027.md) |[141. Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/description/)|
+| [20241026](./202410/20241026.md) |[138. Copy List with Random Pointer(带随机指针Copy链表)](https://leetcode.com/problems/copy-list-with-random-pointer)|
+| [20241025](./202410/20241025.md) |[25. Reverse Nodes in k-Group(K组反转链表)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|
+| [20241024](./202410/20241024.md) |[24. Swap Nodes in Pairs(两两交换链表的节点)](https://leetcode.com/problems/swap-nodes-in-pairs/)|
+| [20241023](./202410/20241023.md) |[23. Merge k Sorted Lists(合并K个有序链表)](https://leetcode.com/problems/merge-k-sorted-lists/)|
+| [20241022](./202410/20241022.md) |[21. Merge Two Sorted Lists(合并两个排序链表)](https://leetcode.com/problems/merge-two-sorted-lists/)|
+| [20241021](./202410/20241021.md) |[19. Remove Nth Node From End of List(移除链表中倒数第N个元素)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|
+| [20241020](./202410/20241020.md) |[2. Add Two Numbers(链表-两数相加)](https://leetcode.com/problems/add-two-numbers)|
 | [20241019](./202410/20241019.md) |[560. Subarray Sum Equals K(和为K的子数组)](https://leetcode.com/problems/subarray-sum-equals-k/description/)|
 | [20241018](./202410/20241018.md) |[128. Longest Consecutive Sequence(最长连续子序列)](https://leetcode.com/problems/longest-consecutive-sequence/)|
 | [20241017](./202410/20241017.md) |[49. Group Anagrams(字母异位词分组)](https://leetcode.com/problems/group-anagrams/description)|
