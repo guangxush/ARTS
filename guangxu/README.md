@@ -1,5 +1,23 @@
 | 标题 | Algorithm |
 | - | - |
+| [20241130](./202411/20241130.md) |[208. Implement Trie (Prefix Tree)(实现前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/)|
+| [20241129](./202411/20241129.md) |[283. Move Zeroes(移动零)](https://leetcode.com/problems/move-zeroes/)|
+| [20241128](./202411/20241128.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)|
+| [20241127](./202411/20241127.md) |[15. 3Sum(三数之和)](https://leetcode.com/problems/3sum/)|
+| [20241126](./202411/20241126.md) |[11. Container With Most Water(双指针-盛满水的最大容器)](https://leetcode.com/problems/container-with-most-water/)|
+| [20241125](./202411/20241125.md) |[739. Daily Temperatures(每日温度)](https://leetcode.com/problems/daily-temperatures/description/)|
+| [20241124](./202411/20241124.md) |[394. Decode String(解码字符串)](https://leetcode.com/problems/decode-string/description/)|
+| [20241123](./202411/20241123.md) |[155. Min Stack(最小栈)](https://leetcode.com/problems/min-stack/description/)|
+| [20241122](./202411/20241122.md) |[84. Largest Rectangle in Histogram(柱状图中的最大矩形)](https://leetcode.com/problems/largest-rectangle-in-histogram/)|
+| [20241121](./202411/20241121.md) |[20. Valid Parentheses(栈-有效括号匹配)](https://leetcode.com/problems/valid-parentheses/)|
+| [20241120](./202411/20241120.md) |[438. Find All Anagrams in a String(找出字符串中所有的变位词)](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|
+| [20241119](./202411/20241119.md) |[239. Sliding Window Maximum(滑动窗口最大值)](https://leetcode.com/problems/sliding-window-maximum/)|
+| [20241118](./202411/20241118.md) |[76. Minimum Window Substring(最小区间子串)](https://leetcode.com/problems/minimum-window-substring/description)|
+| [20241117](./202411/20241117.md) |[3. Longest Substring Without Repeating Characters(滑动窗口-无重复字符的最长子串)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+| [20241116](./202411/20241116.md) |[240. Search a 2D Matrix II(二维矩阵的查找)](https://leetcode.com/problems/search-a-2d-matrix-ii)|
+| [20241115](./202411/20241115.md) |[73. Set Matrix Zeroes(设置矩阵零)](https://leetcode.com/problems/set-matrix-zeroes/)|
+| [20241114](./202411/20241114.md) |[54. Spiral Matrix(螺旋矩阵)](https://leetcode.com/problems/spiral-matrix/description)|
+| [20241113](./202411/20241113.md) |[48. Rotate Image(矩阵-旋转图像)](https://leetcode.com/problems/rotate-image/description/)|
 | [20241112](./202411/20241112.md) |[347. Top K Frequent Elements(TopK个频率的元素)](https://leetcode.com/problems/top-k-frequent-elements/description)|
 | [20241111](./202411/20241111.md) |[295. Find Median from Data Stream(发现数据流中的中位数)](https://leetcode.com/problems/find-median-from-data-stream/)|
 | [20241110](./202411/20241110.md) |[215. Kth Largest Element in an Array(堆-数组中第K个最大元素)](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
