@@ -1,5 +1,15 @@
 | 标题 | Algorithm |
 | - | - |
+| [20241210](./202412/20241210.md) |[287. Find the Duplicate Number(发现重复出现的元素)](https://leetcode.com/problems/find-the-duplicate-number/)|
+| [20241209](./202412/20241209.md) |[238. Product of Array Except Self(除自身以外数组的乘积)](https://leetcode.com/problems/product-of-array-except-self)|
+| [20241208](./202412/20241208.md) |[189. Rotate Array(旋转数组)](https://leetcode.com/problems/rotate-array/description/)|
+| [20241207](./202412/20241207.md) |[169. Majority Element(主要元素)](https://leetcode.com/problems/majority-element)|
+| [20241206](./202412/20241206.md) |[136. Single Number(单一数字)](https://leetcode.com/problems/single-number/)|
+| [20241205](./202412/20241205.md) |[75. Sort Colors(三色排序)](https://leetcode.com/problems/sort-colors/description/)|
+| [20241204](./202412/20241204.md) |[56. Merge Intervals(区间交集)](https://leetcode.com/problems/merge-intervals/description/)|
+| [20241203](./202412/20241203.md) |[53. Maximum Subarray(最大子段和)](https://leetcode.com/problems/maximum-subarray/description/)|
+| [20241202](./202412/20241202.md) |[41. First Missing Positive(发现第一个缺失的正数)](https://leetcode.com/problems/first-missing-positive/)|
+| [20241201](./202412/20241201.md) |[31. Next Permutation(其他-下一个排列)](https://leetcode.com/problems/next-permutation/description/)|
 | [20241130](./202411/20241130.md) |[208. Implement Trie (Prefix Tree)(实现前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/)|
 | [20241129](./202411/20241129.md) |[283. Move Zeroes(移动零)](https://leetcode.com/problems/move-zeroes/)|
 | [20241128](./202411/20241128.md) |[42. Trapping Rain Water(接雨水)](https://leetcode.com/problems/trapping-rain-water/)|
