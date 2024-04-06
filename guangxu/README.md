@@ -1,7 +1,22 @@
 | 标题 | Algorithm |
 | - | - |
+| [20241019](./202410/20241019.md) |[560. Subarray Sum Equals K(和为K的子数组)](https://leetcode.com/problems/subarray-sum-equals-k/description/)|
+| [20241018](./202410/20241018.md) |[128. Longest Consecutive Sequence(最长连续子序列)](https://leetcode.com/problems/longest-consecutive-sequence/)|
+| [20241017](./202410/20241017.md) |[49. Group Anagrams(字母异位词分组)](https://leetcode.com/problems/group-anagrams/description)|
+| [20241016](./202410/20241016.md) |[1. Two Sum(哈希-两数之和)](https://leetcode.com/problems/two-sum/description/)|
+| [20241015](./202410/20241015.md) |[1143. Longest Common Subsequence(最长公共子序列)](https://leetcode.com/problems/longest-common-subsequence/)|
+| [20241014](./202410/20241014.md) |[416. Partition Equal Subset Sum(分割和相等的子数组)](https://leetcode.com/problems/partition-equal-subset-sum)|
+| [20241013](./202410/20241013.md) |[322. Coin Change(零钱兑换)](https://leetcode.com/problems/coin-change)|
+| [20241012](./202410/20241012.md) |[300. Longest Increasing Subsequence(最长递增子序列)](https://leetcode.com/problems/longest-increasing-subsequence/)|
+| [20241011](./202410/20241011.md) |[279. Perfect Squares(完美正方形)](https://leetcode.com/problems/perfect-squares/description/)|
+| [20241010](./202410/20241010.md) |[198. House Robber(打家劫舍)](https://leetcode.com/problems/house-robber/description)|
+| [20241009](./202410/20241009.md) |[152. Maximum Product Subarray(乘积最大的子数组)](https://leetcode.com/problems/maximum-product-subarray/)|
+| [20241008](./202410/20241008.md) |[139. Word Break(单词拆分)](https://leetcode.com/problems/word-break/)|
+| [20241007](./202410/20241007.md) |[118. Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/description)|
+| [20241006](./202410/20241006.md) |[72. Edit Distance(编辑距离)](https://leetcode.com/problems/edit-distance/)|
+| [20241005](./202410/20241005.md) |[70. Climbing Stairs(爬梯子)](https://leetcode.com/problems/climbing-stairs/description/)|
 | [20241004](./202410/20241004.md) |[64. Minimum Path Sum(最小路径和)](https://leetcode.com/problems/minimum-path-sum/description)|
-| [20241003](./202410/20241003.md) |[62. Unique Paths(不同的路径)](https://leetcode.com/problems/unique-paths/description)|
+| [20241003](./202410/20241003.md) |[62. Unique Paths(动态规划-不同的路径)](https://leetcode.com/problems/unique-paths/description)|
 | [20241002](./202410/20241002.md) |[32. Longest Valid Parentheses(最长有效括号)](https://leetcode.com/problems/longest-valid-parentheses/description)|
 | [20241001](./202410/20241001.md) |[5. Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/description)|
 | [20240930](./202409/20240930.md) |[543. Diameter of Binary Tree(二叉树的直径)](https://leetcode.com/problems/diameter-of-binary-tree/)|
@@ -18,20 +33,20 @@
 | [20240919](./202409/20240919.md) |[98. Validate Binary Search Tree(有效的二叉搜索树)](https://leetcode.com/problems/validate-binary-search-tree)|
 | [20240918](./202409/20240918.md) |[94. Binary Tree Inorder Traversal(二叉树的中序遍历)](https://leetcode.com/problems/binary-tree-inorder-traversal)|
 | [20240917](./202409/20240917.md) |[153. Find Minimum in Rotated Sorted Array(旋转排序数组中的最小值)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|
-| [20240916](./202409/20240916.md) |[124. Binary Tree Maximum Path Sum(二叉树的最大路径和)](https://leetcode.com/problems/binary-tree-maximum-path-sum/description)|
+| [20240916](./202409/20240916.md) |[124. Binary Tree Maximum Path Sum(二叉树-二叉树的最大路径和)](https://leetcode.com/problems/binary-tree-maximum-path-sum/description)|
 | [20240915](./202409/20240915.md) |[74. Search a 2D Matrix(二维数组的查找)](https://leetcode.com/problems/search-a-2d-matrix/description/)|
 | [20240914](./202409/20240914.md) |[35. Search Insert Position(寻找插入的位置)](https://leetcode.com/problems/search-insert-position/)|
 | [20240913](./202409/20240913.md) |[34. Find First and Last Position of Element in Sorted Array(查找排序数组中元素的第一个和最后一个位置)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|
 | [20240912](./202409/20240912.md) |[33. Search in Rotated Sorted Array(旋转数组二分查找)](https://leetcode.com/problems/search-in-rotated-sorted-array)|
 | [20240911](./202409/20240911.md) |[4. Median of Two Sorted Arrays(两个排序数组的中位数)](https://leetcode.com/problems/median-of-two-sorted-arrays/)|
 | [20240909](./202409/20240909.md) |[131. Palindrome Partitioning(分割回文串)](https://leetcode.com/problems/palindrome-partitioning/description)|
-| [20240908](./202409/20240908.md) |[79. Word Search(单词查找)](https://leetcode.com/problems/word-search)|
+| [20240908](./202409/20240908.md) |[79. Word Search(二分查找-单词查找)](https://leetcode.com/problems/word-search)|
 | [20240907](./202409/20240907.md) |[78. Subsets(子集)](https://leetcode.com/problems/subsets)|
 | [20240906](./202409/20240906.md) |[51. N-Queens(N皇后)](https://leetcode.com/problems/n-queens/description)|
 | [20240905](./202409/20240905.md) |[46. Permutations(排列)](https://leetcode.com/problems/permutations/description/)|
 | [20240904](./202409/20240904.md) |[39. Combination Sum(组合总和)](https://leetcode.com/problems/combination-sum/description)|
 | [20240903](./202409/20240903.md) |[22. Generate Parentheses(生成括号)](https://leetcode.com/problems/generate-parentheses/)|
-| [20240902](./202409/20240902.md) |[17. Letter Combinations of a Phone Number(电话号码的字母组合)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|
+| [20240902](./202409/20240902.md) |[17. Letter Combinations of a Phone Number(回溯法-电话号码的字母组合)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|
 | [20240901](./202409/20240901.md) |[125. Valid Palindrome(验证回文串)](https://leetcode.com/problems/valid-palindrome/)|
 | [20240831](./202408/20240831.md) |[523. Continuous Subarray Sum(连续的子数组和)](https://leetcode.com/problems/continuous-subarray-sum/)|
 | [20240825](./202408/20240825.md) |[1254. Number of Closed Islands(封闭岛屿的数量)](https://leetcode.com/problems/number-of-closed-islands/description/)|
