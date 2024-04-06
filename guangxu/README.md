@@ -1,5 +1,20 @@
 | 标题 | Algorithm |
 | - | - |
+| [20241112](./202411/20241112.md) |[347. Top K Frequent Elements(TopK个频率的元素)](https://leetcode.com/problems/top-k-frequent-elements/description)|
+| [20241111](./202411/20241111.md) |[295. Find Median from Data Stream(发现数据流中的中位数)](https://leetcode.com/problems/find-median-from-data-stream/)|
+| [20241110](./202411/20241110.md) |[215. Kth Largest Element in an Array(堆-数组中第K个最大元素)](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
+| [20241109](./202411/20241109.md) |[763. Partition Labels(划分区间)](https://leetcode.com/problems/partition-labels/description/)|
+| [20241108](./202411/20241108.md) |[121. Best Time to Buy and Sell Stock(买卖股票的最佳时机)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
+| [20241107](./202411/20241107.md) |[55. Jump Game(跳跃游戏)](https://leetcode.com/problems/jump-game/)|
+| [20241106](./202411/20241106.md) |[45. Jump Game II(贪心算法-跳跃游戏2)](https://leetcode.com/problems/jump-game-ii/)|
+| [20241105](./202411/20241105.md) |[994. Rotting Oranges(腐烂的橘子)](https://leetcode.com/problems/rotting-oranges/description/)|
+| [20241104](./202411/20241104.md) |[207. Course Schedule(课程计划)](https://leetcode.com/problems/course-schedule/)|
+| [20241103](./202411/20241103.md) |[200. Number of Islands(图-岛屿的数量)](https://leetcode.com/problems/number-of-islands/)|
+| [20241102](./202411/20241102.md) |[234. Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/description)|
+| [20241101](./202411/20241101.md) |[206. Reverse Linked List(反转链表)](https://leetcode.com/problems/reverse-linked-list/description/)|
+| [20241031](./202410/20241031.md) |[160. Intersection of Two Linked Lists(两个链表的交集)](https://leetcode.com/problems/intersection-of-two-linked-lists/)|
+| [20241030](./202410/20241030.md) |[148. Sort List(链表排序)](https://leetcode.com/problems/sort-list/)|
+| [20241029](./202410/20241029.md) |[146. LRU Cache(LRU缓存)](https://leetcode.com/problems/lru-cache/description/)|
 | [20241028](./202410/20241028.md) |[142. Linked List Cycle II(环形链表2)](https://leetcode.com/problems/linked-list-cycle-ii/)|
 | [20241027](./202410/20241027.md) |[141. Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/description/)|
 | [20241026](./202410/20241026.md) |[138. Copy List with Random Pointer(带随机指针Copy链表)](https://leetcode.com/problems/copy-list-with-random-pointer)|
